@@ -48,7 +48,8 @@ export type HandbookBodyBlock =
   | { readonly qtable: readonly (readonly [string, string])[] }
   | { readonly bands: readonly (readonly [string, string])[] }
   | { readonly charts: readonly ChartKey[] }
-  | { readonly interactive: 'sine' | 'wave' };
+  | { readonly tip: string }
+  | { readonly interactive: 'sine' | 'wave' | 'ohm-basics' | 'ohm-circuits' | 'ohm-exercise' | 'lc-lab' | 'wavelength' | 'rectifier' | 'q-quiz' | 'band-quiz' | 'superhet' | 'swr' };
 
 export type HandbookSection = {
   readonly id: string;

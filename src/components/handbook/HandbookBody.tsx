@@ -1,5 +1,13 @@
 import { renderChart } from '@/components/charts/ChartRenderer';
+import { InteractiveBandQuiz, InteractiveQQuiz } from '@/components/handbook/HandbookQuiz';
 import { InteractiveSine } from '@/components/handbook/HandbookInteractive';
+import { InteractiveLcLab } from '@/components/handbook/InteractiveLcLab';
+import { InteractiveOhmBasics, InteractiveOhmCircuits } from '@/components/handbook/InteractiveOhmLab';
+import { InteractiveOhmExercise } from '@/components/handbook/InteractiveOhmExercise';
+import { InteractiveRectifier } from '@/components/handbook/InteractiveRectifier';
+import { InteractiveSuperhet } from '@/components/handbook/InteractiveSuperhet';
+import { InteractiveSwr } from '@/components/handbook/InteractiveSwr';
+import { InteractiveWavelength } from '@/components/handbook/InteractiveWavelength';
 import type { HandbookBodyBlock } from '@/types/domain';
 
 type HandbookBodyProps = {
@@ -62,8 +70,25 @@ export function HandbookBody({ body }: HandbookBodyProps) {
             </div>
           );
         }
+        if ('tip' in blk) {
+          return (
+            <aside key={i} className="rk-tip">
+              {blk.tip}
+            </aside>
+          );
+        }
         if ('interactive' in blk) {
           if (blk.interactive === 'sine') return <InteractiveSine key={i} />;
+          if (blk.interactive === 'ohm-basics') return <InteractiveOhmBasics key={i} />;
+          if (blk.interactive === 'ohm-circuits') return <InteractiveOhmCircuits key={i} />;
+          if (blk.interactive === 'ohm-exercise') return <InteractiveOhmExercise key={i} />;
+          if (blk.interactive === 'lc-lab') return <InteractiveLcLab key={i} />;
+          if (blk.interactive === 'wavelength') return <InteractiveWavelength key={i} />;
+          if (blk.interactive === 'rectifier') return <InteractiveRectifier key={i} />;
+          if (blk.interactive === 'q-quiz') return <InteractiveQQuiz key={i} />;
+          if (blk.interactive === 'band-quiz') return <InteractiveBandQuiz key={i} />;
+          if (blk.interactive === 'superhet') return <InteractiveSuperhet key={i} />;
+          if (blk.interactive === 'swr') return <InteractiveSwr key={i} />;
           if (blk.interactive === 'wave') {
             return (
               <div key={i} className="rk-interactive">

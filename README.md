@@ -43,3 +43,7 @@ src/lib/adaptive/    — czysta logika modelu Bayesa
 src/lib/state/       — reducer stanu uczenia
 src/__tests__/       — testy jednostkowe i komponentów
 ```
+
+## Licencja
+
+[MIT](LICENSE) — możesz kopiować, modyfikować i rozpowszechniać kod, pod warunkiem zachowania informacji o prawach autorskich.
