@@ -22,7 +22,7 @@ export function MasteryBars({ items }: MasteryBarsProps) {
   const h = top + items.length * (bh + gap);
 
   return (
-    <ChartFrame title="Biegłość wg tematów (średnia ± odchylenie tylnego rozkładu Beta)" w={w} h={h}>
+    <ChartFrame w={w} h={h}>
       {items.map((it, i) => {
         const y = top + i * (bh + gap);
         const x0 = xL;

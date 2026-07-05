@@ -22,7 +22,7 @@ export function WeightBars({ items }: WeightBarsProps) {
   const max = Math.max(...items.map((i) => i.wt), 0.001);
 
   return (
-    <ChartFrame title="Priorytet losowania tematów (E[Dirichlet]) — trudniejsze losowane częściej" w={w} h={h}>
+    <ChartFrame w={w} h={h}>
       {items.map((it, i) => {
         const y = top + i * (bh + gap);
         const bw = ((xR - xL) * it.wt) / max;

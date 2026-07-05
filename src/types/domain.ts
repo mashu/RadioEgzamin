@@ -48,7 +48,7 @@ export type HandbookBodyBlock =
   | { readonly qtable: readonly (readonly [string, string])[] }
   | { readonly bands: readonly (readonly [string, string])[] }
   | { readonly charts: readonly ChartKey[] }
-  | { readonly interactive: 'sine' | 'beta' | 'wave' };
+  | { readonly interactive: 'sine' | 'wave' };
 
 export type HandbookSection = {
   readonly id: string;
@@ -61,4 +61,5 @@ export type AppMode = 'exam' | 'book';
 
 export type ModelAction =
   | { readonly type: 'answer'; readonly id: string; readonly topic: TopicId; readonly correct: boolean }
-  | { readonly type: 'resetModel' };
+  | { readonly type: 'resetModel' }
+  | { readonly type: 'hydrate'; readonly state: ModelState };

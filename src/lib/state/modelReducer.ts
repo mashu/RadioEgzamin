@@ -27,5 +27,6 @@ export function modelReducer(state: ModelState, action: ModelAction): ModelState
     };
   }
   if (action.type === 'resetModel') return initModelState();
+  if (action.type === 'hydrate') return action.state;
   return state;
 }

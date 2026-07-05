@@ -1,6 +1,6 @@
 # Radio Egzamin
 
-Interaktywny trener egzaminacyjny dla **świadectwa operatora klasy A** (UKE) — adaptacyjny egzamin i podręcznik w jednej aplikacji.
+Egzamin i podręcznik do **świadectwa operatora klasy A** (UKE) — adaptacyjny dobór pytań i materiały do nauki w jednej aplikacji.
 
 ## Funkcje
 

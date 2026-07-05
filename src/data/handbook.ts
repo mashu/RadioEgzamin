@@ -129,14 +129,4 @@ export const HANDBOOK = [
       ]},
     ],
   },
-  {
-    id: "h-bayes", topic: "elektro", title: "Jak działa adaptacyjny dobór pytań (model Bayesa)",
-    body: [
-      { p: "Ten trener nie losuje pytań na ślepo. Dla każdego pytania utrzymuje rozkład Beta(α, β) opisujący Twoje prawdopodobieństwo poprawnej odpowiedzi. Dobra odpowiedź zwiększa α, błędna β. Średnia rozkładu, α/(α+β), to bieżąca ocena Twojej „biegłości”, a jego szerokość — niepewność tej oceny." },
-      { p: "Model jest hierarchiczny. Każdy temat ma własny rozkład, a priory pojedynczych pytań są ściągane do średniej tematu (partial pooling). Dzięki temu, gdy mylisz się w danym temacie, także nowe, jeszcze niezadane pytania z tego tematu startują jako „trudniejsze”." },
-      { p: "Wybór tematu odbywa się przez próbkowanie z rozkładu Dirichleta (Thompson): porażki zwiększają masę tematu, więc częściej wraca on w losowaniu — ale baza γ₀ sprawia, że żaden temat nigdy nie znika. Wewnątrz tematu próbkujemy θ ~ Beta dla każdego pytania i wybieramy najniższe θ (najtrudniejsze). Wariancja rozkładu Beta gwarantuje, że pytania dobrze opanowane wciąż bywają losowane — trudne częściej, łatwe rzadziej, ale nigdy z wykluczeniem." },
-      { p: "W obrębie jednej sesji losujemy bez zwracania: raz odpowiedziane pytanie nie wraca. Suwaki poniżej pokazują, jak kształt rozkładu Beta zmienia się z liczbą trafień i pomyłek." },
-      { interactive: "beta" },
-    ],
-  },
 ] as const satisfies readonly HandbookSection[];

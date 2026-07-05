@@ -18,7 +18,7 @@ export function AppHeader({ mode, onModeChange }: AppHeaderProps) {
         <div>
           <div className="rk-eyebrow">UKE · Służba radiokomunikacyjna amatorska</div>
           <h1 className="rk-title">
-            Świadectwo klasy A <span className="rk-title-sub">· trener egzaminacyjny</span>
+            Świadectwo klasy A <span className="rk-title-sub">· egzamin i podręcznik</span>
           </h1>
         </div>
       </div>

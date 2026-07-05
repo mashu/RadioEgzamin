@@ -40,8 +40,6 @@ html, body, .rk-app {
 .rk-mode.is-on { background:var(--surface); color:var(--ink); box-shadow:0 1px 3px rgba(21,35,46,.12); }
 
 .rk-main { padding:clamp(16px,3vw,32px); max-width:1180px; margin:0 auto; }
-.rk-footer { max-width:1180px; margin:0 auto; padding:8px clamp(16px,3vw,32px) 32px; font-size:12px; }
-
 /* cards */
 .rk-card { background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
   padding:clamp(18px,2.4vw,26px); box-shadow:0 1px 2px rgba(21,35,46,.04); }
@@ -136,6 +134,14 @@ html, body, .rk-app {
 .rk-qrow code { color:var(--signal); font-weight:700; font-size:14px; flex:0 0 66px; }
 .rk-qrow span { font-size:13.5px; color:#2b3b46; }
 .rk-bands .rk-qrow code { flex:0 0 52px; color:var(--amber); }
+
+.rk-dept-list { display:flex; flex-direction:column; gap:8px; margin:12px 0 16px; }
+.rk-dept { display:flex; align-items:center; gap:10px; padding:10px 12px; border:1.5px solid var(--line);
+  border-radius:10px; cursor:pointer; font-size:14px; background:var(--panel); transition:border-color .15s, background .15s; }
+.rk-dept input { accent-color:var(--signal); }
+.rk-dept.is-on { border-color:var(--signal); background:#f2fafb; }
+.rk-dept-progress { display:flex; flex-direction:column; gap:8px; margin-top:10px; }
+.rk-dept-progress-row { display:flex; justify-content:space-between; gap:12px; font-size:13.5px; color:#2b3b46; }
 
 /* focus */
 .rk-app button:focus-visible, .rk-app input:focus-visible {

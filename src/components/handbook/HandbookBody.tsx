@@ -1,5 +1,5 @@
 import { renderChart } from '@/components/charts/ChartRenderer';
-import { InteractiveBeta, InteractiveSine } from '@/components/handbook/HandbookInteractive';
+import { InteractiveSine } from '@/components/handbook/HandbookInteractive';
 import type { HandbookBodyBlock } from '@/types/domain';
 
 type HandbookBodyProps = {
@@ -64,7 +64,6 @@ export function HandbookBody({ body }: HandbookBodyProps) {
         }
         if ('interactive' in blk) {
           if (blk.interactive === 'sine') return <InteractiveSine key={i} />;
-          if (blk.interactive === 'beta') return <InteractiveBeta key={i} />;
           if (blk.interactive === 'wave') {
             return (
               <div key={i} className="rk-interactive">

@@ -1,6 +1,15 @@
 import { BetaChart } from '@/components/charts/BetaChart';
 import { MasteryBars, type MasteryBarItem } from '@/components/charts/MasteryBars';
 import { WeightBars, type WeightBarItem } from '@/components/charts/WeightBars';
+import type { DepartmentId } from '@/data/departments';
+import type { ReactNode } from 'react';
+
+type DepartmentProgressItem = {
+  readonly id: DepartmentId;
+  readonly label: string;
+  readonly done: number;
+  readonly total: number;
+};
 
 type ExamDashboardProps = {
   readonly done: number;
@@ -10,6 +19,8 @@ type ExamDashboardProps = {
   readonly currentBeta: { readonly a: number; readonly b: number } | null;
   readonly masteryBars: readonly MasteryBarItem[];
   readonly weightBars: readonly WeightBarItem[];
+  readonly departmentProgress: readonly DepartmentProgressItem[];
+  readonly departmentPicker: ReactNode;
   readonly onResetModel: () => void;
 };
 
@@ -21,10 +32,14 @@ export function ExamDashboard({
   currentBeta,
   masteryBars,
   weightBars,
+  departmentProgress,
+  departmentPicker,
   onResetModel,
 }: ExamDashboardProps) {
   return (
     <aside className="rk-dash">
+      {departmentPicker}
+
       <div className="rk-card">
         <span className="rk-eyebrow">pulpit sesji</span>
         <div className="rk-stats">
@@ -44,9 +59,25 @@ export function ExamDashboard({
           </div>
         </div>
         <div className="rk-progress">
-          <div className="rk-progress-fill" style={{ width: `${(done / total) * 100}%` }} />
+          <div className="rk-progress-fill" style={{ width: total ? `${(done / total) * 100}%` : '0%' }} />
         </div>
       </div>
+
+      {departmentProgress.length > 0 ? (
+        <div className="rk-card">
+          <span className="rk-eyebrow">postęp wg działów</span>
+          <div className="rk-dept-progress">
+            {departmentProgress.map((item) => (
+              <div key={item.id} className="rk-dept-progress-row">
+                <span>{item.label}</span>
+                <span className="rk-mono">
+                  {item.done}/{item.total}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      ) : null}
 
       {currentBeta ? (
         <div className="rk-card">
