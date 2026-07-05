@@ -35,6 +35,7 @@ export function ExamQuestionCard({
         </span>
       </div>
       <h2 className="rk-qtext">{question.q}</h2>
+      {question.x ? <div className="rk-qdiagram">{renderChart(question.x)}</div> : null}
       <div className="rk-options">
         {question.o.map((opt, i) => {
           const letter = 'ABC'[i] ?? '?';

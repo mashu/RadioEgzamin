@@ -1,12 +1,10 @@
 import { QUESTIONS } from '@/data/questions';
 import {
-  DEPARTMENT_TOPICS,
   QUESTIONS_PER_DEPARTMENT,
-  departmentForTopic,
   type DepartmentId,
 } from '@/data/departments';
 import { selectNext } from '@/lib/adaptive/engine';
-import type { ModelState, Question, TopicId } from '@/types/domain';
+import type { ModelState, Question } from '@/types/domain';
 
 export type SessionPlan = {
   readonly departments: readonly DepartmentId[];
@@ -15,8 +13,7 @@ export type SessionPlan = {
 };
 
 export function questionsInDepartment(departmentId: DepartmentId): readonly Question[] {
-  const topics = new Set<TopicId>(DEPARTMENT_TOPICS[departmentId]);
-  return QUESTIONS.filter((q) => topics.has(q.topic));
+  return QUESTIONS.filter((q) => q.department === departmentId);
 }
 
 export function targetCountForDepartment(departmentId: DepartmentId): number {
@@ -79,7 +76,7 @@ export function perDepartmentCounts(
   const counts = {} as Record<DepartmentId, number>;
   for (const id of departments) counts[id] = 0;
   for (const q of queue) {
-    const dept = departmentForTopic(q.topic);
+    const dept = q.department;
     if (dept in counts) counts[dept]++;
   }
   return counts;

@@ -1,0 +1,802 @@
+[
+  {
+    "id": "be-001",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 1,
+      "total": 40
+    },
+    "q": "Resuscytacja krążeniowo-oddechowa u osoby dorosłej, bez widocznych obrażeń ciała, powinna być wykonywana w stosunku (w uzasadnionych przypadkach uzasadniona jest resuscytacja bez wdechów):",
+    "o": [
+      "30 uciśnięć klatki piersiowej na 2 wdechy",
+      "20 uciśnięć klatki piersiowej na 4 wdechy",
+      "15 uciśnięć klatki piersiowej na 6 wdechów"
+    ],
+    "a": 0,
+    "e": "Poprawna odpowiedź: „30 uciśnięć klatki piersiowej na 2 wdechy”.",
+    "verified": true
+  },
+  {
+    "id": "be-002",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 2,
+      "total": 40
+    },
+    "q": "Które z poniższych środków ostrożności należy podjąć podczas pomiaru wysokiego napięcia za pomocą woltomierza?",
+    "o": [
+      "upewnij się, że woltomierz ma bardzo niską impedancję",
+      "upewnij się, że woltomierz i przewody są przystosowane do użytku przy spodziewanych poziomach napięć",
+      "upewnij się, że obwód jest uziemiony przez woltomierz"
+    ],
+    "a": 1,
+    "e": "Przy wysokim napięciu miernik i przewody muszą być do niego przystosowane.",
+    "verified": true
+  },
+  {
+    "id": "be-003",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 3,
+      "total": 40
+    },
+    "q": "Które z poniższych twierdzeń jest prawdziwe w przypadku wykonywania instalacji odgromowej?",
+    "o": [
+      "należy używać jedynie izolowanych przewodów",
+      "należy używać jedynie stalowych przewodów i zwodów",
+      "należy unikać wszelkich ostrych krawędzi i zakrętów"
+    ],
+    "a": 2,
+    "e": "Instalacja odgromowa wymaga łagodnych promieniowań, bez ostrych zakrętów.",
+    "verified": true
+  },
+  {
+    "id": "be-004",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 4,
+      "total": 40
+    },
+    "q": "Jakie oznaczenie na rękojeści narzędzia ma istotne znaczenie przy pracach elektrycznych?",
+    "o": [
+      "rodzaj zastosowanej izolacji",
+      "model narzędzia",
+      "dopuszczalne napięcie pracy"
+    ],
+    "a": 2,
+    "e": "Na narzędziach izolowanych podaje się dopuszczalne napięcie pracy.",
+    "verified": true
+  },
+  {
+    "id": "be-005",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 5,
+      "total": 40
+    },
+    "q": "Dlaczego stosuje się ograniczenia w przebywaniu (zamieszkaniu) w bezpośrednim sąsiedztwie dużych obiektów nadawczych radiowych i telewizyjnych?",
+    "o": [
+      "ze względu na wyładowania atmosferyczne",
+      "ze względu na duże natężenie pola elektromagnetycznego mogące mieć negatywny wpływ na zdrowie",
+      "ze względu na możliwość przewrócenia się masztu"
+    ],
+    "a": 1,
+    "e": "Duże natężenie pola EM w pobliżu nadajników może negatywnie wpływać na zdrowie.",
+    "verified": true
+  },
+  {
+    "id": "be-006",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 6,
+      "total": 40
+    },
+    "q": "Czy wolno wykonywać prace antenowe przy włączonym nadajniku?",
+    "o": [
+      "wolno, bez żadnych ograniczeń",
+      "wolno, ale tylko przy małych mocach nadajnika",
+      "kategorycznie nie wolno urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "a": 2,
+    "e": "Prace antenowe przy włączonym nadajniku są zabronione ze względów bezpieczeństwa.",
+    "verified": true
+  },
+  {
+    "id": "be-007",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 7,
+      "total": 40
+    },
+    "q": "Na polu antenowym mamy kilka anten na różne pasma. Czy można regulować nieczynne anteny, jeżeli obok pracuje na podobnej antenie nadajnik KF?",
+    "o": [
+      "nie wolno",
+      "można",
+      "można, ale tylko gdy nadajnik ten pracuje z małą mocą"
+    ],
+    "a": 0,
+    "e": "Nie wolno regulować nieczynnych anten, gdy obok pracuje nadajnik.",
+    "verified": true
+  },
+  {
+    "id": "be-008",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 8,
+      "total": 40
+    },
+    "q": "Spełnienie jakich warunków konstrukcyjnych ogranicza przedostawanie się energii w.cz. niepożądanymi drogami?",
+    "o": [
+      "dobre uziemienie i szczelność ekranowania",
+      "filtrowany zasilacz",
+      "odpowiedni przekrój kabla sieciowego"
+    ],
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dobre uziemienie i szczelność ekranowania”.",
+    "verified": true
+  },
+  {
+    "id": "be-009",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 9,
+      "total": 40
+    },
+    "q": "Czy źle wykonany uziom może być przyczyną szkodliwego promieniowania w.cz.?",
+    "o": [
+      "nie",
+      "tak",
+      "nie zawsze"
+    ],
+    "a": 1,
+    "e": "Źle wykonany uziom może powodować niepożądane promieniowanie w.cz.",
+    "verified": true
+  },
+  {
+    "id": "be-010",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 10,
+      "total": 40
+    },
+    "q": "Jakie niebezpieczeństwo grozi, gdy trzymamy w rękach naładowany kondensator elektrolityczny?",
+    "o": [
+      "porażenie prądem elektrycznym",
+      "nie ma żadnego niebezpieczeństwa",
+      "implozja kondensatora"
+    ],
+    "a": 0,
+    "e": "Duży kondensator (np. w zasilaczu) przechowuje ładunek długo po wyłączeniu i może porazić.\nPrzed pracą rozładuj kondensatory przez opornik; w zasilaczach służy do tego opornik upływowy (bleeder).",
+    "verified": true
+  },
+  {
+    "id": "be-011",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 11,
+      "total": 40
+    },
+    "q": "Czy zwarcie drutem biegunów akumulatora o napięciu 12V może być niebezpieczne?",
+    "o": [
+      "nie ma żadnego zagrożenia",
+      "tak, może spowodować pożar lub poparzenie",
+      "tak, może spowodować porażenie prądem"
+    ],
+    "a": 1,
+    "e": "Zwarcie akumulatora może spowodować pożar lub poparzenie.",
+    "verified": true
+  },
+  {
+    "id": "be-012",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 12,
+      "total": 40
+    },
+    "q": "Czy kondensator elektrolityczny musi mieć napięcie pracy równe lub większe niż napięcie występujące w układzie w jakim pracuje?",
+    "o": [
+      "napięcie pracy kondensatora nie ma znaczenia",
+      "musi, ale tylko w przypadku, gdy są to napięcia stałe",
+      "koniecznie, gdyż może ulec zniszczeniu urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "a": 2,
+    "e": "Kondensator musi mieć napięcie pracy co najmniej równe napięciu w układzie.",
+    "verified": true
+  },
+  {
+    "id": "be-013",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 13,
+      "total": 40
+    },
+    "q": "Czym grozi dotknięcie uszkodzonego fidera zasilającego antenę na pasmo 2 m mocą 100 W?",
+    "o": [
+      "poparzeniem",
+      "skurczami mięśni od porażenia prądem",
+      "uszkodzeniem nadajnika"
+    ],
+    "a": 1,
+    "e": "Uszkodzony fider przy mocy 100 W grozi porażeniem prądem.",
+    "verified": true
+  },
+  {
+    "id": "be-014",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 14,
+      "total": 40
+    },
+    "q": "Czy sztuczne obciążenie w postaci rezystora bezindukcyjnego powinno być ekranowane?",
+    "o": [
+      "tak",
+      "tak, ale tylko w przypadku użycia dużych mocy",
+      "nie"
+    ],
+    "a": 2,
+    "e": "Typowe obciążenie 50 Ω nie wymaga ekranowania.",
+    "verified": true
+  },
+  {
+    "id": "be-015",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 15,
+      "total": 40
+    },
+    "q": "Dlaczego nie należy od razu uruchamiać urządzenia po przeniesieniu z zimnego pomieszczenia do ciepłego?",
+    "o": [
+      "nie ma przeciwwskazań",
+      "ze względu na możliwość wystąpienia kondensacji pary wodnej",
+      "ze względu na możliwość wystąpienia napięcia na kondensatorach"
+    ],
+    "a": 1,
+    "e": "Kondensacja pary wodnej po przeniesieniu grozi uszkodzeniem układu.",
+    "verified": true
+  },
+  {
+    "id": "be-016",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 16,
+      "total": 40
+    },
+    "q": "Czy plastikowa obudowa urządzenia nadawczego stanowi odpowiednie zabezpieczenie przed oddziaływaniem energii w.cz.?",
+    "o": [
+      "jest to wystarczające zabezpieczenie przed energią w.cz.",
+      "urządzenia tego używa się głównie na terenowym QTH więc takie zabezpieczenie nie jest potrzebne",
+      "nie stanowi żadnego zabezpieczenia przed energią w.cz."
+    ],
+    "a": 2,
+    "e": "Plastik nie ekranuje energii w.cz.",
+    "verified": true
+  },
+  {
+    "id": "be-017",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 17,
+      "total": 40
+    },
+    "q": "Czy zasilaczem z oznaczeniem 13,8 V 30 A można zasilać typową radiostację amatorską pobierającą 13,8 V 20 A?",
+    "o": [
+      "nie można, radiostacja może ulec uszkodzeniu",
+      "można",
+      "nie można, zasilacz może ulec uszkodzeniu"
+    ],
+    "a": 1,
+    "e": "Zasilacz 30 A może zasilić stację pobierającą 20 A.",
+    "verified": true
+  },
+  {
+    "id": "be-018",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 18,
+      "total": 40
+    },
+    "q": "Czy można wykorzystać jako uziemienie rurę instalacji gazowej?",
+    "o": [
+      "bezwzględnie nie wolno",
+      "wolno bez żadnych ograniczeń",
+      "wolno jedynie w sytuacji, gdy nie dysponuje się innym uziemieniem urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "a": 0,
+    "e": "Rury gazowe nie mogą służyć jako uziemienie.",
+    "verified": true
+  },
+  {
+    "id": "be-019",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 19,
+      "total": 40
+    },
+    "q": "Jakie działania należy podjąć, aby udzielić pomocy porażonemu prądem elektrycznym?",
+    "o": [
+      "odłączyć porażonego od prądu, podjąć działania w celu wyeliminowania skutków ewentualnych poparzeń",
+      "zadbać o własne bezpieczeństwo, odłączyć porażonego od prądu, sprawdzić funkcje życiowe, wezwać lekarza, w razie konieczności przeprowadzać resuscytację krążeniowo-oddechową",
+      "zadbać o własne bezpieczeństwo, wezwać znajomych w celu prowadzenia wspólnej akcji ratowniczej"
+    ],
+    "a": 1,
+    "e": "Najpierw własne bezpieczeństwo, odłączenie od prądu, ocena funkcji życiowych, wezwanie pomocy, RKO w razie potrzeby.",
+    "verified": true
+  },
+  {
+    "id": "be-020",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 20,
+      "total": 40
+    },
+    "q": "Urządzenia pod napięciem, które się zapaliły, gasimy:",
+    "o": [
+      "wodą",
+      "wodą, ale tylko z użyciem np. wiadra",
+      "gaśnicą proszkową"
+    ],
+    "a": 2,
+    "e": "Urządzenia pod napięciem gasi się gaśnicą proszkową, nie wodą.",
+    "verified": true
+  },
+  {
+    "id": "be-021",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 21,
+      "total": 40
+    },
+    "q": "W Polsce przewód ochronny w instalacji elektrycznej oznaczony jest kolorem:",
+    "o": [
+      "niebieskim",
+      "brązowym lub czarnym",
+      "żółto-zielonym"
+    ],
+    "a": 2,
+    "e": "Przewód ochronny (PE) oznacza się żółto-zielonym kolorem.",
+    "verified": true
+  },
+  {
+    "id": "be-022",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 22,
+      "total": 40
+    },
+    "q": "Narzędzia do prac elektrycznych powinny:",
+    "o": [
+      "charakteryzować się estetyką wykonania",
+      "posiadać homologację Ministerstwa Łączności",
+      "posiadać izolowane uchwyty z nadrukowaną informacją o dopuszczalnym napięciu pracy np. 500 V"
+    ],
+    "a": 2,
+    "e": "Narzędzia muszą mieć izolowane uchwyty z oznaczeniem dopuszczalnego napięcia.",
+    "verified": true
+  },
+  {
+    "id": "be-023",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 23,
+      "total": 40
+    },
+    "q": "Czy radiostację i urządzenia pomocnicze można podłączać do gniazd zasilanych z dwóch różnych faz?",
+    "o": [
+      "można, nie ma żadnych przeciwwskazań",
+      "kategorycznie nie można, grozi to zniszczeniem sprzętu i porażeniem operatora",
+      "można, jeżeli jednocześnie nie używa się wszystkich urządzeń"
+    ],
+    "a": 1,
+    "e": "Podłączanie z dwóch faz grozi zniszczeniem sprzętu i porażeniem.",
+    "verified": true
+  },
+  {
+    "id": "be-024",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 24,
+      "total": 40
+    },
+    "q": "Jaka powinna być rezystancja uziemienia radiostacji?",
+    "o": [
+      "50 Ω",
+      "zależnie od kabla antenowego: 50 lub 75 Ω",
+      "poniżej 10 Ω urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "a": 2,
+    "e": "Rezystancja uziemienia stacji powinna być poniżej 10 Ω.",
+    "verified": true
+  },
+  {
+    "id": "be-025",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 25,
+      "total": 40
+    },
+    "q": "W momencie stwierdzenia pożaru urządzenia należy:",
+    "o": [
+      "zadzwonić po straż pożarną",
+      "wezwać kolegów i wspólnie przystąpić do gaszenia",
+      "odłączyć zasilanie i przystąpić do gaszenia, w razie potrzeby wezwać straż pożarną"
+    ],
+    "a": 2,
+    "e": "Przy pożarze odłącz zasilanie, gaszenie, w razie potrzeby straż pożarna.",
+    "verified": true
+  },
+  {
+    "id": "be-026",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 26,
+      "total": 40
+    },
+    "q": "Transformator ochronny stosujemy, gdy:",
+    "o": [
+      "zachodzi obawa, że użycie narzędzi elektrycznych zasilanych napięciem 230 V może spowodować porażenie prądem, np. pracując na zewnątrz pomieszczeń",
+      "wykonujemy prace w wilgotnym pomieszczeniu",
+      "jak w sąsiednich punktach i w innych sytuacjach, jeżeli zachodzi niebezpieczeństwo porażenia prądem np. przy pracach naprawczych"
+    ],
+    "a": 2,
+    "e": "Transformator ochronny ogranicza ryzyko porażenia przy pracy pod napięciem.",
+    "verified": true
+  },
+  {
+    "id": "be-027",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 27,
+      "total": 40
+    },
+    "q": "W przypadku zaprószenia oka ciałem obcym należy:",
+    "o": [
+      "odczekać aż ciało obce samo wypadnie",
+      "usunąć ciało obce samodzielnie za pomocą pęsety",
+      "spróbować usunąć obce ciało, przemywając oko wodą, a jeżeli się to nie uda skorzystać z pomocy lekarza"
+    ],
+    "a": 2,
+    "e": "Płucz oko wodą; jeśli nie pomoże — lekarz.",
+    "verified": true
+  },
+  {
+    "id": "be-028",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 28,
+      "total": 40
+    },
+    "q": "Mierząc miernikiem napięcie o niemożliwej do oszacowania wartości należy:",
+    "o": [
+      "ustawić miernik na najwyższy zakres pomiarowy i stopniowo zmniejszać zakres",
+      "ustawić miernik na najniższy zakres pomiarowy i stopniowo zwiększać zakres",
+      "rozpocząć pomiary od środkowego zakresu miernika"
+    ],
+    "a": 0,
+    "e": "Zacznij od najwyższego zakresu pomiarowego.",
+    "verified": true
+  },
+  {
+    "id": "be-029",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 29,
+      "total": 40
+    },
+    "q": "Przygotowując się do wykonania prac pod napięciem, oprócz przygotowania odpowiednich przyrządów należy:",
+    "o": [
+      "sprawdzić czy zastosowano prawidłowe bezpieczniki w mierzonych obwodach",
+      "przygotować schemat elektryczny urządzenia i zapoznać się z nim",
+      "jak w sąsiednich punktach oraz zapewnić sobie obecność i ewentualną pomoc drugiej osoby"
+    ],
+    "a": 2,
+    "e": "Przy pracy pod napięciem zapewnij obecność drugiej osoby.",
+    "verified": true
+  },
+  {
+    "id": "be-030",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 30,
+      "total": 40
+    },
+    "q": "Czy w przypadku przepalenia bezpiecznika topikowego, gdy nie mamy pod ręką nowego bezpiecznika, można zastąpić go drutem miedzianym?",
+    "o": [
+      "tak, jeśli w krótkim czasie zostanie wstawiony nowy bezpiecznik",
+      "bezwzględnie nie wolno",
+      "tak, jeśli drut jest o grubości takiej, jak włókno w spalonym bezpieczniku urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "a": 1,
+    "e": "Bezpiecznika nie wolno zastępować drutem.",
+    "verified": true
+  },
+  {
+    "id": "be-031",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 31,
+      "total": 40
+    },
+    "q": "Radiotelefon przenośny UKF podczas nadawania należy trzymać:",
+    "o": [
+      "jak najbliżej ciała",
+      "jedną ręką za antenę w celu zwiększenia zasięgu",
+      "mikrofonem skierowanym w stronę ust i anteną skierowaną ponad głowę"
+    ],
+    "a": 2,
+    "e": "Trzymaj antenę UKF z dala od głowy — ponad głową, mikrofon przy ustach.",
+    "verified": true
+  },
+  {
+    "id": "be-032",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 32,
+      "total": 40
+    },
+    "q": "Przy wymianie lampy stopnia mocy nadajnika należy:",
+    "o": [
+      "wyłączyć zasilanie i natychmiast przystąpić do wymiany",
+      "wyłączyć zasilanie i poczekać aż rozładują się kondensatory zasilacza",
+      "przy pracującym wzmacniaczu zdjąć osłonę lampy i przystąpić do jej wymiany"
+    ],
+    "a": 1,
+    "e": "Po wyłączeniu zasilania poczekaj na rozładowanie kondensatorów zasilacza.",
+    "verified": true
+  },
+  {
+    "id": "be-033",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 33,
+      "total": 40
+    },
+    "q": "Najlepszą formą zabezpieczenia anteny krótkofalowej przed burzą jest:",
+    "o": [
+      "odłączenie anteny od radiostacji i wystawienie kabla anteny za okno",
+      "odłączenie anteny od radiostacji i połączenie anteny z uziemieniem",
+      "nie są wymagane żadne działania"
+    ],
+    "a": 1,
+    "e": "Antenę odłączamy od aparatury i łączymy z uziemieniem.",
+    "verified": true
+  },
+  {
+    "id": "be-034",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 34,
+      "total": 40
+    },
+    "q": "Czy można umieścić kabel antenowy w kanale wywietrznika kominowego, jeżeli obok przebiega czynny komin?",
+    "o": [
+      "można",
+      "bezwzględnie nie można",
+      "można, ale tylko w okresie poza sezonem grzewczym"
+    ],
+    "a": 1,
+    "e": "Kabla antenowego nie wolno prowadzić w kanale komina.",
+    "verified": true
+  },
+  {
+    "id": "be-035",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 35,
+      "total": 40
+    },
+    "q": "Czy można używać kołków rozporowych do montażu anteny na kominie?",
+    "o": [
+      "można",
+      "można, po spełnieniu dodatkowych warunków",
+      "nie wolno, można stosować jedynie opaski wokół komina"
+    ],
+    "a": 2,
+    "e": "Na kominie stosuje się opaski, nie kołki rozporowe.",
+    "verified": true
+  },
+  {
+    "id": "be-036",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 36,
+      "total": 40
+    },
+    "q": "Podczas regulacji urządzeń pod napięciem (o ile jest to konieczne) pracę wykonujemy:",
+    "o": [
+      "dwoma rękoma",
+      "jedną ręką",
+      "jedną ręką w asyście drugiej osoby, wskazane jest również stosowanie chodnika lub obuwia izolacyjnego"
+    ],
+    "a": 1,
+    "e": "Regulację pod napięciem wykonuj jedną ręką.",
+    "verified": true
+  },
+  {
+    "id": "be-037",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 37,
+      "total": 40
+    },
+    "q": "Jakim przewodem podłączysz nadajnik dużej mocy do źródła zasilania?",
+    "o": [
+      "zwykłym przewodem dwużyłowym",
+      "kablem w oplocie bawełnianym",
+      "przewodem o przekroju żył, odpowiednim do pobieranej przez urządzenie mocy urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "a": 1,
+    "e": "Dużą moc zasilaj kablem w odpowiedniej izolacji (np. YDY).",
+    "verified": true
+  },
+  {
+    "id": "be-038",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 38,
+      "total": 40
+    },
+    "q": "Uszkodzenie ekranu fidera antenowego może prowadzić do:",
+    "o": [
+      "nie prowadzi do żadnych negatywnych skutków",
+      "wzrostu zakłóceń, bez względu na pogodę",
+      "wzrostu zakłóceń i zmian impedancji kabla grożąca uszkodzeniem nadajnika"
+    ],
+    "a": 2,
+    "e": "Uszkodzony ekran fidera zwiększa zakłócenia i może zmienić impedancję kabla.",
+    "verified": true
+  },
+  {
+    "id": "be-039",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 39,
+      "total": 40
+    },
+    "q": "Jak oznacza się odpowiednio - przewód neutralny (N) oraz ochronno-uziemiający (PE) w instalacji elektrycznej?",
+    "o": [
+      "czerwony, czarny",
+      "niebieski, żółto-zielony",
+      "żółto-zielony, brązowy"
+    ],
+    "a": 1,
+    "e": "Przewód neutralny (N) oznacza się na niebiesko, ochronno-uziemiający (PE) żółto-zielonym.",
+    "verified": true
+  },
+  {
+    "id": "be-040",
+    "department": "bezpieczenstwo",
+    "topic": "bezpiecz",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 2,
+      "number": 40,
+      "total": 40
+    },
+    "q": "Który z sieciowych przewodów zasilających można podłączyć do obudowy zasilacza:",
+    "o": [
+      "liniowy (fazowy)",
+      "neutralny",
+      "ochronno-uziemiający operatorskie - Wersja 3."
+    ],
+    "a": 2,
+    "e": "Do obudowy urządzenia podłącza się wyłącznie przewód ochronno-uziemiający (PE).",
+    "verified": true
+  }
+]

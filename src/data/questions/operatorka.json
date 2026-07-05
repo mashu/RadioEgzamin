@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "op-001",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 1,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRG?",
+    "o": [
+      "włączam większą moc nadajnika",
+      "moja częstotliwość jest…",
+      "siła twoich sygnałów waha się"
+    ],
+    "a": 1,
+    "e": "QRG informuje o częstotliwości pracy. Jako pytanie „QRG?” = „Podaj moją/twoją częstotliwość”.\nKod Q skraca wymianę — trzy litery zastępują całe zdanie, niezależnie od języka.",
+    "verified": true
+  },
+  {
+    "id": "op-002",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 2,
+      "total": 75
+    },
+    "q": "Czy operator może przejść na nadawanie niezwłocznie po wybraniu częstotliwości pracy?",
+    "o": [
+      "może od razu nadawać",
+      "może nadawać lecz ze zredukowaną mocą",
+      "najpierw powinien upewnić się iż częstotliwość jest wolna i nie będzie zakłócał pracy innych użytkowników"
+    ],
+    "a": 2,
+    "e": "Przed nadawaniem upewnij się, że częstotliwość jest wolna.",
+    "verified": true
+  },
+  {
+    "id": "op-003",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 3,
+      "total": 75
+    },
+    "q": "Kiedy wybierzemy częstotliwość nadawczą na naszym urządzeniu, jakie czynności należą do dobrej praktyki operatorskiej?",
+    "o": [
+      "upewnić się czy wybrana częstotliwość oraz użyta moc jest w zakresie uprawnień naszego pozwolenia",
+      "znajduję się w miejscu zgodnym z przeznaczeniem wg. band planu IARU, oraz sprawdzam czy częstotliwość jest wolna i nie spowoduje interferencji z innymi użytkownikami",
+      "wszystkie powyżej"
+    ],
+    "a": 2,
+    "e": "Sprawdź pasmo, moc, bandplan i uprawnienia z pozwolenia.",
+    "verified": true
+  },
+  {
+    "id": "op-004",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 4,
+      "total": 75
+    },
+    "q": "Jaki jest prawidłowy sposób wywołania stacji na przemienniku, której znak wywoławczy jest nam znany?",
+    "o": [
+      "zawołanie \"break\" a następnie znak tej stacji",
+      "zawołanie znakiem wołanej stacji a następnie swoim",
+      "zawołanie swoim znakiem a następnie znakiem stacji wołanej"
+    ],
+    "a": 0,
+    "e": "Na przemienniku woła się „break”, a następnie znak stacji.",
+    "verified": true
+  },
+  {
+    "id": "op-005",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 5,
+      "total": 75
+    },
+    "q": "Jaki jest zalecany sposób dołączenia do trwającej już korespondencji?",
+    "o": [
+      "podaniu w przerwie nadawania innych korespondentów swojego znaku",
+      "powiedzeniu „Breako Breako”",
+      "powiedzeniu „CQ”, a następnie znak dowolnej stacji"
+    ],
+    "a": 0,
+    "e": "Dołącza się podając swój znak w przerwie nadawania innych stacji.",
+    "verified": true
+  },
+  {
+    "id": "op-006",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 6,
+      "total": 75
+    },
+    "q": "Co należy do dobrej praktyki amatorskiej, jeśli propagacja zmienia się podczas trwania łączności i zauważysz zakłócenia ze strony innych stacji na swojej częstotliwości?",
+    "o": [
+      "powiedz stacjom powodującym zakłócenia, aby zmieniły częstotliwość",
+      "spróbować rozwiązać problem zakłóceń z innymi stacjami w sposób akceptowalny dla obu stron z poszanowaniem norm społecznych",
+      "zwiększ moc, aby nasz sygnał był silniejszy od zakłócającego operatorskie - Wersja 3."
+    ],
+    "a": 1,
+    "e": "Problemy zakłóceń rozwiązuj amatorsko i uprzejmie z innymi stacjami.",
+    "verified": true
+  },
+  {
+    "id": "op-007",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 7,
+      "total": 75
+    },
+    "q": "Co należy zrobić w pierwszej kolejności, jeśli komunikujesz się z inną stacją amatorską i słyszysz stację w niebezpieczeństwie?",
+    "o": [
+      "kontynuować łączność, ponieważ byłeś pierwszy na częstotliwości",
+      "potwierdzić że słyszymy stację wołającą o pomoc oraz ustalić jakiej pomocy potrzebuje",
+      "zmienić częstotliwość na inną"
+    ],
+    "a": 1,
+    "e": "Potwierdź wołanie o pomoc i ustal, jaka pomoc jest potrzebna.",
+    "verified": true
+  },
+  {
+    "id": "op-008",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 8,
+      "total": 75
+    },
+    "q": "Która wstęga boczna jest najczęściej używana w komunikacji głosowej na częstotliwościach 14 MHz lub wyższych?",
+    "o": [
+      "górna wstęga boczna",
+      "dolna wstęga boczna",
+      "obie wstęgi boczne"
+    ],
+    "a": 1,
+    "e": "Na paśmie 80 m w fonii SSB najczęściej używa się dolnej wstęgi bocznej (LSB).",
+    "verified": true
+  },
+  {
+    "id": "op-009",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 9,
+      "total": 75
+    },
+    "q": "Która wstęga boczna jest najczęściej używana w komunikacji głosowej w pasmach 160 m, 80 m oraz 40 m?",
+    "o": [
+      "górna wstęga boczna",
+      "dolna wstęga boczna",
+      "obie wstęgi boczne"
+    ],
+    "a": 0,
+    "e": "Na UKF w fonii SSB najczęściej używa się górnej wstęgi bocznej (USB).",
+    "verified": true
+  },
+  {
+    "id": "op-010",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 10,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QSY?",
+    "o": [
+      "przejdź na częstotliwość, zmień częstotliwość",
+      "do usłyszenia na innej częstotliwości",
+      "mam uszkodzoną antenę"
+    ],
+    "a": 0,
+    "e": "QSY = zmień częstotliwość. „QSY 7120” znaczy: przejdźmy na 7120 kHz.\nCzęsto wywołujemy QSY, gdy nasze QSO przeszkadza innym (QRM).",
+    "verified": true
+  },
+  {
+    "id": "op-011",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 11,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRM?",
+    "o": [
+      "jestem czynny w eterze od miesiąca",
+      "odbieram twoje sygnały bardzo dobrze zmniejsz moc",
+      "mam zakłócenia od innych stacji"
+    ],
+    "a": 2,
+    "e": "Kod QRM ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „mam zakłócenia od innych stacji”.",
+    "verified": true
+  },
+  {
+    "id": "op-012",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 12,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRN?",
+    "o": [
+      "jestem czynny w eterze od niedawna",
+      "mam zakłócenia atmosferyczne",
+      "pracuję na radiostacji tylko w niedzielę operatorskie - Wersja 3."
+    ],
+    "a": 1,
+    "e": "Kod QRN ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „mam zakłócenia atmosferyczne”.",
+    "verified": true
+  },
+  {
+    "id": "op-013",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 13,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QSB?",
+    "o": [
+      "siła twoich sygnałów waha się",
+      "w okolicy jest burza, wyłączam radiostację",
+      "używam anteny dookólnej"
+    ],
+    "a": 0,
+    "e": "Kod QSB ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „siła twoich sygnałów waha się”.",
+    "verified": true
+  },
+  {
+    "id": "op-014",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 14,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRV?",
+    "o": [
+      "o której godzinie rozpoczęliśmy łączność",
+      "jestem gotów do pracy, jestem czynny w eterze",
+      "proszę powtórzyć ostatnią relację"
+    ],
+    "a": 1,
+    "e": "Kod QRV ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „jestem gotów do pracy, jestem czynny w eterze”.",
+    "verified": true
+  },
+  {
+    "id": "op-015",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 15,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QTH?",
+    "o": [
+      "nie mam ochoty z tobą dalej rozmawiać",
+      "przekazuję wiadomość od…",
+      "moje położenie geograficzne jest…"
+    ],
+    "a": 2,
+    "e": "QTH to lokalizacja stacji (miejscowość lub lokator). „QTH Warszawa” = jestem w Warszawie.\nW zawodach zamiast QTH często wymienia się lokator (np. JO91).",
+    "verified": true
+  },
+  {
+    "id": "op-016",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 16,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRP?",
+    "o": [
+      "nadawaj powoli",
+      "zmniejsz moc, zmniejszam moc",
+      "powtórz swój znak wywoławczy"
+    ],
+    "a": 1,
+    "e": "QRP = zmniejsz moc. Ruch QRP to praca małą mocą (do 5 W CW / 10 W SSB) — sport dla ambitnych.\nPrzeciwieństwo to QRO — zwiększ moc.",
+    "verified": true
+  },
+  {
+    "id": "op-017",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 17,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QTC?",
+    "o": [
+      "wyłączam stację",
+      "na jaką częstotliwość mam się przestroić",
+      "mam dla ciebie pilną wiadomość"
+    ],
+    "a": 1,
+    "e": "Kod QTC ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „na jaką częstotliwość mam się przestroić”.",
+    "verified": true
+  },
+  {
+    "id": "op-018",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 18,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QSO?",
+    "o": [
+      "moje położenie geograficzne jest…",
+      "łączność, mam łączność",
+      "siła twoich sygnałów waha się"
+    ],
+    "a": 1,
+    "e": "QSO to po prostu łączność, rozmowa dwóch stacji. „Zrobiłem QSO” = nawiązałem łączność.\nPotwierdzeniem QSO jest karta QSL.",
+    "verified": true
+  },
+  {
+    "id": "op-019",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 19,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QSL?",
+    "o": [
+      "potwierdzam odbiór / przyślę kartę potwierdzającą łączność",
+      "nadawaj szybciej",
+      "słucham na częstotliwości operatorskie - Wersja 3."
+    ],
+    "a": 0,
+    "e": "QSL = potwierdzam odbiór. Karta QSL to papierowe (lub elektroniczne) potwierdzenie łączności.\n„QSL?” pyta: czy potwierdzasz odbiór?",
+    "verified": true
+  },
+  {
+    "id": "op-020",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 20,
+      "total": 75
+    },
+    "q": "Co oznacza skrót slangu radioamatorskiego RX?",
+    "o": [
+      "antena pionowa",
+      "odbiornik",
+      "klucz elektroniczny"
+    ],
+    "a": 1,
+    "e": "RX oznacza odbiornik (receiver).",
+    "verified": true
+  },
+  {
+    "id": "op-021",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 21,
+      "total": 75
+    },
+    "q": "Co oznacza skrót slangu radioamatorskiego Unlis?",
+    "o": [
+      "nielicencjonowany nadawca",
+      "zakłócenia w odbiorze telewizji",
+      "zawody w łowach na lisa"
+    ],
+    "a": 0,
+    "e": "Unlis = nielicencjonowany nadawca.",
+    "verified": true
+  },
+  {
+    "id": "op-022",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 22,
+      "total": 75
+    },
+    "q": "Co oznacza skrót slangu radioamatorskiego YL?",
+    "o": [
+      "antena z linki miedzianej",
+      "czas uniwersalny",
+      "panna - młoda pani"
+    ],
+    "a": 2,
+    "e": "YL (young lady) oznacza pannę, młodą panią.",
+    "verified": true
+  },
+  {
+    "id": "op-023",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 23,
+      "total": 75
+    },
+    "q": "Co oznacza skrót slangu radioamatorskiego RPT?",
+    "o": [
+      "proszę powtórzyć, powtórzę, powtarzam",
+      "proszę",
+      "przechodzę na inny kanał"
+    ],
+    "a": 0,
+    "e": "Poprawna odpowiedź: „proszę powtórzyć, powtórzę, powtarzam”.",
+    "verified": true
+  },
+  {
+    "id": "op-024",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 24,
+      "total": 75
+    },
+    "q": "Kiedy należy podawać raport o słyszalności?",
+    "o": [
+      "na początku łączności i na życzenie korespondenta",
+      "w odstępach 5-10 minut",
+      "po każdym przekazaniu mikrofonu"
+    ],
+    "a": 0,
+    "e": "Raport podaje się na początku łączności i na życzenie korespondenta.",
+    "verified": true
+  },
+  {
+    "id": "op-025",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 25,
+      "total": 75
+    },
+    "q": "Czy od razu, po zdaniu egzaminu na pozwolenie radioamatorskie można samodzielnie obsługiwać stację amatorską?",
+    "o": [
+      "można, ale tylko pod nadzorem radioamatora posiadającego pozwolenie radiowe",
+      "można, w określonych w pozwoleniu radiowym zakresach częstotliwości",
+      "nie można, ponieważ do obsługi stacji amatorskiej upoważnia jedynie pozwolenie radiowe"
+    ],
+    "a": 2,
+    "e": "Do obsługi stacji upoważnia dopiero pozwolenie radiowe, nie sam egzamin.",
+    "verified": true
+  },
+  {
+    "id": "op-026",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 26,
+      "total": 75
+    },
+    "q": "Co to jest znak wywoławczy?",
+    "o": [
+      "jest to symbol określający typ (model) stacji amatorskiej",
+      "jest to hasło pozwalające wywołać konkretnego rozmówcę",
+      "jest to kombinacja liter i cyfr stanowiąca unikalny w skali światowej identyfikator stacji amatorskiej operatorskie - Wersja 3."
+    ],
+    "a": 2,
+    "e": "Znak wywoławczy to unikalna kombinacja liter i cyfr identyfikująca stację.",
+    "verified": true
+  },
+  {
+    "id": "op-027",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 27,
+      "total": 75
+    },
+    "q": "Czym jest LOG?",
+    "o": [
+      "jest to dziennik stacji amatorskiej zawierający informacje o korespondencji z innymi radiostacjami amatorskimi",
+      "jest to informacja o procedurach obowiązujących podczas łączności z innymi stacjami",
+      "jest to informacja o kontroli radiostacji przez inspektorów UKE"
+    ],
+    "a": 0,
+    "e": "LOG to dziennik stacji amatorskiej (logbook).",
+    "verified": true
+  },
+  {
+    "id": "op-028",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 28,
+      "total": 75
+    },
+    "q": "Czy prowadzenie dziennika łączności jest obowiązkowe?",
+    "o": [
+      "jest to podstawowy obowiązek każdego radioamatora",
+      "prowadzenie logu nie jest obowiązkowe, lecz wskazane",
+      "prowadzenie dziennika łączności może być nakazane jako zalecenie pokontrolne inspektorów ochrony środowiska"
+    ],
+    "a": 1,
+    "e": "Prowadzenie logu nie jest obowiązkowe, lecz jest wskazane.",
+    "verified": true
+  },
+  {
+    "id": "op-029",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 29,
+      "total": 75
+    },
+    "q": "Co znaczy określenie czas uniwersalny UTC?",
+    "o": [
+      "czas odpowiadający południkowi zerowemu (GMT), stosowany przez radioamatorów do odnotowania w logu godz. łączności",
+      "czas w którym nie należy nawiązywać QSO",
+      "czas w którym można nawiązywać łączności z krajami europejskimi"
+    ],
+    "a": 0,
+    "e": "UTC to czas uniwersalny (odpowiednik GMT), stosowany w dziennikach łączności.",
+    "verified": true
+  },
+  {
+    "id": "op-030",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 30,
+      "total": 75
+    },
+    "q": "Co to jest międzynarodowy kod Q?",
+    "o": [
+      "zbiór symboli składających się z 3 liter, zaczynających się zawsze na literę Q, którym przypisane są proste zdanie lub słowa",
+      "symbole składające się z litery Q i 2-3 cyfr określających jakość odbieranego sygnału",
+      "wykaz zawierający prefiksy znaków wywoławczych wg ITU"
+    ],
+    "a": 0,
+    "e": "Kod Q to trzy litery zaczynające się od Q, skracające typowe komunikaty.",
+    "verified": true
+  },
+  {
+    "id": "op-031",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 31,
+      "total": 75
+    },
+    "q": "Do czego służy międzynarodowy kod Q?",
+    "o": [
+      "podania informacji o czasie rozpoczęcia łączności",
+      "skrócenia czasu nadawania informacji",
+      "informowania o sile odbieranego sygnału radiowego"
+    ],
+    "a": 1,
+    "e": "Kod Q skraca wymianę informacji w łączności.",
+    "verified": true
+  },
+  {
+    "id": "op-032",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 32,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRL?",
+    "o": [
+      "źle się czuję, odezwę się później",
+      "jestem zajęty, proszę nie przeszkadzać",
+      "do zobaczenia latem operatorskie - Wersja 3."
+    ],
+    "a": 1,
+    "e": "Kod QRL ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „jestem zajęty, proszę nie przeszkadzać”.",
+    "verified": true
+  },
+  {
+    "id": "op-033",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 33,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRT?",
+    "o": [
+      "która jest godzina",
+      "kończę nadawanie, wyłączam stację",
+      "nadawaj wolniej"
+    ],
+    "a": 1,
+    "e": "QRT = kończę pracę, wyłączam nadajnik. „Idę QRT” = kończę na dziś.\nNie myl z QRX (proszę czekać) ani QRZ (kto mnie woła).",
+    "verified": true
+  },
+  {
+    "id": "op-034",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 34,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRZ?",
+    "o": [
+      "zmień częstotliwość na zapasową",
+      "kto mnie woła",
+      "jestem zajęty, proszę nie przeszkadzać"
+    ],
+    "a": 1,
+    "e": "Kod QRZ ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „kto mnie woła”.",
+    "verified": true
+  },
+  {
+    "id": "op-035",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 35,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRX?",
+    "o": [
+      "proszę czekać",
+      "nadawaj wolniej",
+      "mam zakłócenia od innych stacji"
+    ],
+    "a": 0,
+    "e": "Kod QRX ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „proszę czekać”.",
+    "verified": true
+  },
+  {
+    "id": "op-036",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 36,
+      "total": 75
+    },
+    "q": "Co oznacza wg kodu Q symbol QRO?",
+    "o": [
+      "nic dla ciebie nie mam",
+      "zwiększ moc, zwiększam moc",
+      "przerwij nadawanie, kończę pracę"
+    ],
+    "a": 1,
+    "e": "Kod QRO ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „zwiększ moc, zwiększam moc”.",
+    "verified": true
+  },
+  {
+    "id": "op-037",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 37,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Moja częstotliwość jest…?",
+    "o": [
+      "QRJ",
+      "QRG",
+      "QRK"
+    ],
+    "a": 1,
+    "e": "Kod QRG oznacza: QRG.",
+    "verified": true
+  },
+  {
+    "id": "op-038",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 38,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Przejdź na częstotliwość, zmień częstotliwość?",
+    "o": [
+      "QSY",
+      "QTR",
+      "QSA"
+    ],
+    "a": 0,
+    "e": "Kod QSY oznacza: QSY.",
+    "verified": true
+  },
+  {
+    "id": "op-039",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 39,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Mam zakłócenia od innych stacji?",
+    "o": [
+      "QWO",
+      "QQQ",
+      "QRM operatorskie - Wersja 3."
+    ],
+    "a": 2,
+    "e": "Kod QRM oznacza: QRM operatorskie - Wersja 3..",
+    "verified": true
+  },
+  {
+    "id": "op-040",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 40,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Siła twoich sygnałów waha się?",
+    "o": [
+      "QSB",
+      "QAZ",
+      "QRY"
+    ],
+    "a": 0,
+    "e": "Kod QSB oznacza: QSB.",
+    "verified": true
+  },
+  {
+    "id": "op-041",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 41,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Jestem gotów do pracy, jestem czynny w eterze?",
+    "o": [
+      "QWX",
+      "QRV",
+      "QRU"
+    ],
+    "a": 1,
+    "e": "Kod QRV oznacza: QRV.",
+    "verified": true
+  },
+  {
+    "id": "op-042",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 42,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Moje położenie geograficzne jest…?",
+    "o": [
+      "QLP",
+      "QRG",
+      "QTH"
+    ],
+    "a": 2,
+    "e": "Kod QTH oznacza: QTH.",
+    "verified": true
+  },
+  {
+    "id": "op-043",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 43,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Zmniejsz moc, zmniejszam moc?",
+    "o": [
+      "QUB",
+      "QRA",
+      "QRP"
+    ],
+    "a": 2,
+    "e": "Kod QRP oznacza: QRP.",
+    "verified": true
+  },
+  {
+    "id": "op-044",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 44,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Mam dla ciebie telegram, wiadomość?",
+    "o": [
+      "QRT",
+      "QTC",
+      "QSV"
+    ],
+    "a": 1,
+    "e": "Kod QTC oznacza: QTC.",
+    "verified": true
+  },
+  {
+    "id": "op-045",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 45,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Łączność, mam łączność?",
+    "o": [
+      "QSL",
+      "QSO",
+      "QRS"
+    ],
+    "a": 1,
+    "e": "Kod QSO oznacza: QSO.",
+    "verified": true
+  },
+  {
+    "id": "op-046",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 46,
+      "total": 75
+    },
+    "q": "Który z poniższych kodów Q oznacza: Potwierdzam odbiór, przyślę kartę potwierdzającą łączność?",
+    "o": [
+      "QSL",
+      "QSA",
+      "QRT operatorskie - Wersja 3."
+    ],
+    "a": 0,
+    "e": "Kod QSL oznacza: QSL.",
+    "verified": true
+  },
+  {
+    "id": "op-047",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 47,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BAND; CFM?",
+    "o": [
+      "pasmo; potwierdzam",
+      "zakres; godzina",
+      "raport; popołudnie"
+    ],
+    "a": 0,
+    "e": "BAND = pasmo, CFM = potwierdzam (confirm).",
+    "verified": true
+  },
+  {
+    "id": "op-048",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 48,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BK; CALL?",
+    "o": [
+      "później; kalibrator",
+      "przerwa; znak wywoławczy",
+      "stop; odebrałem wszystko"
+    ],
+    "a": 1,
+    "e": "BK = przerwa (break), CALL = znak wywoławczy.",
+    "verified": true
+  },
+  {
+    "id": "op-049",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 49,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BEST; DX?",
+    "o": [
+      "daleki; niezły",
+      "najlepszy; daleka łączność",
+      "dobry; szybki"
+    ],
+    "a": 1,
+    "e": "BEST = najlepszy, DX = daleka łączność.",
+    "verified": true
+  },
+  {
+    "id": "op-050",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 50,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BCI; BOX?",
+    "o": [
+      "zakłócenia odbioru radiowego; skrytka pocztowa",
+      "zakłócenia od sieciowe; radiolatarnia amatorska",
+      "podaj dokładny czas; zmieniam kanał radiowy"
+    ],
+    "a": 0,
+    "e": "BCI = zakłócenia odbioru radiowego, BOX = skrytka pocztowa.",
+    "verified": true
+  },
+  {
+    "id": "op-051",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 51,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: OK; NAME?",
+    "o": [
+      "stary, nie przeszkadzaj; moje nazwisko jest",
+      "wszystko w porządku; imię",
+      "przestrajam się; podaj adres"
+    ],
+    "a": 1,
+    "e": "OK = wszystko w porządku, NAME = imię.",
+    "verified": true
+  },
+  {
+    "id": "op-052",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 52,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: SWR; RX?",
+    "o": [
+      "pasmo w metrach; antena pionowa",
+      "współczynnik fali stojącej; odbiornik",
+      "nasłuchowiec; klucz elektroniczny"
+    ],
+    "a": 1,
+    "e": "SWR = współczynnik fali stojącej, RX = odbiornik.",
+    "verified": true
+  },
+  {
+    "id": "op-053",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 53,
+      "total": 75
+    },
+    "q": "Które z poniższych skrótów slangu radioamatorskiego oznaczają: Panna, młoda pani; czas uniwersalny?",
+    "o": [
+      "YL; UTC",
+      "XYL; UT",
+      "LY; TRO operatorskie - Wersja 3."
+    ],
+    "a": 0,
+    "e": "Poprawna odpowiedź: „YL; UTC”.",
+    "verified": true
+  },
+  {
+    "id": "op-054",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 54,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: PSE; RPT?",
+    "o": [
+      "proszę; powtórzyć, powtórzę, powtarzam",
+      "proszę; zmieniam pasmo o 10 kHz",
+      "przechodzę na inny kanał; raport podam na koniec łączności"
+    ],
+    "a": 0,
+    "e": "PSE = proszę, RPT = powtórzyć.",
+    "verified": true
+  },
+  {
+    "id": "op-055",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 55,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: 55; UTC?",
+    "o": [
+      "pozdrawiam; czas ukraiński",
+      "ściskam dłoń; mam pilną wiadomość",
+      "ściskam dłoń; czas uniwersalny"
+    ],
+    "a": 1,
+    "e": "55 = ściskam dłoń, UTC = czas uniwersalny.",
+    "verified": true
+  },
+  {
+    "id": "op-056",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 56,
+      "total": 75
+    },
+    "q": "Co oznaczają skróty slangu radioamatorskiego: LOG; DIRECT?",
+    "o": [
+      "długa antena; dyrektor",
+      "dziennik pracy stacji; bezpośrednio",
+      "długi; bezpośredni kontakt"
+    ],
+    "a": 1,
+    "e": "LOG = dziennik łączności, DIRECT = bezpośrednio.",
+    "verified": true
+  },
+  {
+    "id": "op-057",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 57,
+      "total": 75
+    },
+    "q": "Co to jest raport R S stosowany podczas łączności fonicznych?",
+    "o": [
+      "informacja o stanie technicznym radiostacji",
+      "informacja o stanie pogody przekazana w postaci zakodowanej",
+      "informacja o jakości odbieranego sygnału radiowego - czytelności i sił sygnału wyrażana w postaci cyfr"
+    ],
+    "a": 2,
+    "e": "Raport RS opisuje czytelność (R) i siłę sygnału (S).",
+    "verified": true
+  },
+  {
+    "id": "op-058",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 58,
+      "total": 75
+    },
+    "q": "Co to jest raport R S T stosowany podczas łączności telegraficznych?",
+    "o": [
+      "informacja o stanie technicznym radiostacji",
+      "informacja o jakości odbieranego sygnału radiowego - czytelności, siły i tonu akustycznego sygnału",
+      "informacja o stanie pogody"
+    ],
+    "a": 1,
+    "e": "Raport RST w telegrafii: czytelność, siła i ton.",
+    "verified": true
+  },
+  {
+    "id": "op-059",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 59,
+      "total": 75
+    },
+    "q": "Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S",
+    "o": [
+      "R - jakość sygnału, S- słyszalność",
+      "R - stabilność sygnału, S- siła sygnału",
+      "R - czytelność, S - siła sygnału"
+    ],
+    "a": 2,
+    "e": "R = czytelność, S = siła sygnału.",
+    "verified": true
+  },
+  {
+    "id": "op-060",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 60,
+      "total": 75
+    },
+    "q": "Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S T?",
+    "o": [
+      "R - czytelność, S - siła sygnału, T - ton sygnału",
+      "R - jakość sygnału, S - słyszalność, T - częstotliwość",
+      "R - stabilność sygnału, S - siła sygnału, T - ton sygnału operatorskie - Wersja 3."
+    ],
+    "a": 0,
+    "e": "R = czytelność, S = siła sygnału, T = ton.",
+    "verified": true
+  },
+  {
+    "id": "op-061",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 61,
+      "total": 75
+    },
+    "q": "Jaka jest skala czytelności i skala siły sygnału w raporcie R S?",
+    "o": [
+      "skala czytelności 1-5 i skala siły sygnału 1-9",
+      "skala czytelności 1-9 i skala siły sygnału 1-5",
+      "skala czytelności 0-5 i skala siły sygnału 0-9"
+    ],
+    "a": 0,
+    "e": "Skala czytelności 1–5, siły sygnału 1–9.",
+    "verified": true
+  },
+  {
+    "id": "op-062",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 62,
+      "total": 75
+    },
+    "q": "Co oznacza w łączności fonicznej raport 59?",
+    "o": [
+      "dobrze czytelny, bardzo silny sygnał",
+      "czytelny, silny sygnał",
+      "słaby, czytelny z trudnościami sygnał"
+    ],
+    "a": 0,
+    "e": "59 = dobrze czytelny, bardzo silny sygnał.",
+    "verified": true
+  },
+  {
+    "id": "op-063",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 63,
+      "total": 75
+    },
+    "q": "Co oznacza w łączności fonicznej raport 43?",
+    "o": [
+      "dobrze czytelny, bardzo silny sygnał",
+      "czytelny, słaby sygnał",
+      "czytelny z trudnościami, słaby sygnał"
+    ],
+    "a": 1,
+    "e": "43 = czytelny, słaby sygnał.",
+    "verified": true
+  },
+  {
+    "id": "op-064",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 64,
+      "total": 75
+    },
+    "q": "Co oznacza w łączności telegraficznej raport 599?",
+    "o": [
+      "czytelny, silny sygnał, dobry ton",
+      "dobrze czytelny, bardzo silny sygnał, bardzo dobry ton",
+      "czytelny z trudnościami, sygnał słaby, dobry ton"
+    ],
+    "a": 1,
+    "e": "5 = doskonale czytelny, 9 = bardzo silny, 9 = bardzo czysty ton. „Pięć-dziewięć-dziewięć” to raport wzorcowy.\nW zawodach niemal zawsze wysyła się 599, nawet gdy sygnał jest słabszy — liczy się tempo.",
+    "verified": true
+  },
+  {
+    "id": "op-065",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 65,
+      "total": 75
+    },
+    "q": "Co oznacza w łączności telegraficznej raport 438?",
+    "o": [
+      "dobrze czytelny, bardzo silny sygnał, dobry ton",
+      "czytelny z trudnościami, słaby sygnał, bardzo dobry ton",
+      "czytelny, słaby sygnał, dobry ton sygnału"
+    ],
+    "a": 1,
+    "e": "438 = czytelny z trudnościami, słaby, bardzo dobry ton.",
+    "verified": true
+  },
+  {
+    "id": "op-066",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 66,
+      "total": 75
+    },
+    "q": "Co to jest okręg wywoławczy?",
+    "o": [
+      "obszar, na którym pracuje maksimum 1000 radiostacji amatorskich",
+      "obszar odpowiadający podziałowi terytorialnemu Polski na województwa",
+      "zwyczajowo przyjęty obszar w granicach jednego lub dwóch województw"
+    ],
+    "a": 2,
+    "e": "Okręg wywoławczy to zwyczajowo jedno–dwa województwa.",
+    "verified": true
+  },
+  {
+    "id": "op-067",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 67,
+      "total": 75
+    },
+    "q": "Co to jest bandplan IARU?",
+    "o": [
+      "umowny podział zakresów częstotliwości na segmenty przeznaczone dla poszczególnych rodzajów emisji lub kanały robocze, zalecany przez IARU",
+      "podział częstotliwości osobno nadawczych i odbiorczych",
+      "plan przydziału częstotliwości dla poszczególnych krajów operatorskie - Wersja 3."
+    ],
+    "a": 0,
+    "e": "Bandplan IARU dzieli pasma na segmenty dla rodzajów emisji.",
+    "verified": true
+  },
+  {
+    "id": "op-068",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 68,
+      "total": 75
+    },
+    "q": "Transmisja prowadzona w sposób sprzeczny z bandplanem IARU jest:",
+    "o": [
+      "Naruszeniem prawa i może powodować utratę pozwolenia i konsekwencje karne",
+      "Jest całkowicie dopuszczalna, bandplan IARU nie ma współcześnie poważnego znaczenia",
+      "Jest dopuszczalna ale stanowi naruszenie dobrych obyczajów panujących wśród krótkofalowców"
+    ],
+    "a": 2,
+    "e": "Naruszenie bandplanu to zła praktyka, choć sam bandplan to zalecenie.",
+    "verified": true
+  },
+  {
+    "id": "op-069",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 69,
+      "total": 75
+    },
+    "q": "Czy na całym świecie obowiązuje ten sam bandplan wydawany przez IARU?",
+    "o": [
+      "tak, krótkofalowcy na całym świecie pracują na tych samych częstotliwościach",
+      "nie, każdy kraj wydaje swój własny bandplan na podstawie zaleceń IARU",
+      "IARU zaleca odrębny bandplan dla każdego z trzech regionów z uwzględnieniem dla danego regionu zakresu częstotliwości"
+    ],
+    "a": 2,
+    "e": "IARU ma odrębne bandplany dla trzech regionów ITU.",
+    "verified": true
+  },
+  {
+    "id": "op-070",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 70,
+      "total": 75
+    },
+    "q": "Bandplan IARU jest:",
+    "o": [
+      "zaleceniem IARU",
+      "przepisem powszechnie obowiązującym",
+      "wydawaną przez IARU dyrektywą wprowadzaną do porządku krajowego w Krajowej Tablicy Przeznaczeń Częstotliwości"
+    ],
+    "a": 0,
+    "e": "Bandplan IARU ma charakter zalecenia, nie przepisu.",
+    "verified": true
+  },
+  {
+    "id": "op-071",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 71,
+      "total": 75
+    },
+    "q": "Słyszysz międzynarodową łączność związaną z katastrofą, koordynację działań ratowniczych lub podobne łączności. Co zrobisz?",
+    "o": [
+      "Zaraportujesz niedozwolone użycie pasm amatorskich do koordynatora monitoringu IARU,",
+      "Zrobisz zwykłą łączność oczekując raportu i typowych informacji,",
+      "Nie przeszkadzasz, słuchasz dalej. Jeśli jest to uzasadnione - możesz dołączyć do pomocy przy organizacji łączności"
+    ],
+    "a": 2,
+    "e": "Przy łączności ratunkowej nie przeszkadzaj; w razie potrzeby pomóż.",
+    "verified": true
+  },
+  {
+    "id": "op-072",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 72,
+      "total": 75
+    },
+    "q": "Znak stacji amatorskiej jest niepowtarzalny w skali",
+    "o": [
+      "świata",
+      "regionu IARU",
+      "kraju"
+    ],
+    "a": 0,
+    "e": "Znak wywoławczy jest unikalny w skali świata.",
+    "verified": true
+  },
+  {
+    "id": "op-073",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 73,
+      "total": 75
+    },
+    "q": "Pewien początkujący krótkofalowiec zakupił tani radiotelefon. Dość szybko spostrzegł, że wskaźnik siły sygnału działa w nim zupełnie nieprawidłowo, a koledzy proszą o Raport R/S. Co powinien zrobić w tej sytuacji?",
+    "o": [
+      "bezwzględnie naprawić radiotelefon lub dokupić przystawkę mierzącą siłę sygnału",
+      "Może podawać raporty \"na ucho\" i poinformować o tym korespondenta",
+      "nie ma żadnego powodu żeby podawać korespondentowi siłę jego sygnału jeśli słyszymy go poprawnie."
+    ],
+    "a": 0,
+    "e": "Raport S wymaga działającego S-metra.",
+    "verified": true
+  },
+  {
+    "id": "op-074",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 74,
+      "total": 75
+    },
+    "q": "Stacja z Włoch woła \"CQ DX, CQ DX beaming pacific ocean\". Co powinien w tej sytuacji zrobić polski operator?",
+    "o": [
+      "natychmiast wołać!",
+      "napisać wiadomość przy pomocy DX klastra z prośbą do stacji włoskiej o obrócenie anten",
+      "poszukać innych chętnych do łączności gdyż ta stacja nie oczekuje teraz łączności z Europy"
+    ],
+    "a": 2,
+    "e": "Stacja skierowana na Pacyfik nie oczekuje teraz łączności z Europą.",
+    "verified": true
+  },
+  {
+    "id": "op-075",
+    "department": "operatorka",
+    "topic": "qkod",
+    "source": {
+      "pdf": "kategoria_1_v3",
+      "section": 3,
+      "number": 75,
+      "total": 75
+    },
+    "q": "Czy używanie znaków wywoławczych podczas łączności jest obowiązkowe?",
+    "o": [
+      "Nie, ale jest to ogólnie przyjęty dobry zwyczaj, pozytywnie świadczący o operatorze, pozwalający potwierdzić przeprowadzoną łączność",
+      "Tak, transmisja sygnałów bez identyfikacji jest zabroniona",
+      "Nie, można nie podawać znaków wywoławczych w krótkich łącznościach, beż żadnych konsekwencji radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "a": 1,
+    "e": "Podawanie znaku wywoławczego jest obowiązkowe.",
+    "verified": true
+  }
+]

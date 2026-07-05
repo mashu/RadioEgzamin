@@ -42,6 +42,10 @@ export function InteractiveRectifier() {
       </div>
       <p className="rk-ohm-lead">{info.desc}</p>
       <div className="rk-chartrow rk-chartrow-single">
+        {renderChart(type === 'half' ? 'circuit-rect-half' : type === 'full' ? 'circuit-rect-full' : 'circuit-rect-bridge')}
+      </div>
+      <p className="rk-ohm-hint rk-mono rk-ohm-caption">schemat obwodu · przebieg napięcia</p>
+      <div className="rk-chartrow rk-chartrow-single">
         {renderChart(type === 'half' ? 'rect-half' : type === 'full' ? 'rect-full' : 'rect-bridge')}
       </div>
       <p className="rk-ohm-hint">

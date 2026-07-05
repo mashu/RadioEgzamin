@@ -1,4 +1,5 @@
 import { DEPARTMENTS, DEPARTMENT_ORDER, type DepartmentId } from '@/data/departments';
+import { QUESTION_BANK_META } from '@/data/questions';
 
 type ExamDepartmentPickerProps = {
   readonly selected: ReadonlySet<DepartmentId>;
@@ -18,14 +19,20 @@ export function ExamDepartmentPicker({
   return (
     <div className="rk-card">
       <span className="rk-eyebrow">działy egzaminu</span>
-      <p className="rk-inksoft rk-tiny">Wybierz działy. Sesja obejmuje 8 pytań z każdego wybranego działu (lub mniej, gdy w bazie jest mniej pytań).</p>
+      <p className="rk-inksoft rk-tiny">
+        Pełna baza: {QUESTION_BANK_META.total} pytań (kategoria 1, wersja 3). Sesja losuje 8 pytań z każdego
+        wybranego działu.
+      </p>
       <div className="rk-dept-list">
         {DEPARTMENT_ORDER.map((id) => {
           const on = selected.has(id);
+          const pool = QUESTION_BANK_META.departments[id]?.total ?? 0;
           return (
             <label key={id} className={`rk-dept ${on ? 'is-on' : ''}`}>
               <input type="checkbox" checked={on} onChange={() => onToggle(id)} />
-              <span>{DEPARTMENTS[id]}</span>
+              <span>
+                {DEPARTMENTS[id]} <span className="rk-mono rk-dept-count">({pool})</span>
+              </span>
             </label>
           );
         })}

@@ -23,6 +23,7 @@ import {
   toPersistedExamState,
   writeExamCookie,
 } from '@/lib/persistence/examStorage';
+import { countBankProgress } from '@/lib/questions/progress';
 import { initModelState } from '@/lib/state/modelReducer';
 import type { ModelAction, ModelState, Question, TopicId } from '@/types/domain';
 
@@ -170,6 +171,7 @@ export function useExamSession(model: ModelState, dispatch: React.Dispatch<Model
   }, [sessionPlan, answered]);
 
   const curAB = current ? questionAB(model.q[current.id]!, model.t[current.topic]) : null;
+  const bankProgress = useMemo(() => countBankProgress(model), [model]);
 
   function toggleDepartment(id: DepartmentId) {
     setSelectedDepartments((prev) => {
@@ -240,5 +242,6 @@ export function useExamSession(model: ModelState, dispatch: React.Dispatch<Model
     onApplyDepartments,
     onResetModel,
     canStartSession: selectedDepartments.size > 0,
+    bankProgress,
   };
 }

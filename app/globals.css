@@ -86,6 +86,8 @@ html, body, .rk-app {
 .rk-explain p { margin:0 0 10px; font-size:14.5px; color:#2b3b46; }
 .rk-explain p:last-child { margin-bottom:0; }
 .rk-explain-chart { margin-top:14px; }
+.rk-qdiagram { margin:16px 0 4px; padding:12px; background:var(--surface); border:1px solid var(--line); border-radius:12px; }
+.rk-qdiagram .rk-chart { margin:0; }
 
 .rk-stats { display:flex; gap:10px; margin:12px 0 14px; }
 .rk-stat { flex:1; background:var(--panel); border-radius:10px; padding:12px; text-align:center; }
@@ -162,6 +164,7 @@ html, body, .rk-app {
   font-size:13px; font-weight:600; cursor:pointer; font-family:inherit; color:var(--ink-soft); transition:all .14s; }
 .rk-ohm-mode-btn.is-active { border-color:var(--signal); background:#f2fafb; color:var(--signal-2); }
 .rk-ohm-hint { margin:4px 0 0; font-size:13px; color:var(--ink-soft); }
+.rk-ohm-caption { font-size:12px; opacity:0.85; margin:8px 0 0; text-align:center; }
 
 .rk-ohm-exercise-head { margin-bottom:4px; }
 .rk-ohm-exercise-prompt { margin:6px 0 0; font-size:15px; font-weight:600; color:var(--ink); }
@@ -206,6 +209,8 @@ html, body, .rk-app {
 .rk-dept.is-on { border-color:var(--signal); background:#f2fafb; }
 .rk-dept-progress { display:flex; flex-direction:column; gap:8px; margin-top:10px; }
 .rk-dept-progress-row { display:flex; justify-content:space-between; gap:12px; font-size:13.5px; color:#2b3b46; }
+.rk-stats-compact { margin-bottom:8px; }
+.rk-dept-count { color:var(--ink-soft); font-size:12px; }
 
 /* focus */
 .rk-app button:focus-visible, .rk-app input:focus-visible {

@@ -12,12 +12,12 @@ import { parsePersistedExamState } from '@/lib/persistence/examStorage';
 describe('sessionPlan', () => {
   const model = initModelState();
 
-  it('maps radiotechnika to 61 questions in pool', () => {
-    expect(questionsInDepartment('radiotechnika').length).toBe(61);
+  it('maps radiotechnika to 338 questions in pool', () => {
+    expect(questionsInDepartment('radiotechnika').length).toBe(338);
   });
 
-  it('caps bezpieczeństwo at 6 questions when pool is smaller than 8', () => {
-    expect(targetCountForDepartment('bezpieczenstwo')).toBe(6);
+  it('targets 8 questions for bezpieczenstwo when pool is large enough', () => {
+    expect(targetCountForDepartment('bezpieczenstwo')).toBe(8);
   });
 
   it('builds 8 questions per selected department when possible', () => {
@@ -29,10 +29,10 @@ describe('sessionPlan', () => {
   it('builds full session for all departments', () => {
     const plan = buildSessionPlan(DEFAULT_DEPARTMENTS, model);
     expect(plan.perDepartment.radiotechnika).toBe(8);
-    expect(plan.perDepartment.bezpieczenstwo).toBe(6);
+    expect(plan.perDepartment.bezpieczenstwo).toBe(8);
     expect(plan.perDepartment.operatorka).toBe(8);
     expect(plan.perDepartment.prawo).toBe(8);
-    expect(sessionTotal(plan)).toBe(30);
+    expect(sessionTotal(plan)).toBe(32);
   });
 
   it('does not repeat question ids within a department pick', () => {
@@ -48,14 +48,14 @@ describe('examStorage', () => {
     const raw = JSON.stringify({
       v: 1,
       departments: ['prawo', 'operatorka'],
-      queue: ['r_itu', 'q_qrg'],
-      answered: ['r_itu'],
+      queue: ['pr-001', 'op-001'],
+      answered: ['pr-001'],
       session: { n: 1, correct: 1, streak: 1 },
       model,
     });
     const parsed = parsePersistedExamState(raw);
     expect(parsed?.departments).toEqual(['prawo', 'operatorka']);
-    expect(parsed?.answered).toEqual(['r_itu']);
+    expect(parsed?.answered).toEqual(['pr-001']);
     expect(parsed?.session.n).toBe(1);
   });
 

@@ -1,7 +1,8 @@
 import { BetaChart } from '@/components/charts/BetaChart';
 import { MasteryBars, type MasteryBarItem } from '@/components/charts/MasteryBars';
 import { WeightBars, type WeightBarItem } from '@/components/charts/WeightBars';
-import type { DepartmentId } from '@/data/departments';
+import { DEPARTMENTS, DEPARTMENT_ORDER, type DepartmentId } from '@/data/departments';
+import type { BankProgress } from '@/lib/questions/progress';
 import type { ReactNode } from 'react';
 
 type DepartmentProgressItem = {
@@ -16,6 +17,7 @@ type ExamDashboardProps = {
   readonly total: number;
   readonly accuracy: number;
   readonly streak: number;
+  readonly bankProgress: BankProgress;
   readonly currentBeta: { readonly a: number; readonly b: number } | null;
   readonly masteryBars: readonly MasteryBarItem[];
   readonly weightBars: readonly WeightBarItem[];
@@ -29,6 +31,7 @@ export function ExamDashboard({
   total,
   accuracy,
   streak,
+  bankProgress,
   currentBeta,
   masteryBars,
   weightBars,
@@ -36,9 +39,43 @@ export function ExamDashboard({
   departmentPicker,
   onResetModel,
 }: ExamDashboardProps) {
+  const { attempted: bankAttempted, total: bankTotal, byDepartment: bankByDepartment } = bankProgress;
+
   return (
     <aside className="rk-dash">
       {departmentPicker}
+
+      <div className="rk-card">
+        <span className="rk-eyebrow">baza pytań · kategoria 1</span>
+        <div className="rk-stats rk-stats-compact">
+          <div className="rk-stat">
+            <div className="rk-stat-v rk-mono">
+              {bankAttempted}/{bankTotal}
+            </div>
+            <div className="rk-stat-l">przerobione</div>
+          </div>
+        </div>
+        <div className="rk-progress">
+          <div
+            className="rk-progress-fill"
+            style={{ width: bankTotal ? `${(bankAttempted / bankTotal) * 100}%` : '0%' }}
+          />
+        </div>
+        <div className="rk-dept-progress">
+          {DEPARTMENT_ORDER.map((id) => {
+            const row = bankByDepartment[id];
+            if (!row) return null;
+            return (
+              <div key={id} className="rk-dept-progress-row">
+                <span>{DEPARTMENTS[id]}</span>
+                <span className="rk-mono">
+                  {row.attempted}/{row.total}
+                </span>
+              </div>
+            );
+          })}
+        </div>
+      </div>
 
       <div className="rk-card">
         <span className="rk-eyebrow">pulpit sesji</span>

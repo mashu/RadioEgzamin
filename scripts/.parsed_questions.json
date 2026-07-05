@@ -1,0 +1,6254 @@
+[
+  {
+    "number": 1,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który z poniższych materiałów jest dobrym izolatorem elektrycznym?",
+    "o": [
+      "szkło",
+      "grafit",
+      "krzem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 2,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Obwód elektryczny składa się z kilku rezystorów o różnych wartościach i źródła zasilania. Połączenie, w którym przez wszystkie elementy płynie ten sam prąd nazywamy połączeniem:",
+    "o": [
+      "rezonansowym",
+      "szeregowym",
+      "równoległym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 3,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Przez kondensator o impedancji 10 Ω płynie prąd przemienny o częstotliwości 50Hz i wartości 2A. Jaki będzie spadek napięcia na kondensatorze?",
+    "o": [
+      "10 V",
+      "50 V",
+      "20 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 4,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Przez trzy równoległe rezystory 1 Ω, 2 Ω i 4 Ω płyną prądy odpowiednio 4 A, 2 A i 1A. Całkowite natężenie prądu płynącego w obwodzie to:",
+    "o": [
+      "4 A",
+      "1 A",
+      "7 A"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 5,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "O ile spadnie napięcie 12 V akumulatora o rezystancji wewnętrznej 0,1 Ω przy poborze 10 A prądu?",
+    "o": [
+      "1 V",
+      "10 V",
+      "0,1 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 6,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Łącząc równolegle źródła napięcia powinno się:",
+    "o": [
+      "łączyć źródła o tej samej wydajności prądowej",
+      "łączyć źródła tylko tego samego typu",
+      "zadbać by ich napięcia były jednakowe"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 7,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak nazywa się zdolność do gromadzenia energii w polu elektrycznym?",
+    "o": [
+      "opór",
+      "pojemność",
+      "kapacytancja"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 8,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Współczynnikiem skrócenia przewodu nazywamy:",
+    "o": [
+      "stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni",
+      "stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości dźwięku w powietrzu",
+      "parametr wtyczki, określający o ile zostanie skrócony kabel po jej montażu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 9,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak nazywa się prąd, który zmienia swój kierunek w regularnych odstępach czasu?",
+    "o": [
+      "prąd stały",
+      "prąd przemienny",
+      "prąd siatki"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 10,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "We wzmacniaczu tranzystorowym w układzie wspólnego kolektora obciążenie jest dołączane między:",
+    "o": [
+      "kolektor a zasilanie",
+      "bazę a kolektor",
+      "emiter a masę"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 11,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Od czego zależna jest rezystancja przewodu?",
+    "o": [
+      "jego materiału, długości, przekroju i temperatury.",
+      "jego materiału, długości, przekroju i użytej izolacji.",
+      "jego materiału, długości, przekroju i napięcia pracy."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 12,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który przewód o tej samej długości i przekroju będzie miał największą rezystancję?",
+    "o": [
+      "wykonany z aluminium",
+      "wykonany z żelaza",
+      "wykonany z miedzi"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 13,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W obwodzie prądu stałego przez rezystor 1 kΩ płynie prąd 2 mA. Jaki jest spadek napięcia na rezystorze?",
+    "o": [
+      "200 V",
+      "2000 V",
+      "2 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 14,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Do zasilacza o napięciu 12 V chcemy podłączyć diodę świecącą o napięciu przewodzenia 3 V i nominalnym prądzie 20 mA. Jaki rezystor należy włączyć w szereg, by ograniczyć prąd?",
+    "o": [
+      "600 Ω",
+      "150 Ω",
+      "450 Ω"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 15,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Która z cech łączy szeregowy obwód rezonansowy LC z typową anteną (dipol półfalowy):",
+    "o": [
+      "w rezonansie stanowią tylko rezystancję",
+      "w rezonansie stanowią reaktancję pojemnościową",
+      "w rezonansie stanowią reaktancję indukcyjną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 16,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wartość skuteczna napięcia sieciowego wynosi 230 V, ile wynosi jego amplituda?",
+    "o": [
+      "230 V",
+      "325 V",
+      "220 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 17,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest zależność fazowa między przepływającym prądem a napięciem w szeregowym obwodzie rezonansowym w rezonansie?",
+    "o": [
+      "napięcie wyprzedza prąd o 90 stopni",
+      "prąd wyprzedza napięcie o 90 stopni",
+      "napięcie i prąd są zgodne w fazie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 18,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Działanie funkcji \"Noise Blanker\" polega na:",
+    "o": [
+      "zwiększeniu pasma odbiornika",
+      "zmniejszeniu wzmocnienia odbiornika podczas okresowych impulsów zakłóceń",
+      "przekierowaniu zakłóceń do kondensatora filtrującego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 19,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Modulacja CW nazywana jest modulacją wąskopasmową, czy zatem jest możliwe dowolne zawężanie filtra wejściowego odbiornika celem odcięcia bocznych sygnałów niepożądanych?",
+    "o": [
+      "można zawężać dowolnie",
+      "nie można, poniżej pewnej wartości szerokości filtra sygnał staje się nieczytelny",
+      "można zawężać ale tylko o parzyste liczby herców"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 20,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W temperaturze pokojowej moc szumów termicznych w kanale o szerokości 1 Hz wynosi -174 dBm. Ile wynosi moc szumów w kanale o szerokości 10 kHz:",
+    "o": [
+      "-134 dBm",
+      "-214 dBm",
+      "-170 dBm"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 21,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Panel fotowoltaiczny oddaje moc 24W i ładuje akumulator prądem 2A. Zakładając stuprocentową sprawność układu ładowania, jakie jest napięcie na akumulatorze?",
+    "o": [
+      "napięcie wynosi 24 V",
+      "napięcie wynosi 12 V",
+      "napięcie wynosi 48 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 22,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Rezystor ma wartość 200 Ω. Płynie przez niego prąd 300 mA. Jaka moc wydziela się na rezystorze?",
+    "o": [
+      "18 W",
+      "1800 W",
+      "1,8 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 23,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Które z poniższych stwierdzeń opisuje modulację amplitudy (A3E)?",
+    "o": [
+      "posiada obie wstęgi boczne",
+      "nie posiada wstęg bocznych",
+      "jest odporna na przemodulowanie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 24,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Modulacja PSK polega na:",
+    "o": [
+      "dyskretnej zmianie fazy sygnału",
+      "modulacji mocy wyjściowej",
+      "nadawaniu obu wstęg bocznych na raz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 25,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie są trzy metody uzyskiwania modulacji jednowstęgowej?",
+    "o": [
+      "detekcja obwiedni, przez zmianę częstotliwości fali nośnej, metoda sumacyjna",
+      "metoda filtrowa, metoda fazowa, metoda Weavera",
+      "metoda Marconiego, metoda Popowa, metoda kohererowa"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 26,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Która z wymienionych modulacji ma najwęższe pasmo?",
+    "o": [
+      "SSB",
+      "PSK31",
+      "CW"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 27,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeśli dla sygnału AM amplituda sygnału modulującego równa jest amplitudzie fali nośnej, to mówimy, że:",
+    "o": [
+      "współczynnik głębokości modulacji wynosi 100%",
+      "sygnał jest przesterowany",
+      "jest to modulacja z wytłumioną falą nośną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 28,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Szerokość kanału sygnału PSK31 wynosi:",
+    "o": [
+      "około 1 kHz",
+      "około 60 Hz",
+      "około 31,25 Hz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 29,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie napięcie występuje na rezystorze o wartości 50 Ω przy dostarczeniu do niego mocy 200 W?",
+    "o": [
+      "100 V",
+      "10000 V",
+      "4 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 30,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Siła elektromotoryczna ogniwa wynosi 1,5 V. Rezystancja wewnętrzna ogniwa wynosi 0,1 Ω. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?",
+    "o": [
+      "1,5 V",
+      "1 V",
+      "1,4 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 31,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Liczba 31 w nazwie modulacji BPSK31 oznacza:",
+    "o": [
+      "szerokość kanału - 31 Hz",
+      "szybkość przesyłania informacji - 31 Bd",
+      "głębokość modulacji - 31%"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 32,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W jaki sposób w emisjach cyfrowych można zapewnić korekcję błędów spowodowanych zakłóceniami i zanikami w łączności radiowej:",
+    "o": [
+      "przez wprowadzenie sumy kontrolnej CRC i ponowne wysyłanie tej samej informacji",
+      "robi to operator wprowadzając odpowiednią komendę do modemu",
+      "nie wprowadza się korekcji, zaniki są naturalną cechą łączności cyfrowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 33,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Moc PEP jest:",
+    "o": [
+      "mocą średnią",
+      "mocą w szczytach modulacji",
+      "mocą maksymalną tranzystora, po przekroczeniu której ulega uszkodzeniu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 34,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Sygnał silniejszy o 3 dB to:",
+    "o": [
+      "sygnał o trzykrotnie większej mocy",
+      "sygnał o dziesięciokrotnie większej mocy",
+      "sygnał o dwukrotnie większej mocy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 35,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na skali S-metru jedna jednostka odpowiada wzrostowi odbieranego sygnału o 6 dB. Aby sygnał odbierany przez naszego korespondenta wzrósł z S7 do S9, moc nadajnika należy zwiększyć:",
+    "o": [
+      "ośmiokrotnie",
+      "czterokrotnie",
+      "szesnastokrotnie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 36,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "System antenowy dostarcza sygnał na poziomie -20dBm, jest on podłączony do przedwzmacniacza o wzmocnieniu 10dB kablem o tłumieniu 3dB. Jakiej mocy sygnał uzyskamy na wyjściu przedwzmacniacza?",
+    "o": [
+      "-13 dBm",
+      "-33 dBm",
+      "-27 dBm"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 37,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na wejście analizatora widma można bezpiecznie podać sygnał o mocy 20 dBm. Jakiego tłumika należy użyć, by nie uszkodzić przyrządu badając sygnał wyjściowy nadajnika o mocy 100 W:",
+    "o": [
+      "co najmniej 10 dB",
+      "co najmniej 30 dB",
+      "co najmniej 20 dB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 38,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak przebiegają linie pola magnetycznego wytworzonego przez przewodnik z prądem?",
+    "o": [
+      "są równolegle do osi przewodu",
+      "przewodnik z prądem wytwarza tylko pole elektryczne",
+      "są równoległe do poweirzchni przewodnika i prostopadłe do jego osi"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 39,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej i w konsekwencji:",
+    "o": [
+      "odbicia sygnału od miejsca niedopasowania i straty w linii transmisyjnej",
+      "może spowodować spalenie anteny",
+      "drgania fidera"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 40,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Nadajnik o mocy wyjściowej 100 W pobiera z zasilacza 280 W. Jego sprawność wynosi około:",
+    "o": [
+      "36%",
+      "64%",
+      "280%"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 41,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaką moc PEP dostarcza nadajnik, jeśli napięcie międzyszczytowe (peak to peak) zmierzone oscyloskopem na sztucznym obciążeniu 50 Ω wynosi 200 V?",
+    "o": [
+      "200 W",
+      "100 W",
+      "50 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 42,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka powinna być częstotliwość próbkowania sygnału o maksymalnej częstotliwości składowej 50 kHz, aby poprawnie można było ten sygnał odtworzyć?",
+    "o": [
+      "minimum 50 kHz",
+      "minimum 100 kHz",
+      "minimum 500 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 43,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Rozdzielczość bitowa przetwornika ADC wpływa na:",
+    "o": [
+      "zakres dynamiki",
+      "szybkość próbkowania",
+      "pasmo przenoszenia"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 44,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Transformator sieciowy na napięcie 230V, o sprawności 100 %, dostarcza po stronie wtórnej napięcia 23V przy maksymalnym prądzie 10A. Jakiego prądu można się spodziewać po stronie pierwotnej transformatora?",
+    "o": [
+      "2 A",
+      "co najmniej 1 A",
+      "10 A"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 45,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W tranzystorach polowych prąd drenu sterowany jest przez",
+    "o": [
+      "prąd bazy",
+      "napięcie pomiędzy bramką, a źródłem",
+      "pojemność złączową"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 46,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Szeregowy obwód rezonansowy LC połączony w szereg z obciążeniem stanowi:",
+    "o": [
+      "filtr pasmowoprzepustowy",
+      "filtr pasmowozaporowy",
+      "filtr IIR"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 47,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie zalety sprawiają, że filtry kwarcowe stosowane są w torze p. cz.?",
+    "o": [
+      "duża stromość zboczy charakterystyki częstotliwościowej pozwala na uzyskanie dobrej selektywności",
+      "zafalowania charakterystyki częstotliwościowej w pasmie przenoszenia pozwalają na łatwą realizację funkcji automatycznej regulacji wzmocnienia",
+      "łatwość budowy filtru o przestrajanej częstotliwości środkowej pozwala stworzyć filtr podążający za częstotliwością VFO"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 48,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Element aktywny we wzmacniaczu przewodzi przez cały okres wzmacnianego sygnału. Wzmacniacz ten pracuje w klasie:",
+    "o": [
+      "A",
+      "B",
+      "C"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 49,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W jakim celu używana jest automatyczna kontrola poziomu (ALC) we wzmacniaczu mocy RF?",
+    "o": [
+      "aby zrównoważyć charakterystykę częstotliwościową nadajnika",
+      "aby zredukować promieniowanie harmonicznych",
+      "aby zmniejszyć zniekształcenia spowodowane nadmiernym wysterowaniem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 50,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Efektem mieszania dwóch sygnałów o częstotliwościach: 5 MHz i 2 MHz jest:",
+    "o": [
+      "sygnał o częstotliwości 3 MHz",
+      "sygnał o częstotliwości 7 MHz",
+      "dwa sygnały o częstotliwości 3 MHz i 7 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 51,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który termin opisuje zdolność odbiornika do wyodrębnienia spośród różnych sygnałów doprowadzonych do wejścia odbiornika tylko sygnału o takiej częstotliwości, na którą jest nastrojony:",
+    "o": [
+      "współczynnik dyskryminacji",
+      "czułość",
+      "selektywność"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 52,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Pewien ręczny radiotelefon VHF/UHF pozbawiony jest filtrów pasmowych w torze wejściowym. Podczas aktywacji jednego ze szczytów w ramach programu SOTA okazało się, że nie można odebrać sygnałów korespondentów, pomimo wykorzystania dobrej anteny dookólnej. Czym może być spowodowane to zjawisko?",
+    "o": [
+      "rozpraszaniem sygnału na śladach jonizacyjnych meteorów (meteor scatter)",
+      "zmniejszeniem czułości odbiornika przez mocny sygnał nadajnika rozgłośni radiowej na sąsiedniej górze",
+      "silnymi podmuchami wiatru"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 53,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W odbiorniku superheterodynowym szumy fazowe oscylatora lokalnego mają wpływ na:",
+    "o": [
+      "pogorszenie stosunku sygnału do szumu",
+      "pływanie odbieranego sygnału telegraficznego",
+      "zmniejszenie sygnału audio"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 54,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy antena typu delta, o długości promiennika ~41 m będzie poprawnie działała w paśmie 20 m?",
+    "o": [
+      "nIe, to jest antena jednopasmowa",
+      "tak, antena typu delta stroi się na kolejnych harmonicznych",
+      "tak, ale tylko jako odbiorcza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 55,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co stanie się kiedy nasz korespondent w paśmie 70 cm używa anteny o odmiennej polaryzacji niż nasza?",
+    "o": [
+      "wstęgi boczne modulacji mogą zostać odwrócone",
+      "sygnały mogą być znacznie słabsze",
+      "słyszymy efekt echa na sygnale"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 56,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co oznacza pojęcie „stosunek przód-tył” w odniesieniu do anteny Yagi-Uda?",
+    "o": [
+      "stosunek liczby direktorów do reflektorów",
+      "stosunek mocy wypromieniowanej w kierunku głównego listka promieniowania do kierunku przeciwnego",
+      "stosunek mocy wypromieniowanej w przód anteny do dipola półfalowego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 57,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Współczynnik skrócenia kabla koncentrycznego to:",
+    "o": [
+      "stosunek prędkości rozchodzenia się fali w kablu do prędkości rozchodzenia w próżni",
+      "stosunek długości kabla do jego średnicy",
+      "parametr charakteryzujący odporność kabla na promieniowanie UV"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 58,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie znaczenie ma liczba plam słonecznych w odniesieniu do propagacji KF?",
+    "o": [
+      "wyższa liczba plam słonecznych generalnie wskazuje na większe prawdopodobieństwo dobrej propagacji na wyższych częstotliwościach",
+      "niższa liczba plam słonecznych ogólnie wskazuje na większe prawdopodobieństwo wystąpienia sporadycznej propagacji przez warstwę E.",
+      "zerowa liczba plam słonecznych oznacza, że propagacja radiowa nie jest możliwa w żadnym paśmie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 59,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co oznacza skrót MUF?",
+    "o": [
+      "minimalna użyteczna częstotliwość dla komunikacji między dwoma punktami",
+      "maksymalna użyteczna częstotliwość do komunikacji między dwoma punktami",
+      "minimalna użyteczna częstotliwość na następne 24 godziny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 60,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Ile mocy zostaje wypromieniowane przez antenę, jeśli miernik mocy podłączony pomiędzy nadajnik a antenę wskazuje 100 W mocy padającej i 30 W mocy odbitej?",
+    "o": [
+      "130 W",
+      "70 W",
+      "30 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 61,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest przewaga wektorowego analizatora antenowego (VNA) nad miernikiem SWR (reflektometrem)?",
+    "o": [
+      "miernik SWR wymaga określonej częstotliwości do działania",
+      "analizator nie potrzebuje dodatkowego zasilania zasilając się z sygnału w.cz z nadajnika",
+      "analizator jest w stanie wykazać składową indukcyjną lub pojemnościową badanej anteny oraz określić miejsce rezonansu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 62,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który parametr ma największy wpływ na dokładność miernika częstotliwości?",
+    "o": [
+      "dokładność tłumika wejściowego",
+      "dokładność generatora wzorcowego",
+      "dokładność kalibracji dzielnika częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 63,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co jest dobrą praktyką przy pomiarach obwodów wielkiej częstotliwości za pomocą oscyloskopu?",
+    "o": [
+      "utrzymanie jak najkrótszego połączenia uziemienia sondy",
+      "nieużywanie sprzężenia stałoprądowego do pomiarów sygnałów przemiennych",
+      "ustawianie oscyloskopu na najkrótszą podstawę czasu jak to tylko możliwe"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 64,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Proces, który zachodzi w nieliniowym elemencie lub układzie elektronicznym, kiedy składowe widma sygnału oddziałują na siebie tworząc fałszywe sygnały to:",
+    "o": [
+      "demodulacja",
+      "powielanie",
+      "intermodulacja"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 65,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co jest jednostką impedancji?",
+    "o": [
+      "farad",
+      "om",
+      "herc"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 66,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy opór elektryczny przewodu zależy od materiału z którego jest wykonany?",
+    "o": [
+      "zależy",
+      "nie zależy",
+      "zależy od izolacji przewodu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 67,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Izolatorami nazywamy materiały które:",
+    "o": [
+      "nie przewodzą prądu elektrycznego",
+      "przewodzą słabo",
+      "przewodzą prąd przy wysokim napięciu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 68,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który przewód o tej samej długości i przekroju będzie miał najmniejszą oporność?",
+    "o": [
+      "wykonany z aluminium",
+      "wykonany z żelaza",
+      "wykonany z miedzi"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 69,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który z materiałów ma własności półprzewodnikowe?",
+    "o": [
+      "złoto",
+      "german",
+      "platyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 70,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Żarówka 12 V pobiera z baterii 0,1 A. Jaką oporność ma żarówka?",
+    "o": [
+      "oporność 120 Ω",
+      "oporność 12 Ω",
+      "oporność 1,2 Ω"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 71,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Żarówka ma moc 24 W i pobiera z akumulatora 2 A. Jakie jest napięcie akumulatora?",
+    "o": [
+      "napięcie wynosi 24 V",
+      "napięcie wynosi 12 V",
+      "napięcie wynosi 48 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 72,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Ferromagnetyki to materiały, których przenikalność magnetyczna jest:",
+    "o": [
+      "większa niż przenikalność magnetyczna powietrza",
+      "mniejsza niż przenikalność magnetyczna powietrza",
+      "równa przenikalności magnetycznej powietrza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 73,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy prędkość fali elektromagnetycznej zależy od ośrodka, w którym się rozchodzi?",
+    "o": [
+      "tak",
+      "nie zależy",
+      "zależy jedynie od temperatury ośrodka"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 74,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Długość fali elektromagnetycznej rozchodzącej się w powietrzu wynosi 1500 metrów. Jaka jest częstotliwość tej fali?",
+    "o": [
+      "2 MHz",
+      "200 kHz",
+      "233 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 75,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaki minimalny zakres częstotliwości dźwięków wystarcza dla zrozumiałego nadawania mowy?",
+    "o": [
+      "od 300 Hz do 3 kHz",
+      "od 100 Hz do 5 kHz",
+      "od 20 Hz do 15 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 76,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Modulacja telegraficzna CW polega na:",
+    "o": [
+      "przerywaniu fali nośnej",
+      "zmianie jej częstotliwości",
+      "zmianie jej fazy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 77,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Emisja CW jest emisją:",
+    "o": [
+      "wąskopasmową",
+      "szerokopasmową",
+      "z modulacją fazy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 78,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Powszechnie używana szerokość kanału FM w paśmie 2 m to:",
+    "o": [
+      "12,5 kHz",
+      "50 kHz",
+      "200 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 79,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Powszechnie używana szerokość kanału przy emisji SSB to:",
+    "o": [
+      "9 kHz",
+      "2,7 kHz",
+      "1,5 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 80,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Która z podanych mocy PEP odpowiada napięciu maksymalnemu Umax = 100 V, zmierzonemu oscyloskopem na wyjściu nadajnika, na obciążeniu 50Ω ?",
+    "o": [
+      "200 W",
+      "100 W",
+      "50 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 81,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Do cewki powietrznej 100 µH wkładamy rdzeń ferrytowy o względnej przenikalności µ = 10. Ile wyniesie indukcyjność cewki?",
+    "o": [
+      "wzrośnie do 1000 µH",
+      "nie zmieni się",
+      "zmaleje do 10 µH"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 82,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Są dwie cewki powietrzne. Przy tej samej średnicy i liczbie zwojów, L1 jest nawinięta drutem dwa razy grubszym niż L2. Która z nich ma większą dobroć Q?",
+    "o": [
+      "cewka L1",
+      "cewka L2",
+      "obie mają taką samą dobroć, bo mają tą samą średnicę"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 83,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Przekładnia transformatora wynosi 20 do 1. Strona pierwotna włączona jest na napięcie sieci 240 V. Jakie napięcie będzie po stronie wtórnej?",
+    "o": [
+      "24 V",
+      "12 V",
+      "20 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 84,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Diody prostownicze są stosowane do:",
+    "o": [
+      "do eliminacji tętnień zasilacza",
+      "do prostowania prądu w zasilaczach",
+      "do stabilizacji napięć"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 85,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Diody Zenera to diody:",
+    "o": [
+      "służące do stabilizacji napięć",
+      "świecące",
+      "na bardzo wysokie częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 86,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Warikap to:",
+    "o": [
+      "dioda mikrofalowa",
+      "dioda pojemnościowa",
+      "dioda stabilizacyjna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 87,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Lampa elektronowa pentoda posiada:",
+    "o": [
+      "pięć elektrod",
+      "cztery elektrody",
+      "trzy elektrody"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 88,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Cztery oporniki o wartościach 5 Ω zostały połączone szeregowo. Ile wynosi oporność zastępcza?",
+    "o": [
+      "10 Ω",
+      "20 Ω",
+      "40 Ω"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 89,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Ile oporników bezindukcyjnych o wartości 200 Ω należy połączyć równolegle by uzyskać sztuczne obciążenie antenowe 50 Ω?",
+    "o": [
+      "5 szt.",
+      "2 szt.",
+      "4 szt."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 90,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?",
+    "o": [
+      "prostownik dwupołówkowy",
+      "prostownik jednopołówkowy",
+      "prostownik mostkowy dwupołówkowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 91,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?",
+    "o": [
+      "prostownik dwupołówkowy",
+      "prostownik jednopołówkowy",
+      "prostownik mostkowy dwupołówkowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 92,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wzmacniacz wzmacnia sygnały w zakresie od 100Hz do 10 kHz. Wzmacniacz ten nazywamy wzmacniaczem:",
+    "o": [
+      "niskiej częstotliwości",
+      "wzmacniaczem pośredniej częstotliwości",
+      "wzmacniaczem selektywnym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 93,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wzmacniacz jest przesterowany kiedy:",
+    "o": [
+      "ma za duże napięcie zasilania",
+      "ma za duże napięcie wejściowe",
+      "pracuje w klasie C"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 94,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W jakiej klasie powinien pracować wzmacniacz w.cz. do wzmacniania sygnału SSB?",
+    "o": [
+      "w klasie C",
+      "w klasie AB",
+      "impulsowo"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 95,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 1 to:",
+    "o": [
+      "generator stabilizowany",
+      "komparator",
+      "dzielnik wzorca"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 96,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych, ale nieopisanych bloków. Blok 4 to:",
+    "o": [
+      "dzielnik wzorca",
+      "generator wzorca",
+      "komparator"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 97,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 1 to:",
+    "o": [
+      "filtr wejściowy",
+      "wzmacniacz akustyczny",
+      "detektor AM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 98,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 5 to:",
+    "o": [
+      "heterodyna",
+      "wzmacniacz akustyczny",
+      "detektor AM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 99,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 1 to:",
+    "o": [
+      "wzmacniacz w.cz.",
+      "wzmacniacz akustyczny",
+      "detektor AM CW SSB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 100,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 9 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "wzmacniacz pośredniej cz.",
+      "heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 101,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 1 to:",
+    "o": [
+      "filtr wejściowy",
+      "wzmacniacz akustyczny",
+      "heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 102,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 2 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "I mieszacz",
+      "wzmacniacz II p.cz."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 103,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka powinna być stabilność heterodyny w odbiorniku komunikacyjnym? Częstotliwość heterodyny na najwyższym zakresie po włączeniu odbiornika powinna zmieniać się nie więcej jak:",
+    "o": [
+      "o 200 Hz",
+      "o 500 Hz",
+      "o 1000 Hz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 104,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 4 to:",
+    "o": [
+      "filtr wyjściowy",
+      "wzmacniacz mocy (PA)",
+      "separator"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 105,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 1 to:",
+    "o": [
+      "wzmacniacz mocy (PA)",
+      "oscylator (VFO)",
+      "separator"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 106,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 1 to:",
+    "o": [
+      "wzmacniacz mocy (PA)",
+      "oscylator (VFO) 5 - 5,5 MHz",
+      "wzbudnica SSB 9 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 107,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 2 to:",
+    "o": [
+      "wzmacniacz sterujący",
+      "mieszacz",
+      "filtr wyjściowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 108,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest horyzontalna charakterystyka promieniowania dipola półfalowego zawieszonego poziomo w wolnej przestrzeni?",
+    "o": [
+      "dookólna",
+      "ósemkowa",
+      "kierunkowa w linii zawieszenia"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 109,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest horyzontalna charakterystyka promieniowania pionowej anteny ćwierćfalowej?",
+    "o": [
+      "dookólna",
+      "kierunkowa",
+      "w kształcie koniczyny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 110,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 1 to:",
+    "o": [
+      "reflektor",
+      "wibrator",
+      "I direktor"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 111,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 2 to:",
+    "o": [
+      "wibrator",
+      "II direktor",
+      "reflektor"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 112,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 3 to:",
+    "o": [
+      "wibrator",
+      "I direktor",
+      "II direktor"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 113,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiona jest antena typu Yagi-Uda. Element 4 to:",
+    "o": [
+      "I direktor",
+      "II direktor",
+      "wibrator"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 114,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W jakim przypadku powstaje w linii przesyłowej w.cz. fala stojąca?",
+    "o": [
+      "kiedy kabel nie jest ułożony prosto",
+      "kiedy obok kabla koncentrycznego przechodzi inny kabel",
+      "kiedy impedancja obciążenia nie jest zgodna z impedancją falową kabla"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 115,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak nazywa się przyrząd do mierzenia współczynnika fali stojącej?",
+    "o": [
+      "rezystomierz",
+      "reflektometr",
+      "refraktometr"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 116,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Reflektometr wskazuje, że amplituda fali padającej jest równa amplitudzie fali odbitej. Współczynnik fali stojącej równy jest nieskończoności. Co może być przyczyną takiego stanu?",
+    "o": [
+      "zwarcie lub przerwa w kablu",
+      "niewielka zmiana oporności falowej anteny",
+      "zamoczenie izolacji w kablu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 117,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Niesymetryczny kabel koncentryczny 50 Ω do symetrycznej anteny o oporności falowej 50 Ω najlepiej połdączyć za pomocą:",
+    "o": [
+      "ununa 9:1",
+      "baluna 1:1 (symetryzatora)",
+      "baluna 1:2"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 118,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy stan jonosfery ma wpływ na rozchodzenie się fal krótkich?",
+    "o": [
+      "słaby",
+      "tylko okresowo, w dzień",
+      "ma bardzo duży wpływ"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 119,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Około 11-letnie cykle zmian propagacji związane są z:",
+    "o": [
+      "cyklem słonecznym",
+      "cyklem przebiegunowania Ziemi",
+      "fluktuacjami średniego poziomu morza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 120,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co to jest zasięg horyzontalny na UKF?",
+    "o": [
+      "zasięg wyznaczony linią horyzontu radiowego",
+      "zasięg obliczony z mocy promieniowanej e.i.r.p.",
+      "zasięg teoretyczny nadajnika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 121,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dalekie rozchodzenie się fal UKF podczas inwersji temperaturowej zawdzięczamy:",
+    "o": [
+      "wielokrotnemu odbijaniu się fal od ciepłej ziemi",
+      "odbijaniu się fal radiowych od podstawy chmur wysokich",
+      "prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 122,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Skrót EME oznacza łączności:",
+    "o": [
+      "z wykorzystaniem odbicia sygnału od Księżyca",
+      "wykorzystaniem do łączności siły elektromotorycznej SEM",
+      "za pomocą elektromagnetycznej emisji EME na UKF"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 123,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak w warunkach amatorskich zmierzyć moc wyjściową nadajnika?",
+    "o": [
+      "poprzez pomiar napięcia za pomocą sondy w.cz. na oporze sztucznej anteny 50 om i obliczenie",
+      "poprzez pomiar prądu i napięcia stałego doprowadzonego do stopnia mocy (PA)",
+      "poprzez uzyskanie raportu od korespondenta"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 124,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakim przyrządem mierzymy dopasowanie anteny do nadajnika?",
+    "o": [
+      "miernikiem zniekształceń nieliniowych",
+      "sprawdzeniem czy kabel się nie grzeje",
+      "za pomocą reflektometru"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 125,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak zwalczyć zakłócenia rozprowadzane siecią energetyczną?",
+    "o": [
+      "przez stosowanie grubych przewodów",
+      "przez stosowanie filtrów sieciowych, ekranowanie urządzeń i odpowiednią konstrukcję urządzeń",
+      "przez zastosowanie zabezpieczenia różnicowoprądowego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 126,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeżeli nadajnik amatorski powoduje zakłócenia, to jakie elementy sprawdzamy w pierwszej kolejności?",
+    "o": [
+      "prawidłowe działanie mikrofonu",
+      "blokadę szumów odbiornika",
+      "liniowość stopnia mocy (PA), filtr wyjściowy, uziemienie radiostacji"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 127,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeżeli nadajnik promieniuje energię w.cz. poprzez sieć zasilającą to stosujemy:",
+    "o": [
+      "filtr w.cz. na wyjściu antenowym nadajnika",
+      "dławnicę kablową",
+      "uziemiamy obudowę i włączamy filtr sieciowy w zasilanie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 128,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka instytucja zajmuje się lokalizowaniem zakłóceń radiowych i radioelektrycznych oraz badaniem sprzętu radionadawczego?",
+    "o": [
+      "Urząd Komunikacji Elektronicznej",
+      "Ministerstwo Ochrony Środowiska",
+      "sztaby antykryzysowe"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 129,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W obwodzie prądu stałego przez opornik 1000 Ω płynie prąd 2 mA. Jaki jest spadek napięcia na oporze?",
+    "o": [
+      "spadek wynosi 500 V",
+      "spadek wynosi 2000 V",
+      "spadek wynosi 2 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 130,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Akumulator ma napięcie 6,5 V. Do akumulatora chcemy podłączyć żarówkę 3,5 V 0,3 A. Jaki opornik należy włączyć w szereg by ograniczyć prąd?",
+    "o": [
+      "opornik 3,5 Ω",
+      "opornik 100 Ω",
+      "opornik 10 Ω"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 131,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie napięcie występuje na oporze 50 Ω przy dostarczeniu do niego mocy 200 W?",
+    "o": [
+      "100 V",
+      "200 V",
+      "50 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 132,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dobierz optymalnie moc nominalną (znamionową) rezystora 100 Ω w przypadku w którym płynący przez niego prąd wywołuje na nim spadek napięcia 3V.",
+    "o": [
+      "1 W",
+      "0,125 W",
+      "0,5 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 133,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest częstotliwość prądu zmiennego, którego okres wynosi 0,02 s?",
+    "o": [
+      "100 Hz",
+      "50 Hz",
+      "60 Hz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 134,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wartość amplitudy napięcia sinusoidalnego wynosi 200 V. Jaka jest wartość skuteczna napięcia?",
+    "o": [
+      "200 V",
+      "400 V",
+      "141,4 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 135,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Napięcie międzyszczytowe sinusoidalnego prądu zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia?",
+    "o": [
+      "340 V",
+      "240 V",
+      "680 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 136,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Siła elektromotoryczna ogniwa wynosi 1,5 V. Oporność wewnętrzna ogniwa wynosi 0,1Ω. Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?",
+    "o": [
+      "1,5 V",
+      "1 V",
+      "1,4 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 137,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Pole elektryczne może być ekranowane za pomocą:",
+    "o": [
+      "ekranów z blach",
+      "ekranów z izolatorów",
+      "ekranów z włókna szklanego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 138,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dlaczego rdzenie transformatorów wykonywane są z blaszek?",
+    "o": [
+      "ze względu na lepsze chłodzenie",
+      "ze względu na łatwiejsze wykonanie",
+      "ze względu na mniejsze straty wynikające z prądów wirowych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 139,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Fala elektromagnetyczna ma dwie składowe. Zaznacz która kombinacja jest poprawna:",
+    "o": [
+      "składowa elektryczna i składowa prędkości",
+      "składowa elektryczna i składowa magnetyczna",
+      "składowa magnetyczna i składowa prędkości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 140,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Częstotliwość pracy nadajnika amatorskiego wynosi 3,5714 MHz. Jaka jest przybliżona długość fali tego nadajnika?",
+    "o": [
+      "80 m",
+      "40 m",
+      "20 m"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 141,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy czysty sygnał sinusoidalny 1000 Hz zawiera harmoniczne 2000 Hz i 3000 Hz?",
+    "o": [
+      "zawiera tylko 2000 Hz",
+      "zawiera obie harmoniczne",
+      "nie zawiera w ogóle harmonicznych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 142,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Przy modulacji amplitudy AM szerokość kanału radiowego zależy od:",
+    "o": [
+      "najniższych częstotliwości modulujących",
+      "amplitudy modulującego sygnału",
+      "najwyższych częstotliwości modulujących"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 143,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Modulacja FSK oznacza:",
+    "o": [
+      "modulację amplitudy",
+      "modulację fazy",
+      "modulację z przesuwem częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 144,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Moc wyjściową nadajnika FM podano w dBm i wynosi ona 33 dBm. Ile to jest w watach? (dla ułatwienia podajemy, że 30 dBm odpowiada 1 W)",
+    "o": [
+      "2 W",
+      "130 W",
+      "20 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 145,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Napięcie na wejściu odbiornika o oporności 50 om wynosi 10 µV. Napięcie to wzrosło do 100 µV. O ile wzrosło napięcie wyrażone w dB?",
+    "o": [
+      "o 10 dB",
+      "o 20 dB",
+      "o 40 dB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 146,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zasilacz nadajnika dostarcza do stopnia końcowego nadajnika napięcie 20 V i prąd 5 A. Jaka jest sprawność energetyczna stopnia końcowego w %, jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W?",
+    "o": [
+      "50 %",
+      "40 %",
+      "60 %"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 147,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Tolerancja wykonania opornika 1 kΩ wynosi 5 %. W jakich granicach zawiera się jego oporność?",
+    "o": [
+      "od 0,9 do 1,1 kΩ",
+      "od 0,98 do 1,02 kΩ",
+      "od 950 om do 1050 Ω"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 148,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Spadek napięcia na oporniku wynosi 100 V, przy prądzie 10 mA. Opornik jakiej mocy zastosujemy w tym miejscu?",
+    "o": [
+      "10 W",
+      "1 W",
+      "0,5 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 149,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Kondensator mikowy ma pojemność 6800 pF, i napięcie pracy 500V. Czy można go zastosować w miejsce kondensatora 6,8 nF o napięciu pracy 250 V?",
+    "o": [
+      "tak, można",
+      "nie można",
+      "można, ale potrzebne są dwa takie kondensatory"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 150,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W obwodzie prądu zmiennego przy tej samej częstotliwości zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się reaktancja Xc?",
+    "o": [
+      "2 razy",
+      "100 razy",
+      "10 razy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 151,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Tranzystor krzemowy ma wzmocnienie prądowe β = 100. Napięcie zasilania wynosi 5 V. Przez kolektor tego tranzystora płynie prąd 100 mA. Jaki jest prąd bazy tego tranzystora?",
+    "o": [
+      "1 mA",
+      "5 mA",
+      "20 mA"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 152,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W której klasie wzmacniacz telegraficzny ma najwyższą sprawność?",
+    "o": [
+      "w klasie A",
+      "w klasie AB",
+      "w klasie C"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 153,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Mamy dwa kondensatory o pojemności jeden 4,7 nF a drugi 300 pF. Jak należy je połączyć by uzyskać pojemność 5000 pF?",
+    "o": [
+      "szeregowo",
+      "równolegle",
+      "nie da się z nich złożyć 5000 pF"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 154,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W układzie były trzy kondensatory po 30 µF połączone szeregowo . Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 µF, jeśli tak, to jakie musi mieć napięcie pracy?",
+    "o": [
+      "nie możemy",
+      "możemy stosując kondensator na napięcie 100 V",
+      "możemy, stosując kondensator na napięcie 300 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 155,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dwie indukcyjności nie sprzężone mają 30 µH i 60 µH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych indukcyjności?",
+    "o": [
+      "90 µH",
+      "20 µH",
+      "45 µH"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 156,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "124. Dwa oporniki 1 kΩ połączone są w szereg i dołączone do napięcia 200 V. Jaki jest spadek napięcia na każdym z tych oporników?",
+    "o": [
+      "50 V",
+      "100 V",
+      "200 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 157,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Obwód rezonansowy równoległy LC w punkcie rezonansu przedstawia impedancję:",
+    "o": [
+      "rzeczywistą omową",
+      "reaktancję pojemnościową",
+      "reaktancję indukcyjną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 158,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Mamy obwód rezonansowy o częstotliwości 3,5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz?",
+    "o": [
+      "200 pF",
+      "100 pF",
+      "57 pF"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 159,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Obwód rezonansowy na częstotliwość 14 MHz ma dobroć Q=100. Jaka jest szerokość pasma tego obwodu rezonansowego?",
+    "o": [
+      "280 kHz",
+      "14 kHz",
+      "140 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 160,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?",
+    "o": [
+      "prostownik dwupołówkowy",
+      "prostownik jednopołówkowy",
+      "prostownik mostkowy dwupołówkowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 161,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody?",
+    "o": [
+      "25 V",
+      "17,7 V",
+      "20 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 162,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB)",
+    "o": [
+      "10 dB",
+      "20 dB",
+      "40 dB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 163,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:",
+    "o": [
+      "wzmacniaczem selektywnym",
+      "wzmacniaczem szerokopasmowym",
+      "wzmacniaczem akustycznym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 164,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W tranzystorowym wzmacniaczu mocy który element jest niezbędny aby nie generować zakłóceń harmonicznych?",
+    "o": [
+      "filtr dolnoprzepustowy",
+      "przełącznik nadawanie-odbiór",
+      "układ dopasowania bazy tranzystora"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 165,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat detektora diodowego. Jaką rolę spełnia w nim kondensator C1?",
+    "o": [
+      "jest kondensatorem filtrującym prądy w.cz.",
+      "poprawia odtwarzanie wysokich tonów",
+      "chroni słuchawki przed uszkodzeniem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 166,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dlaczego do detekcji sygnałów telegrafii CW używamy detektora mnożącego i pomocniczego generatora BFO?",
+    "o": [
+      "bo sygnał CW jest przerywany",
+      "musimy wytworzyć słyszalne dudnienia z niemodulowanym sygnałem CW",
+      "bo sygnał CW jest słaby"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 167,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Aby czytelnie odebrać sygnał SSB, to przy odbiorze dolnej wstęgi (LSB) sygnał odtwarzający falę nośną powinien być:",
+    "o": [
+      "poniżej wstęgi LSB",
+      "powyżej wstęgi LSB",
+      "w środku LSB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 168,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy dyskryminator sygnału FM powinien reagować na modulację amplitudy sygnału FM?",
+    "o": [
+      "nie",
+      "tak",
+      "nie ma to znaczenia"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 169,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Warunkiem wzbudzenia się generatora z obwodem rezonansowym jest:",
+    "o": [
+      "zastosowanie obwodu rezonansu szeregowego",
+      "spełnienie warunku amplitudy i fazy",
+      "zastosowanie ujemnego sprzężenia zwrotnego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 170,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Generator TCXO wysoką stabilność zawdzięcza:",
+    "o": [
+      "zastosowaniu specjalnych układów korygujących częstotliwość",
+      "docięciu kryształu kwarcu z dokładnością do femtometrów",
+      "stabilizacji temperatury oscylatora"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 171,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Bezpośrednia synteza cyfrowa (DDS) generuje przebieg przez:",
+    "o": [
+      "użycie przetwornika cyfrowo-analogowego",
+      "cyfrowe przestrajanie obwodu rezonansowego",
+      "cyfrowe sterowanie układem NE555"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 172,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 2 to:",
+    "o": [
+      "komparator fazy",
+      "dzielnik",
+      "generator wzorca"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 173,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 3 to:",
+    "o": [
+      "dzielnik nastawny",
+      "komparator fazy",
+      "wzmacniacz błędu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 174,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 5 to:",
+    "o": [
+      "dzielnik częstotliwości wzorca",
+      "generator stabilizowany",
+      "komparator fazy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 175,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat stabilizacji PLL w formie ponumerowanych ale nie opisanych bloków. Blok 6 to:",
+    "o": [
+      "komparator fazy",
+      "dzielnik nastawny",
+      "wzmacniacz błędu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 176,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 2 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "mieszacz",
+      "detektor AM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 177,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 3 to:",
+    "o": [
+      "filtr wejściowy",
+      "wzmacniacz pośredniej cz.",
+      "heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 178,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 4 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "filtr wejściowy",
+      "detektor AM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 179,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM z pojedynczą przemianą. Blok 6 to:",
+    "o": [
+      "filtr wejściowy",
+      "wzmacniacz akustyczny",
+      "heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 180,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 2 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "I mieszacz",
+      "filtr przełączany II p.cz."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 181,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 3 to:",
+    "o": [
+      "BFO",
+      "wzmacniacz I pośredniej cz.",
+      "heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 182,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 4 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "BFO",
+      "II mieszacz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 183,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 5 to:",
+    "o": [
+      "II heterodyna stała",
+      "wzmacniacz akustyczny",
+      "detektor AM CW SSB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 184,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 6 to:",
+    "o": [
+      "filtr przełączany II p.cz.",
+      "wzmacniacz akustyczny",
+      "II heterodyna stała"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 185,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 7 to:",
+    "o": [
+      "BFO",
+      "wzmacniacz II pośredniej cz.",
+      "detektor AM , CW, SSB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 186,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 8 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "wzmacniacz w.cz.",
+      "detektor AM, CW, SSB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 187,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 10 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "BFO",
+      "detektor AM, CW, SSB"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 188,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego AM, CW, SSB z podwójną przemianą częstotliwości. Blok 11 to:",
+    "o": [
+      "I heterodyna strojona",
+      "wzmacniacz akustyczny",
+      "detektor AM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 189,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 2 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "filtr wejściowy",
+      "mieszacz zrównoważony"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 190,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 3 to:",
+    "o": [
+      "heterodyna",
+      "wzmacniacz akustyczny",
+      "filtr wejściowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 191,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika homodynowego CW i SSB, na jedno pasmo amatorskie. Blok 4 to:",
+    "o": [
+      "filtr wejściowy",
+      "wzmacniacz akustyczny",
+      "heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 192,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 1 to:",
+    "o": [
+      "wzmacniacz w.cz.",
+      "wzmacniacz akustyczny",
+      "detektor FM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 193,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 3 to:",
+    "o": [
+      "wzmacniacz w.cz.",
+      "wzmacniacz I pośredniej cz. 10,7 MHz",
+      "I heterodyna"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 194,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 4 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "blokada szumów",
+      "II mieszacz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 195,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 5 to:",
+    "o": [
+      "II heterodyna stała",
+      "wzmacniacz II p.cz. 455 kHz",
+      "detektor FM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 196,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 6 to:",
+    "o": [
+      "detektor FM",
+      "wzmacniacz akustyczny",
+      "II heterodyna stała"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 197,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 7 to:",
+    "o": [
+      "wzmacniacz II p. cz. 455kHz",
+      "wzmacniacz akustyczny",
+      "detektor FM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 198,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 8 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "blokada szumów",
+      "detektor FM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 199,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 9 to:",
+    "o": [
+      "wzmacniacz akustyczny",
+      "blokada szumów",
+      "II heterodyna stała"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 200,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy odbiornika superheterodynowego FM na pasmo 144 MHz z podwójną przemianą częstotliwości, pracującego w kanałach fonicznych, stabilizowany kwarcami. Blok 10 to:",
+    "o": [
+      "I heterodyna kwarcowa",
+      "wzmacniacz akustyczny",
+      "detektor FM"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 201,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Przez selektywność odbiornika rozumiemy jego:",
+    "o": [
+      "zdolność do wyodrębnienia pożądanego sygnału",
+      "dolny próg poziomu sygnału, który może odebrać",
+      "szum własny odbiornika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 202,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 1 to:",
+    "o": [
+      "separator",
+      "wzmacniacz mocy (PA)",
+      "oscylator (VFO)"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 203,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 2 to:",
+    "o": [
+      "wzmacniacz mocy (PA)",
+      "oscylator (VFO)",
+      "separator"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 204,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na jedno pasmo amatorskie. Blok 3 to:",
+    "o": [
+      "oscylator (VFO)",
+      "wzmacniacz mocy (PA)",
+      "filtr wyjściowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 205,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika telegraficznego na kilka pasm amatorskich z powielaniem częstotliwości. Blok 2 to:",
+    "o": [
+      "wzmacniacz sterujący",
+      "separator",
+      "I powielacz x2"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 206,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 3 to:",
+    "o": [
+      "filtr pasmowy 3,5 - 14 MHz",
+      "wzmacniacz mocy (PA)",
+      "VFO 5 - 5,5 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 207,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 4 to:",
+    "o": [
+      "wzmacniacz sterujący",
+      "filtr wyjściowy",
+      "wzbudnica SSB 9 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 208,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 5 to:",
+    "o": [
+      "wzmacniacz mocy (PA)",
+      "mieszacz",
+      "oscylator (VFO) 5 - 5,5 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 209,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 6 to:",
+    "o": [
+      "wzmacniacz mocy (PA)",
+      "filtr wyjściowy",
+      "mieszacz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 210,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na rysunku przedstawiono schemat blokowy nadajnika SSB na dwa pasma amatorskie z wzbudnicą 9 MHz. Blok 7 to:",
+    "o": [
+      "oscylator (VFO) 5-5,5 MHz",
+      "filtr wyjściowy",
+      "filtr pasmowy 3,5 - 14 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 211,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak zmienia się impedancja dipola półfalowego, gdy obniżamy wysokość jego zawieszenia?",
+    "o": [
+      "rośnie.",
+      "maleje.",
+      "nie ulega zmianie."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 212,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zysk anteny kierunkowej wyrażony jest w dBi. Względem jakiego źródła jest określony?",
+    "o": [
+      "dipola pomiarowego",
+      "źródła izotropowego",
+      "innej anteny kierunkowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 213,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest różnica pomiędzy efektywną mocą promieniowaną e.r.p. a efektywną mocą promieniowaną izotropowo e.i.r.p?",
+    "o": [
+      "e.i.r.p. jest większe o 2,15 dB od e.r.p.",
+      "e.i.r.p. jest mniejsze o 2,15 dB od e.r.p.",
+      "nie ma różnicy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 214,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Antena kierunkowa daje napięcie 4 razy większe, niż dipol półfalowy zawieszony w tym samym miejscu. Jaki zysk ma antena kierunkowa?",
+    "o": [
+      "6 dBd",
+      "4 dBd",
+      "12 dBd"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 215,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Kabel koncentryczny o długości 100m, przy częstotliwości 144MHz wprowadza tłumienie 12dB. Długość kabla pomiędzy nadajnikiem 100 W a anteną wynosi 50 m. Jaka część tej mocy zostanie doprowadzona do anteny?",
+    "o": [
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 216,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie długości fal zaliczamy do zakresu fal krótkich?",
+    "o": [
+      "od 100 m do 10 m",
+      "od 80 m do 10 m",
+      "od 160 m do 10 m"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 217,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Propagacja jonosferyczna latem, w dzień, pasma radioamatorskiego 20 m, najczęściej odbywa się przez odbicie od warstwy:",
+    "o": [
+      "D",
+      "E",
+      "F"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 218,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "O czym mówi podawana w prognozach propagacji częstotliwość MUF?",
+    "o": [
+      "o zakłóceniach odbioru",
+      "o maksymalnej częstotliwości do łączności na danej trasie",
+      "o zaniku łączności w danym kierunku"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 219,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co to jest strefa martwa na falach krótkich?",
+    "o": [
+      "strefa bez odbioru leżąca pomiędzy końcem fali przyziemnej a powrotem fali odbitej od jonosfery",
+      "strefa bez odbioru z powodu dużych zakłóceń w mieście",
+      "strefa w której brak odbioru z powodu interferencji fal przychodzących z różnych kierunków"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 220,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakim przyrządem możemy sprawdzić kształt napięcia zmiennego w.cz. i wykryć zniekształcenia sygnału?",
+    "o": [
+      "oscyloskopem",
+      "miernikiem napięcia",
+      "słuchając odbiornikiem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 221,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Akumulator ma pojemność 20Ah i pozwala na pracę pełną mocą radiostacji, która pobiera średnio około 5A. Czy taki akumulator wystarczy na trzygodzinną pracę tej radiostacji?",
+    "o": [
+      "wystarczy, z pewnym zapasem",
+      "nie wystarczy, akumulator ma zbyt małą pojemność",
+      "akumulator ulegnie uszkodzeniu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 222,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie typowo przyjmuje się pasmo częstotliwości przy transmisjach głosowych na pasmach amatorskich:",
+    "o": [
+      "od 300 Hz do 3 kHz",
+      "od 20 Hz do 20 kHz",
+      "od 400 Hz do 900 Hz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 223,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dlaczego modulacja amplitudy AM (A3E) jest obecnie rzadziej używana od SSB (J3E)?",
+    "o": [
+      "gdyż ma znacznie mniejszą sprawność energetyczną i szerokość emitowanego sygnału jest dwukrotnie większa niż SSB",
+      "gdyż obecne transceivery są zbyt skomplikowane, by z niej sprawnie korzystać",
+      "dlatego, że AM jest używana w profesjonalnej radiofonii"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 224,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Najważniejsza z cech rezonatora kwarcowego to:",
+    "o": [
+      "stabilność częstotliwości",
+      "odporność na wysokie napięcie",
+      "odporność na wibracje"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 225,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wzmacniacz, który wzmacnia sygnały w zakresie pasm amatorskich 3,5, 7 i 14 MHz z takim samym wzmocnieniem nazywamy:",
+    "o": [
+      "wzmacniaczem mocy",
+      "wzmacniaczem szerokopasmowym",
+      "wzmacniaczem ze strojonymi obwodami pośredniej częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 226,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wzmacniacz w klasie C nie może być używany do:",
+    "o": [
+      "fali nośnej, sygnałów modulacji częstotliwości",
+      "sygnałów jednowstęgowych (J3E)",
+      "może być używany wszędzie, gdyż ma wyższą sprawność"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 227,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Generator BFO jest niezbędny do odbioru:",
+    "o": [
+      "sygnałów modulacji częstotliwości (F3E)",
+      "sygnałów modulacji amplitudy z pełną falą nośną (A3E)",
+      "sygnałów telegraficznych (A1) i modulacji amplitudy ze zredukowaną falą nośną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 228,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Który z czynników wpływa na stabilność generatora z obwodem LC:",
+    "o": [
+      "temperatura",
+      "zmiana wymiarów mechanicznych",
+      "oba wyżej wymienione"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 229,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na wyświetlaczu radiostacji z prezentacją widma można obserwować:",
+    "o": [
+      "częstotliwość i amplitudę sygnału",
+      "amplitudę i fazę sygnału",
+      "częstotliwość i opóźnienie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 230,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Początkujący krótkofalowiec sfrustrował się brakiem stacji w paśmie 24 MHz. Opiekun radiostacji klubowej zalecił mu przejście na \"niższe\" pasmo. Które pasmo powinien wybrać?",
+    "o": [
+      "10 m",
+      "12 m",
+      "20 m"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 231,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Prędkość rozchodzenia się fali elektromagnetycznej w ośrodku innym niż próżnia jest:",
+    "o": [
+      "mniejsza niż w próżni",
+      "większa niż w próżni",
+      "mniejsza lub większa niż w próżni, zależnie od rodzaju ośrodka"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 232,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeżeli składowa elektryczna fali jest prostopadła do ziemi, to fala ma polaryzację:",
+    "o": [
+      "poziomą",
+      "pionową",
+      "nie da się tego stwierdzić bez znajomości ułożenia składowej magnetycznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 233,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Napięcie międzyszczytowe sinusoidalnego napięcia zmiennego wynosi 678 V. Ile wynosi wartość skuteczna tego napięcia?",
+    "o": [
+      "339 V",
+      "240 V",
+      "481 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 234,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Częstotliwość prądu przemiennego wynosi 50 Hz, jaki jest okres drgań?",
+    "o": [
+      "20 ms",
+      "50 ms",
+      "500 ms"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 235,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Sygnał prostokątny o idealnie ostrych zboczach zajmuje pasmo o szerokości:",
+    "o": [
+      "dziesięciokrotności częstotliwości sygnału wejściowego.",
+      "zerowej.",
+      "nieskończonej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 236,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W emisji RTTY używane jest:",
+    "o": [
+      "kluczowanie amplitudy",
+      "kluczowanie fazy",
+      "kluczowanie częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 237,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zwiększając liczbę możliwych przesunięć fazy w modulacji PSK, bez zwiększania baudrate, szerokość pasma sygnału:",
+    "o": [
+      "zwiększa się",
+      "zmniejsza się",
+      "nie zmienia się"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 238,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Moc wyjściową nadajnika FM podano w dBW i wynosi ona 13 dBW. Ile to jest w watach?",
+    "o": [
+      "5 W",
+      "130 W",
+      "20 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 239,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zasilacz dostarcza do stopnia końcowego nadajnika napięcie 500 V i prąd 200 mA. Jaka jest sprawność energetyczna stopnia końcowego, jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W?",
+    "o": [
+      "50%",
+      "40%",
+      "60%"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 240,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Która z podanych mocy PEP odpowiada napięciu maksymalnemu Umax = 100 V, zmierzonemu oscyloskopem na wyjściu nadajnika, na obciążeniu 50 omów (zakładamy sygnał sinusoidalny)?",
+    "o": [
+      "200 W",
+      "100 W",
+      "50 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 241,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W przetwornikach analogowo-cyfrowych, aby poprawnie odczytać sygnał wejściowy, częstotliwość próbkowania musi być:",
+    "o": [
+      "większa lub równa dwukrotności najwyższej częstotliwości przetwarzanego sygnału",
+      "większa lub równa najwyższej częstotliwości przetwarzanego sygnału",
+      "większa lub równa połowie najwyższej częstotliwości przetwarzanego sygnału"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 242,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Filtr antyaliasingowy w odbiorniku SDR może być zrealizowany jako:",
+    "o": [
+      "filtr sprzętowy",
+      "filtr programowy",
+      "filtr sprzętowy lub programowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 243,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Rezystor o wartości 10 Ω dołączono do napięcia 3 V. Jakiej mocy rezystor należy dobrać, żeby nie uległ on uszkodzeniu?",
+    "o": [
+      "1 W",
+      "0,125 W",
+      "0,5 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 244,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W kondensatorze energia jest magazynowana w:",
+    "o": [
+      "polu elektrycznym",
+      "polu magnetycznym",
+      "nie jest magazynowana"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 245,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W obwodzie prądu przemiennego, przy tej samej częstotliwości, zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się reaktancja kondensatora?",
+    "o": [
+      "0,1 raza",
+      "100 razy",
+      "10 razy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 246,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W kondensatorze przy napięciu przemiennym:",
+    "o": [
+      "prąd wyprzedza napięcie w fazie o 90 stopni",
+      "prąd jest w fazie z napięciem",
+      "napięcie wyprzedza prąd w fazie o 90 stopni"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 247,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Do budowy cewek często wykorzystujemy rdzenie toroidalne, ponieważ:",
+    "o": [
+      "wprowadzają mniejsze straty w polu magnetycznym niż powietrze",
+      "można przez cewkę przesłać znacznie większy prąd",
+      "większość pola magnetycznego zamyka się w rdzeniu i cewka mniej wpływa na inne elementy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 248,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Stwierdzono, że wpływające do układu napięcie wyprzedza w fazie prąd. Układ ten ma charakter:",
+    "o": [
+      "rezystancyjny",
+      "pojemnościowy",
+      "indukcyjny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 249,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Diody Zenera to diody:",
+    "o": [
+      "służące do stabilizacji napięć",
+      "świecące",
+      "na bardzo wysokie częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 250,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zasadniczym przeznaczeniem diody PIN jest:",
+    "o": [
+      "prostowanie bardzo dużych napięć i prądów",
+      "stosowanie jej jako przełącznika w. cz.",
+      "stosowanie jej jako elementu ochronnego przed przepięciem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 251,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zasadniczymi zaletami diody TVS (Transil) są:",
+    "o": [
+      "szybkie przełączanie i rozpraszanie dużych chwilowych mocy",
+      "spadek napięcia rzędu 1 mV i bardzo mała pojemność złącza",
+      "dodatkowy zacisk sterujący i liniowa charakterystyka prądowo-napięciowa"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 252,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na wyjściu transformatora sieciowego napięcie skuteczne jest równe 300 V. Czy w prostowniku jednopołówkowym można użyć diody wytrzymującej napięcie wsteczne 400 V?",
+    "o": [
+      "tak",
+      "nie",
+      "tak, ale tylko przy małych obciążeniach"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 253,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Aby tranzystor PNP zaczął przewodzić, należy przyłożyć pomiędzy jego bazę i emiter napięcie:",
+    "o": [
+      "dodatnie (wyższy potencjał do bazy)",
+      "ujemne (niższy potencjał do bazy)",
+      "zerowe (taki sam potencjał na bazie i emiterze)"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 254,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Tranzystory bipolarne i polowe sterujemy odpowiednio:",
+    "o": [
+      "napięciem i prądem",
+      "prądem i prądem",
+      "prądem i napięciem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 255,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "We wzmacniaczu tranzystorowym w układzie wspólnej bazy, sygnał wejściowy podajemy pomiędzy:",
+    "o": [
+      "kolektor i bazę",
+      "emiter i bazę",
+      "kolektor i emiter"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 256,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W idealnym tranzystorze MOSFET prąd wpływający do bramki jest:",
+    "o": [
+      "mniejszy o tyle razy od prądu drenu, o ile wynosi wzmocnienie tranzystora",
+      "równy w przybliżeniu 1 mA",
+      "zerowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 257,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest funkcja kondensatora C1 w układzie przedstawionym na rysunku?",
+    "o": [
+      "zwiększenie wzmocnienia dla prądów zmiennych",
+      "filtrowanie prądu spoczynkowego",
+      "nie ma żadnej funkcji"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 258,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Mamy dwa kondensatory o pojemności 4,7 nF oraz 300 pF. Jak należy je połączyć, by uzyskać pojemność 5000 pF?",
+    "o": [
+      "szeregowo",
+      "równolegle",
+      "nie da się uzyskać pojemności 5000 pF"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 259,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W układzie były trzy kondensatory, każdy po 30 μF, połączone szeregowo. Każdy z nich ma napięcie pracy 100V. Czy możemy je zastąpić jednym kondensatorem 10 μF? Jeśli tak, to o jakim napięciu pracy?",
+    "o": [
+      "nie możemy",
+      "możemy, stosując kondensator na napięcie 100 V",
+      "możemy, stosując kondensator na napięcie 300 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 260,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dwie niezależne cewki mają indukcyjności 30 μH i 60 μH. Ile wynosi indukcyjność zastępcza przy połączeniu szeregowym tych cewek?",
+    "o": [
+      "90 μH",
+      "45 μH",
+      "20 μH"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 261,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Obwód rezonansowy szeregowy LC, w punkcie rezonansu, przedstawia:",
+    "o": [
+      "tylko rezystancję",
+      "reaktancję pojemnościową",
+      "reaktancję indukcyjną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 262,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeżeli dobroć obwodu rezonansowego Q = 100, to pasmo przy częstotliwości obwodu 14 MHz ma szerokość:",
+    "o": [
+      "280 kHz",
+      "14 kHz",
+      "140 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 263,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Skrzynka antenowa w układzie T, gdzie szeregowo włączone są kondensatory, a równolegle cewka, jest:",
+    "o": [
+      "filtrem dolnoprzepustowym",
+      "filtrem górnoprzepustowym",
+      "filtrem pasmowym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 264,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zwiększenie rzędu filtru powoduje:",
+    "o": [
+      "zwiększenie stromości zbocza",
+      "pogorszenie właściwości filtracyjnych",
+      "zmianę częstotliwości rezonansowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 265,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest funkcja rezystorów R1 i R2 w układzie przedstawionym na rysunku?",
+    "o": [
+      "Zabezpieczenie tranzystora przed uszkodzeniem",
+      "Zwiększenie impedancji wejściowej",
+      "Ustalenie punktu pracy tranzystora"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 266,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Która klasa pracy wzmacniacza wprowadza najmniejsze zniekształcenia?",
+    "o": [
+      "klasa AB",
+      "klasa A",
+      "klasa C"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 267,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Demodulator FM może być zbudowany z użyciem:",
+    "o": [
+      "pojedynczej diody i kondensatora",
+      "mieszacza podwójnie zrównoważonego",
+      "pętli synchronizacji fazy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 268,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaki jest cel włączenia szeregowo rezystora i kondensatora pomiędzy wejście i wyjście wzmacniacza mocy z tranzystorem w układzie wspólnego źródła?",
+    "o": [
+      "zwiększenie wzmocnienia wzmacniacza.",
+      "utworzenie obwodu rezonansowego, który działa jako filtr pasmowy.",
+      "zwiększenie stabilności wzmacniacza."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 269,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Szum fazowy jest wynikiem:",
+    "o": [
+      "kluczowania fazy (PSK)",
+      "krótkich i niewielkich odchyleń częstotliwości generatora",
+      "mieszania się sygnałów o różnych fazach"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 270,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jako dzielnik częstotliwości w pętli synchronizacji fazy można użyć:",
+    "o": [
+      "licznik",
+      "wzmacniacz operacyjny",
+      "dzielnik rezystorowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 271,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W transceiverach SDR do przetwornika A/C doprowadza się sygnały kwadraturowe (oznaczone jako I oraz Q). Jaki jest tego cel?",
+    "o": [
+      "Możliwość zaprogramowania demodulatora dla każdej emisji",
+      "Minimalizacja zniekształceń sygnału",
+      "Możliwość demodulacji sygnałów z dwóch różnych źródeł"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 272,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Bezpośrednia synteza cyfrowa (DDS) generuje przebieg przez:",
+    "o": [
+      "użycie przetwornika cyfrowo-analogowego",
+      "cyfrowe przestrajanie obwodu rezonansowego",
+      "cyfrowe sterowanie układem NE555"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 273,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Odbiornik homodynowy od superheteredynowego odróżnia:",
+    "o": [
+      "brak częstotliwości pośredniej (jest równa 0)",
+      "brak generatora",
+      "brak demodulatora"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 274,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dewiacja sygnału FM opisuje:",
+    "o": [
+      "maksymalny odchył od częstotliwości nośnej",
+      "szerokość pasma sygnału",
+      "maksymalne różnice amplitudy sygnału"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 275,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zbyt szybkie narastanie i opadanie sygnału telegraficznego powoduje:",
+    "o": [
+      "zakłócenia określane jako \"kliki\"",
+      "zwiększenie mocy wyjściowej nadajnika,",
+      "zmniejszenie pasma używanego w tej emisji."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 276,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Antena Yagi-Uda składa się co najmniej z:",
+    "o": [
+      "wibratora, reflektora i direktora",
+      "wibratora i directora",
+      "pięciu prętów aluminiowych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 277,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeśli SWR w punkcie zasilania jest równy 1:1 to oznacza, że:",
+    "o": [
+      "osiągnięto bardzo dobre dopasowanie linii zasilającej do nadajnika",
+      "antena jest zawsze najlepiej dopasowana",
+      "antena może pracować na kilku pasmach"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 278,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Gdy antena jest w rezonansie, to:",
+    "o": [
+      "moduł impedancji jest równy 50 Ω",
+      "reaktancja jest równa 0 Ω",
+      "reaktancja jest nieskończenie duża"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 279,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dipol półfalowy na pasmo 80 m prezentuje na paśmie 40 m",
+    "o": [
+      "niską impedancję",
+      "bardzo wysoką impedancję",
+      "zwarcie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 280,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dipol półfalowy na pasmo 40m można użyć na paśmie:",
+    "o": [
+      "7 i 21 MHz",
+      "3,5 i 5 MHz",
+      "7 i 28 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 281,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W antenie Yagi-Uda rolę wibratora pełni",
+    "o": [
+      "odcinek o długości 1/4 fali",
+      "dipol półfalowy",
+      "rezonator całofalowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 282,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Antena Yagi-Uda z wibratorem skierowanym równolegle do ziemi będzie miała polaryzację",
+    "o": [
+      "poziomą",
+      "pionową",
+      "lewoskrętną na półkuli południowej i prawoskrętną na północnej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 283,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Amatorskie radiolatarnie w paśmie 144 MHz pracują w polaryzacji poziomej. Czy można sygnał takiej radiolatarni odbierać anteną o polaryzacji pionowej?",
+    "o": [
+      "tak, nie ma przeciwwskazań",
+      "tak choć sygnał będzie znacznie słabszy niż przy zgodnej polaryzacji",
+      "nie, może to spowodować uszkodzenie odbiornika lub anteny."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 284,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zysk anteny wyrażony jest w dBi. Względem jakiego źródła jest określony?",
+    "o": [
+      "Dipola półfalowego",
+      "Anteny izotropowej",
+      "Anteny pionowej ćwierćfalowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 285,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Antena kierunkowa w kierunku wiązki głównej wytwarza pole EM o natężeniu 4 razy większym, niż dipol półfalowy zawieszony w tym samym miejscu. Jaki zysk ma antena?",
+    "o": [
+      "6 dBd",
+      "4 dBd",
+      "12 dBd"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 286,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na paśmie 5 MHz w Polsce można nadawać maksymalną mocą 15 W EIRP, a zatem do dipola na to pasmo można doprowadzić moc około:",
+    "o": [
+      "5 W",
+      "15 W",
+      "100 W, gdyż dipol ma ujemny zysk EIRP"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 287,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Moc EIRP to moc równoważna wyznaczana względem:",
+    "o": [
+      "dipola półfalowego",
+      "źródła izotropowego",
+      "anteny rezerwowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 288,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jaka jest różnica pomiędzy efektywną mocą promieniowaną ERP, a EIRP?",
+    "o": [
+      "EIRP jest większe o 2,15 dB od ERP",
+      "EIRP jest mniejsze o 2,15 dB od ERP",
+      "Nie ma różnicy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 289,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Mamy antenę kierunkową A o zysku 3 dBi i antenę kierunkową B o zysku 6 dBi. Do każdej z nich podano sygnał o mocy 100 W. Ile całkowitej mocy wypromieniowała każda antena?",
+    "o": [
+      "A - 100 W, B - 100 W",
+      "A - 200 W, B - 400 W",
+      "A - 100 W, B - 200 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 290,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Współczynnik tył/przód (F/B ratio) pewnej anteny kierunkowej wynosi 19 dB, a jej zysk 10,5 dBd. Czy w sytuacji awarii rotora antenowego lepiej będzie nadawać \"tyłem anteny\" korzystając z jej listka tylnego czy też przełączyć się na dipol półfalowy w tej samej polaryzacji?",
+    "o": [
+      "przełączyć się na dipol",
+      "pozostać przy antenie kierunkowej",
+      "to bez znaczenia dla nadawania"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 291,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Poziomo powieszony dipol półfalowy promieniuje:",
+    "o": [
+      "dookólnie",
+      "najmocniej w płaszczyźnie prostopadłej do osi zawieszenia dipola",
+      "najwięcej wzdłuż osi zawieszenia dipola"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 292,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Zamierzasz zrobić łączność z kolegą znajdującym się we Włoszech przy pomocy dipola półfalowego na paśmie 20 m. W jakim kierunku najlepiej powiesić tę antenę?",
+    "o": [
+      "na osi północ-południe",
+      "na osi wschód-zachód",
+      "nie użyję dipola, gdyż łączność będzie trudno nawiązać bez anteny kierunkowej Yagi-Uda"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 293,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Linię symetryczną zawieszono w otwartej przestrzeni, podłączono do symetrycznego nadajnika i zakończono sztucznym obciążeniem. Czy wówczas linia promieniuje?",
+    "o": [
+      "tak",
+      "nie",
+      "tak, jeśli jej długość przekracza 1/4 długości fali (jest linią długą)"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 294,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Kabel koncentryczny po przytrzaśnięciu oknem uległ spłaszczeniu. Jak można go naprawić?",
+    "o": [
+      "należy zabezpieczyć uszkodzony fragment taśmą izolacyjną",
+      "należy zastosować ekran miedziany na uszkodzonym fragmencie w celu zapobiegania wyciekowi w.cz",
+      "ten fragment kabla nie nadaje się do użytku, można wyciąć uszkodzony fragment oraz wykorzystać pozostałe odcinki przewodu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 295,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Nadajnik połączono kablem koncentrycznym ze sztucznym obciążeniem. Prąd płynący w ekranie kabla koncentrycznego ma wartość:",
+    "o": [
+      "zerową",
+      "niemożliwą do oszacowania",
+      "taką samą, jak prąd płynący w środkowej żyle"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 296,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Pomiar SWR przy nadajniku wskazał wartość 1:1,5, ale mamy podejrzenie, że dopasowanie anteny jest niewłaściwe. Co może być przyczyną?",
+    "o": [
+      "poziom zakłóceń lokalnych",
+      "tłumienie linii zasilającej",
+      "podejrzenie jest błędne, dopasowanie jest poprawne"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 297,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Nadajnik został dołączony do anteny fiderem o całkowitym tłumieniu 5dB. Co wówczas zaobserwujemy:",
+    "o": [
+      "stratę 50% mocy nadajnika, brak wpływu na odbiór",
+      "stratę 5% mocy nadajnika, zmianę SWR",
+      "stratę około 70% mocy nadajnika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 298,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Użycie baluna wskazane jest kiedy",
+    "o": [
+      "zasilamy antenę typu longwire kablem koncentrycznym",
+      "zasilamy dipol półfalowy kablem koncentrycznym",
+      "chcemy przetestować tłumienność linii symetrycznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 299,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Włączenie tłumika w odbiorniku spowoduje:",
+    "o": [
+      "poprawę odporności odbiornika na silne sygnały",
+      "poprawę stosunku sygnału do szumu na wejściu odbiornika",
+      "przestrojenie odbiornika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 300,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dlaczego możliwe są dalekie łączności UKF między szczytami górskimi?",
+    "o": [
+      "mniejsza gęstość atmosfery powoduje zmniejszenie tłumienia trasy",
+      "anteny nadawcza i odbiorcza dzieli wolna przestrzeń",
+      "brak pyłu zawieszonego zmniejsza dyfrakcję fali radiowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 301,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Stabilne i ciągłe warunki łączności zapewnia w pasmach UKF:",
+    "o": [
+      "łączność w zasięgu horyzontalnym",
+      "łączność troposferyczna",
+      "łączność przez odbicie od zorzy polarnej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 302,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dlaczego podczas dnia trudno zrobić daleką łączność na paśmie 80 m:",
+    "o": [
+      "z racji na brak propagacji w warstwie E",
+      "z racji na silne tłumienie w warstwie D",
+      "z racji na to, że anteny nie działają podczas dnia"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 303,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Częstotliwość krytyczna w radiokomunikacji amatorskiej to:",
+    "o": [
+      "początek i koniec każdego pasma amatorskiego",
+      "częstotliwość zarezerwowana do łączności niebezpieczeństwa",
+      "częstotliwość powyżej której fala nie podlega ugięciu w jonosferze w kierunku ziemi"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 304,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Najlepsze długookresowe warunki propagacyjne występują:",
+    "o": [
+      "zupełnie nieregularnie",
+      "co około 11 lat przy minimalnej aktywności słonecznej",
+      "co około 11 lat przy maksymalnej aktywności słonecznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 305,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Wysoka aktywność słoneczna powoduje",
+    "o": [
+      "polepszenie propagacji w pasmach KF",
+      "pogorszenie propagacji w pasmach KF",
+      "nie ma wpływu na propagację fal radiowych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 306,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Częstotliwość MUF (Maximum Usable Frequency) określa się:",
+    "o": [
+      "dla danej trasy łączności",
+      "dla danego nadajnika",
+      "dla każdego krótkofalowca"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 307,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Aby nawiązać łączność na dalekie odległości na falach krótkich należy użyć:",
+    "o": [
+      "anten o wysokim kącie promieniowania",
+      "anten o niskim kącie promieniowania",
+      "nadajnika o dużej mocy, antena i pasmo mogą być dowolne."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 308,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Pewien krótkofalowiec zawsze kiedy wyjeżdżał na działkę pod Radomiem zawieszał w tym samym miejscu dipol półfalowy na wysokości 15 m nad poziomem gruntu. Niestety pewnego razu ze względu na uszkodzenie drabiny udało mu się powiesić go tylko na wysokości 3m. Zauważył że słyszy znacznie lepiej stacje polskie ale niestety przestał słyszeć stacje francuskie. Czym spowodowane było to zjawisko?",
+    "o": [
+      "Spowodowane jest to zmianą kątów promieniowania anteny",
+      "Spowodowane jest to zmianą ogniskowej anteny",
+      "Wysokość zawieszenia nie miała wpływu na zaobserwowane zjawisko"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 309,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Charakterystyczne okresowe zaniki sygnału na falach krótkich spowodowane są:",
+    "o": [
+      "niewłaściwą pracą anteny",
+      "wielodrogową propagacją i zmianą tłumienia na trasie",
+      "utratą mocy nadajnika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 310,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Propagacja troposferyczna w paśmie UKF polega na:",
+    "o": [
+      "wielokrotnym odbiciu fal pomiędzy troposferą i jonosferą",
+      "wielokrotnym odbiciu fal pomiędzy ziemią i troposferą",
+      "prowadzeniu fal przez dukty powstałe z warstw ciepłego i zimnego powietrza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 311,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Aby uzyskać możliwie najlepszy zasięg na falach ultrakrótkich należy:",
+    "o": [
+      "użyć anteny promieniowania pionowego",
+      "zainstalować antenę nisko, by mieć jak najmniejsze zakłócenia",
+      "zainstalować antenę wysoko, by mieć jak najdalszy horyzont radiowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 312,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Pewnego dnia krótkofalowiec w paśmie 50 MHz usłyszał stacje z południa Europy. Mogło się to zdarzyć:",
+    "o": [
+      "zimą z racji na lokalne zanieczyszczenie powietrza",
+      "głównie latem, dzięki propagacji w warstwie sporadycznej E",
+      "latem z uwagi na mniejszą wilgotność powietrza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 313,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Pewnego dnia po wysokiej aktywności słonecznej pewien krótkofalowiec usłyszał w paśmie 144 MHz kilka mocno zniekształconych sygnałów dalekich stacji. z trudem odebrał wywołanie “CQ aurora” z czym miał do czynienia?",
+    "o": [
+      "rosyjskie zawody z okazji wybuchu rewolucji październikowej",
+      "łącznościami z wykorzystaniem zorzy polarnej",
+      "łącznościami w odbicu od księżyca"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 314,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Na których pasmach amatorskich można próbować łączności poprzez odbicie od zjonizowanych śladów meteorów:",
+    "o": [
+      "na pasmach fal ultrakrótkich, np. 70 cm lub 2 m",
+      "na niskich pasmach fal krótkich, np. 80 m i 40 m",
+      "takie łączności są niemożliwe, meteory są zbyt małe, by odbijać fale radiowe"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 315,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Skrót EME oznacza łączności z wykorzystaniem:",
+    "o": [
+      "odbicia sygnału od Księżyca",
+      "odbicia sygnału od samolotu",
+      "odbicia sygnału od troposfery"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 316,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Łączności EME można zrealizować:",
+    "o": [
+      "na falach krótkich w paśmie 80 m",
+      "na falach ultrakrótkich przy pomocy anten kierunkowych",
+      "nie można, jest to zabronione"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 317,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Silne trzaski obserwowane często na falach krótkich sa spowodowane:",
+    "o": [
+      "przez odległe burze",
+      "przez pracę innych nadajników",
+      "przez niestabilność temperaturową generatora zadającego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 318,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Szumy własne odbiornika mają:",
+    "o": [
+      "znaczenie na paśmie 80 m, by odebrać sygnał słabej stacji",
+      "znaczenie na falach ultrakrótkich i mikrofalach, gdyż szum atmosferyczny jest tam bardzo słaby",
+      "praktycznie żadne znaczenie, to jest tylko parametr handlowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 319,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co można zrobić, by nawiązać łączność w trudnych warunkach, gdy sygnał SSB jest bardzo słabo słyszalny wśród szumów:",
+    "o": [
+      "użyć emisji FM",
+      "przejść na telegrafię lub emisje cyfrowe do słabych sygnałów",
+      "jeśli na SSB sygnał jest ledwo słyszalny, to nic nie można zrobić"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 320,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Antena na pasmo 2m została dołączona popularnym kablem koncentrycznym RG-58 o długości 100m. Dlaczego krótkofalowiec nie uważa takiej instalacji za optymalną:",
+    "o": [
+      "Z racji na duże straty mocy w linii zasilającej",
+      "Kabel RG-58 ma niewłaściwą impedancję",
+      "Z racji na to, że kabel ten był używany w instalacjach CB Radio"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 321,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Stacja o mocy 100 W na paśmie 20 m jest odbierana z siłą sygnału S9. W przerwach emisji słychać także jej korespondenta o sile sygnału S4. Co się stanie jeśli stacja ta zmniejszy moc nadawania do 10 W:",
+    "o": [
+      "nie usłyszymy jej w ogóle, 10 W to za mało na taką łączność",
+      "poprawi się jej modulacja",
+      "będziemy ją nadal słyszeć, być może z nieco większym szumem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 322,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Podczas prowadzenia łączności kierujemy się zasadą:",
+    "o": [
+      "minimalnej mocy nadajnika, niezbędnej dla danej łączności",
+      "pracy z maksymalną mocą nadajnika",
+      "doboru mocy nadajnika do ograniczeń licencyjnych w kraju, z którym nawiązujemy łączność"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 323,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jak nazywa się przyrząd do pomiaru siły elektromotorycznej?",
+    "o": [
+      "omomierz",
+      "woltomierz",
+      "amperomierz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 324,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Bocznik do pomiaru prądu powinien mieć:",
+    "o": [
+      "maksymalną rezystancję",
+      "minimalną rezystancję",
+      "rezystancję dopasowaną do mierzonego prądu i parametrów ustroju pomiarowego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 325,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Do pomiaru napięcia, które przekracza zakres miernika, można użyć:",
+    "o": [
+      "szeregowo włączonego rezystora",
+      "dzielnika napięcia",
+      "wszystkie odpowiedzi są poprawne"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 326,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Multimetr na zakresie napięcia prądu przemiennego został dołączony do układu elektronicznego. Co może być przyczyną niewłaściwych odczytów (zbyt niskich lub zbyt wysokich)::",
+    "o": [
+      "uziemienie woltomierza,",
+      "woltomierz jest przystosowany do częstotliwości 50Hz, a w obwodzie jest sygnał w.cz.",
+      "końcówki pomiarowe są niezgodne z normą HSE GS38"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 327,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Kondensator elektrolityczny 10µF został naładowany do napięcia 10V i odłączony od zasilacza. Dołączony do jego końcówek woltomierz wskazuje systematyczny spadek napięcia. Co może być przyczyną tego spadku:",
+    "o": [
+      "oporność wewnętrzna woltomierza",
+      "strata prądu na końcówkach zasilających",
+      "promieniowanie radioaktywne otoczenia"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 328,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Częstotliwość rezonansową obwodu LC możemy zmierzyć za pomocą:",
+    "o": [
+      "generatora kwarcowego oraz amperomierza",
+      "przyrządu GDO lub analizatora wektorowego",
+      "nadajnika dużej mocy, strojąc do przepalenia bezpiecznika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 329,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co pokazuje reflektometr dołączony między wyjście nadajnika a kabel antenowy?",
+    "o": [
+      "dopasowanie linii zasilającej",
+      "rezonans anteny",
+      "dostrojenie nadajnika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 330,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Co można zmierzyć za pomocą analizatora widma:",
+    "o": [
+      "Obecność i siłę sygnałów harmonicznych i niepożądanych w sygnale nadajnika",
+      "Czułość odbiornika na poszczególnych wycinkach widma radiowego",
+      "Dopasowanie anteny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 331,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Ręczny radiotelefon niskiej jakości został dołączony do zewnętrznej anteny i słyszalność stacji uległa znacznemu pogorszeniu. Jakie zjawisko może być tego przyczyną:",
+    "o": [
+      "brak odpowiedniego przedwzmacniacza w.cz.",
+      "blokowanie odbiornika przez bardzo silne sygnały, także spoza pasm amatorskich",
+      "uszkodzenie odbiornika spowodowane sygnałem pobliskiego przemiennika w paśmie 2 m"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 332,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jakie zjawisko jest odpowiedzialne za zakłócenia słyszalne w radioodbiorniku jako dziwne dźwięki nałożone na sygnał stacji radiofonicznej FM:",
+    "o": [
+      "intermodulacja w obwodach wejściowych odbiornika FM",
+      "rozstrajanie generatora zadającego w syntezerze w odbiorniku FM",
+      "detekcja sygnału SSB stacji amatorskiej we wzmacniaczu częstotliwości akustycznej odbiornika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 333,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Jeśli wzmacniacz mocy nie posiada pomiędzy ostatnim stopniem wzmocnienia a wyjściem antenowym filtru dolnoprzepustowego to",
+    "o": [
+      "może zniekształcać sygnał wyjściowy na częstotliwości roboczej",
+      "może wprowadzać zakłócenia spowodowane przez nieodfiltrowane harmoniczne",
+      "ma optymalną konstrukcję"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 334,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Odbiornik został uszkodzony przez silny sygnał z anteny, pochodzący z pracującego w bezpośredniej bliskości nadajnika dużej mocy. Przyczyną uszkodzenia mogło być:",
+    "o": [
+      "wyindukowanie silnego sygnału w.cz. w antenie odbiorczej",
+      "złe dostrojenie nadajnika",
+      "przeniesienie sygnału w.cz. po kablu zasilającym przez złe zasilanie odbiornika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 335,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "W zbudowanym wzmacniaczu m.cz. słychać dokuczliwe zakłócenia od pobliskich telefonów komórkowych. Co można zrobić, by te zakłócenia zmniejszyć:",
+    "o": [
+      "nic nie można zrobić, zakłócenia już takie są",
+      "zaekranować stopień wejściowy tego wzmacniacza",
+      "zwiększyć napięcie zasilania, by stosunek sygnał/zakłócenia był korzystniejszy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 336,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Krótkofalowiec zbudował skrzynkę antenową, ale przy pracy z tą skrzynką obserwuje słabe świecenie nie zasilanej świetlówki, które nie występuje po odłączeniu skrzynki. Co może wykonać, by to zjawisko wyeliminować?",
+    "o": [
+      "wprowadzić ekranowanie skrzynki, na przykład w postaci szczelnej, metalowej obudowy",
+      "poprawić dopasowanie stopnia końcowego",
+      "wymienić zasilacz sieciowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 337,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Dynamika jest:",
+    "o": [
+      "różnicą pomiędzy najsłabszym a najmocniejszym sygnałem",
+      "miarą szybkości zmian amplitudy",
+      "miarą szybkości nadawania znaków telegraficznych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 338,
+    "total": 338,
+    "department": "radiotechnika",
+    "q": "Czy brak filtru przeciwzakłóceniowego na obwodzie zasilania sieciowego może być przyczyną zakłóceń w pracy urządzenia?",
+    "o": [
+      "tak, ale tylko przy dużej mocy",
+      "zawsze, bez względu na moc",
+      "to nie ma znaczenia, rolę filtru pełni transformator zasilacza urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 1,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Resuscytacja krążeniowo-oddechowa u osoby dorosłej, bez widocznych obrażeń ciała, powinna być wykonywana w stosunku (w uzasadnionych przypadkach uzasadniona jest resuscytacja bez wdechów):",
+    "o": [
+      "30 uciśnięć klatki piersiowej na 2 wdechy",
+      "20 uciśnięć klatki piersiowej na 4 wdechy",
+      "15 uciśnięć klatki piersiowej na 6 wdechów"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 2,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Które z poniższych środków ostrożności należy podjąć podczas pomiaru wysokiego napięcia za pomocą woltomierza?",
+    "o": [
+      "upewnij się, że woltomierz ma bardzo niską impedancję",
+      "upewnij się, że woltomierz i przewody są przystosowane do użytku przy spodziewanych poziomach napięć",
+      "upewnij się, że obwód jest uziemiony przez woltomierz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 3,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Które z poniższych twierdzeń jest prawdziwe w przypadku wykonywania instalacji odgromowej?",
+    "o": [
+      "należy używać jedynie izolowanych przewodów",
+      "należy używać jedynie stalowych przewodów i zwodów",
+      "należy unikać wszelkich ostrych krawędzi i zakrętów"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 4,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Jakie oznaczenie na rękojeści narzędzia ma istotne znaczenie przy pracach elektrycznych?",
+    "o": [
+      "rodzaj zastosowanej izolacji",
+      "model narzędzia",
+      "dopuszczalne napięcie pracy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 5,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Dlaczego stosuje się ograniczenia w przebywaniu (zamieszkaniu) w bezpośrednim sąsiedztwie dużych obiektów nadawczych radiowych i telewizyjnych?",
+    "o": [
+      "ze względu na wyładowania atmosferyczne",
+      "ze względu na duże natężenie pola elektromagnetycznego mogące mieć negatywny wpływ na zdrowie",
+      "ze względu na możliwość przewrócenia się masztu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 6,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy wolno wykonywać prace antenowe przy włączonym nadajniku?",
+    "o": [
+      "wolno, bez żadnych ograniczeń",
+      "wolno, ale tylko przy małych mocach nadajnika",
+      "kategorycznie nie wolno urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 7,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Na polu antenowym mamy kilka anten na różne pasma. Czy można regulować nieczynne anteny, jeżeli obok pracuje na podobnej antenie nadajnik KF?",
+    "o": [
+      "nie wolno",
+      "można",
+      "można, ale tylko gdy nadajnik ten pracuje z małą mocą"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 8,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Spełnienie jakich warunków konstrukcyjnych ogranicza przedostawanie się energii w.cz. niepożądanymi drogami?",
+    "o": [
+      "dobre uziemienie i szczelność ekranowania",
+      "filtrowany zasilacz",
+      "odpowiedni przekrój kabla sieciowego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 9,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy źle wykonany uziom może być przyczyną szkodliwego promieniowania w.cz.?",
+    "o": [
+      "nie",
+      "tak",
+      "nie zawsze"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 10,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Jakie niebezpieczeństwo grozi, gdy trzymamy w rękach naładowany kondensator elektrolityczny?",
+    "o": [
+      "porażenie prądem elektrycznym",
+      "nie ma żadnego niebezpieczeństwa",
+      "implozja kondensatora"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 11,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy zwarcie drutem biegunów akumulatora o napięciu 12V może być niebezpieczne?",
+    "o": [
+      "nie ma żadnego zagrożenia",
+      "tak, może spowodować pożar lub poparzenie",
+      "tak, może spowodować porażenie prądem"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 12,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy kondensator elektrolityczny musi mieć napięcie pracy równe lub większe niż napięcie występujące w układzie w jakim pracuje?",
+    "o": [
+      "napięcie pracy kondensatora nie ma znaczenia",
+      "musi, ale tylko w przypadku, gdy są to napięcia stałe",
+      "koniecznie, gdyż może ulec zniszczeniu urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 13,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czym grozi dotknięcie uszkodzonego fidera zasilającego antenę na pasmo 2 m mocą 100 W?",
+    "o": [
+      "poparzeniem",
+      "skurczami mięśni od porażenia prądem",
+      "uszkodzeniem nadajnika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 14,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy sztuczne obciążenie w postaci rezystora bezindukcyjnego powinno być ekranowane?",
+    "o": [
+      "tak",
+      "tak, ale tylko w przypadku użycia dużych mocy",
+      "nie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 15,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Dlaczego nie należy od razu uruchamiać urządzenia po przeniesieniu z zimnego pomieszczenia do ciepłego?",
+    "o": [
+      "nie ma przeciwwskazań",
+      "ze względu na możliwość wystąpienia kondensacji pary wodnej",
+      "ze względu na możliwość wystąpienia napięcia na kondensatorach"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 16,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy plastikowa obudowa urządzenia nadawczego stanowi odpowiednie zabezpieczenie przed oddziaływaniem energii w.cz.?",
+    "o": [
+      "jest to wystarczające zabezpieczenie przed energią w.cz.",
+      "urządzenia tego używa się głównie na terenowym QTH więc takie zabezpieczenie nie jest potrzebne",
+      "nie stanowi żadnego zabezpieczenia przed energią w.cz."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 17,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy zasilaczem z oznaczeniem 13,8 V 30 A można zasilać typową radiostację amatorską pobierającą 13,8 V 20 A?",
+    "o": [
+      "nie można, radiostacja może ulec uszkodzeniu",
+      "można",
+      "nie można, zasilacz może ulec uszkodzeniu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 18,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy można wykorzystać jako uziemienie rurę instalacji gazowej?",
+    "o": [
+      "bezwzględnie nie wolno",
+      "wolno bez żadnych ograniczeń",
+      "wolno jedynie w sytuacji, gdy nie dysponuje się innym uziemieniem urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 19,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Jakie działania należy podjąć, aby udzielić pomocy porażonemu prądem elektrycznym?",
+    "o": [
+      "odłączyć porażonego od prądu, podjąć działania w celu wyeliminowania skutków ewentualnych poparzeń",
+      "zadbać o własne bezpieczeństwo, odłączyć porażonego od prądu, sprawdzić funkcje życiowe, wezwać lekarza, w razie konieczności przeprowadzać resuscytację krążeniowo-oddechową",
+      "zadbać o własne bezpieczeństwo, wezwać znajomych w celu prowadzenia wspólnej akcji ratowniczej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 20,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Urządzenia pod napięciem, które się zapaliły, gasimy:",
+    "o": [
+      "wodą",
+      "wodą, ale tylko z użyciem np. wiadra",
+      "gaśnicą proszkową"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 21,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "W Polsce przewód ochronny w instalacji elektrycznej oznaczony jest kolorem:",
+    "o": [
+      "niebieskim",
+      "brązowym lub czarnym",
+      "żółto-zielonym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 22,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Narzędzia do prac elektrycznych powinny:",
+    "o": [
+      "charakteryzować się estetyką wykonania",
+      "posiadać homologację Ministerstwa Łączności",
+      "posiadać izolowane uchwyty z nadrukowaną informacją o dopuszczalnym napięciu pracy np. 500 V"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 23,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy radiostację i urządzenia pomocnicze można podłączać do gniazd zasilanych z dwóch różnych faz?",
+    "o": [
+      "można, nie ma żadnych przeciwwskazań",
+      "kategorycznie nie można, grozi to zniszczeniem sprzętu i porażeniem operatora",
+      "można, jeżeli jednocześnie nie używa się wszystkich urządzeń"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 24,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Jaka powinna być rezystancja uziemienia radiostacji?",
+    "o": [
+      "50 Ω",
+      "zależnie od kabla antenowego: 50 lub 75 Ω",
+      "poniżej 10 Ω urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 25,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "W momencie stwierdzenia pożaru urządzenia należy:",
+    "o": [
+      "zadzwonić po straż pożarną",
+      "wezwać kolegów i wspólnie przystąpić do gaszenia",
+      "odłączyć zasilanie i przystąpić do gaszenia, w razie potrzeby wezwać straż pożarną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 26,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Transformator ochronny stosujemy, gdy:",
+    "o": [
+      "zachodzi obawa, że użycie narzędzi elektrycznych zasilanych napięciem 230 V może spowodować porażenie prądem, np. pracując na zewnątrz pomieszczeń",
+      "wykonujemy prace w wilgotnym pomieszczeniu",
+      "jak w sąsiednich punktach i w innych sytuacjach, jeżeli zachodzi niebezpieczeństwo porażenia prądem np. przy pracach naprawczych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 27,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "W przypadku zaprószenia oka ciałem obcym należy:",
+    "o": [
+      "odczekać aż ciało obce samo wypadnie",
+      "usunąć ciało obce samodzielnie za pomocą pęsety",
+      "spróbować usunąć obce ciało, przemywając oko wodą, a jeżeli się to nie uda skorzystać z pomocy lekarza"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 28,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Mierząc miernikiem napięcie o niemożliwej do oszacowania wartości należy:",
+    "o": [
+      "ustawić miernik na najwyższy zakres pomiarowy i stopniowo zmniejszać zakres",
+      "ustawić miernik na najniższy zakres pomiarowy i stopniowo zwiększać zakres",
+      "rozpocząć pomiary od środkowego zakresu miernika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 29,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Przygotowując się do wykonania prac pod napięciem, oprócz przygotowania odpowiednich przyrządów należy:",
+    "o": [
+      "sprawdzić czy zastosowano prawidłowe bezpieczniki w mierzonych obwodach",
+      "przygotować schemat elektryczny urządzenia i zapoznać się z nim",
+      "jak w sąsiednich punktach oraz zapewnić sobie obecność i ewentualną pomoc drugiej osoby"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 30,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy w przypadku przepalenia bezpiecznika topikowego, gdy nie mamy pod ręką nowego bezpiecznika, można zastąpić go drutem miedzianym?",
+    "o": [
+      "tak, jeśli w krótkim czasie zostanie wstawiony nowy bezpiecznik",
+      "bezwzględnie nie wolno",
+      "tak, jeśli drut jest o grubości takiej, jak włókno w spalonym bezpieczniku urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 31,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Radiotelefon przenośny UKF podczas nadawania należy trzymać:",
+    "o": [
+      "jak najbliżej ciała",
+      "jedną ręką za antenę w celu zwiększenia zasięgu",
+      "mikrofonem skierowanym w stronę ust i anteną skierowaną ponad głowę"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 32,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Przy wymianie lampy stopnia mocy nadajnika należy:",
+    "o": [
+      "wyłączyć zasilanie i natychmiast przystąpić do wymiany",
+      "wyłączyć zasilanie i poczekać aż rozładują się kondensatory zasilacza",
+      "przy pracującym wzmacniaczu zdjąć osłonę lampy i przystąpić do jej wymiany"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 33,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Najlepszą formą zabezpieczenia anteny krótkofalowej przed burzą jest:",
+    "o": [
+      "odłączenie anteny od radiostacji i wystawienie kabla anteny za okno",
+      "odłączenie anteny od radiostacji i połączenie anteny z uziemieniem",
+      "nie są wymagane żadne działania"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 34,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy można umieścić kabel antenowy w kanale wywietrznika kominowego, jeżeli obok przebiega czynny komin?",
+    "o": [
+      "można",
+      "bezwzględnie nie można",
+      "można, ale tylko w okresie poza sezonem grzewczym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 35,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Czy można używać kołków rozporowych do montażu anteny na kominie?",
+    "o": [
+      "można",
+      "można, po spełnieniu dodatkowych warunków",
+      "nie wolno, można stosować jedynie opaski wokół komina"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 36,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Podczas regulacji urządzeń pod napięciem (o ile jest to konieczne) pracę wykonujemy:",
+    "o": [
+      "dwoma rękoma",
+      "jedną ręką",
+      "jedną ręką w asyście drugiej osoby, wskazane jest również stosowanie chodnika lub obuwia izolacyjnego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 37,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Jakim przewodem podłączysz nadajnik dużej mocy do źródła zasilania?",
+    "o": [
+      "zwykłym przewodem dwużyłowym",
+      "kablem w oplocie bawełnianym",
+      "przewodem o przekroju żył, odpowiednim do pobieranej przez urządzenie mocy urządzeniach elektrycznych i radiowych Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 38,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Uszkodzenie ekranu fidera antenowego może prowadzić do:",
+    "o": [
+      "nie prowadzi do żadnych negatywnych skutków",
+      "wzrostu zakłóceń, bez względu na pogodę",
+      "wzrostu zakłóceń i zmian impedancji kabla grożąca uszkodzeniem nadajnika"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 39,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Jak oznacza się odpowiednio - przewód neutralny (N) oraz ochronno-uziemiający (PE) w instalacji elektrycznej?",
+    "o": [
+      "czerwony, czarny",
+      "niebieski, żółto-zielony",
+      "żółto-zielony, brązowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 40,
+    "total": 40,
+    "department": "bezpieczenstwo",
+    "q": "Który z sieciowych przewodów zasilających można podłączyć do obudowy zasilacza:",
+    "o": [
+      "liniowy (fazowy)",
+      "neutralny",
+      "ochronno-uziemiający operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 1,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRG?",
+    "o": [
+      "włączam większą moc nadajnika",
+      "moja częstotliwość jest…",
+      "siła twoich sygnałów waha się"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 2,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Czy operator może przejść na nadawanie niezwłocznie po wybraniu częstotliwości pracy?",
+    "o": [
+      "może od razu nadawać",
+      "może nadawać lecz ze zredukowaną mocą",
+      "najpierw powinien upewnić się iż częstotliwość jest wolna i nie będzie zakłócał pracy innych użytkowników"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 3,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Kiedy wybierzemy częstotliwość nadawczą na naszym urządzeniu, jakie czynności należą do dobrej praktyki operatorskiej?",
+    "o": [
+      "upewnić się czy wybrana częstotliwość oraz użyta moc jest w zakresie uprawnień naszego pozwolenia",
+      "znajduję się w miejscu zgodnym z przeznaczeniem wg. band planu IARU, oraz sprawdzam czy częstotliwość jest wolna i nie spowoduje interferencji z innymi użytkownikami",
+      "wszystkie powyżej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 4,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Jaki jest prawidłowy sposób wywołania stacji na przemienniku, której znak wywoławczy jest nam znany?",
+    "o": [
+      "zawołanie \"break\" a następnie znak tej stacji",
+      "zawołanie znakiem wołanej stacji a następnie swoim",
+      "zawołanie swoim znakiem a następnie znakiem stacji wołanej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 5,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Jaki jest zalecany sposób dołączenia do trwającej już korespondencji?",
+    "o": [
+      "podaniu w przerwie nadawania innych korespondentów swojego znaku",
+      "powiedzeniu „Breako Breako”",
+      "powiedzeniu „CQ”, a następnie znak dowolnej stacji"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 6,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co należy do dobrej praktyki amatorskiej, jeśli propagacja zmienia się podczas trwania łączności i zauważysz zakłócenia ze strony innych stacji na swojej częstotliwości?",
+    "o": [
+      "powiedz stacjom powodującym zakłócenia, aby zmieniły częstotliwość",
+      "spróbować rozwiązać problem zakłóceń z innymi stacjami w sposób akceptowalny dla obu stron z poszanowaniem norm społecznych",
+      "zwiększ moc, aby nasz sygnał był silniejszy od zakłócającego operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 7,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co należy zrobić w pierwszej kolejności, jeśli komunikujesz się z inną stacją amatorską i słyszysz stację w niebezpieczeństwie?",
+    "o": [
+      "kontynuować łączność, ponieważ byłeś pierwszy na częstotliwości",
+      "potwierdzić że słyszymy stację wołającą o pomoc oraz ustalić jakiej pomocy potrzebuje",
+      "zmienić częstotliwość na inną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 8,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Która wstęga boczna jest najczęściej używana w komunikacji głosowej na częstotliwościach 14 MHz lub wyższych?",
+    "o": [
+      "górna wstęga boczna",
+      "dolna wstęga boczna",
+      "obie wstęgi boczne"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 9,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Która wstęga boczna jest najczęściej używana w komunikacji głosowej w pasmach 160 m, 80 m oraz 40 m?",
+    "o": [
+      "górna wstęga boczna",
+      "dolna wstęga boczna",
+      "obie wstęgi boczne"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 10,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QSY?",
+    "o": [
+      "przejdź na częstotliwość, zmień częstotliwość",
+      "do usłyszenia na innej częstotliwości",
+      "mam uszkodzoną antenę"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 11,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRM?",
+    "o": [
+      "jestem czynny w eterze od miesiąca",
+      "odbieram twoje sygnały bardzo dobrze zmniejsz moc",
+      "mam zakłócenia od innych stacji"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 12,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRN?",
+    "o": [
+      "jestem czynny w eterze od niedawna",
+      "mam zakłócenia atmosferyczne",
+      "pracuję na radiostacji tylko w niedzielę operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 13,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QSB?",
+    "o": [
+      "siła twoich sygnałów waha się",
+      "w okolicy jest burza, wyłączam radiostację",
+      "używam anteny dookólnej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 14,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRV?",
+    "o": [
+      "o której godzinie rozpoczęliśmy łączność",
+      "jestem gotów do pracy, jestem czynny w eterze",
+      "proszę powtórzyć ostatnią relację"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 15,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QTH?",
+    "o": [
+      "nie mam ochoty z tobą dalej rozmawiać",
+      "przekazuję wiadomość od…",
+      "moje położenie geograficzne jest…"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 16,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRP?",
+    "o": [
+      "nadawaj powoli",
+      "zmniejsz moc, zmniejszam moc",
+      "powtórz swój znak wywoławczy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 17,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QTC?",
+    "o": [
+      "wyłączam stację",
+      "na jaką częstotliwość mam się przestroić",
+      "mam dla ciebie pilną wiadomość"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 18,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QSO?",
+    "o": [
+      "moje położenie geograficzne jest…",
+      "łączność, mam łączność",
+      "siła twoich sygnałów waha się"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 19,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QSL?",
+    "o": [
+      "potwierdzam odbiór / przyślę kartę potwierdzającą łączność",
+      "nadawaj szybciej",
+      "słucham na częstotliwości operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 20,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza skrót slangu radioamatorskiego RX?",
+    "o": [
+      "antena pionowa",
+      "odbiornik",
+      "klucz elektroniczny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 21,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza skrót slangu radioamatorskiego Unlis?",
+    "o": [
+      "nielicencjonowany nadawca",
+      "zakłócenia w odbiorze telewizji",
+      "zawody w łowach na lisa"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 22,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza skrót slangu radioamatorskiego YL?",
+    "o": [
+      "antena z linki miedzianej",
+      "czas uniwersalny",
+      "panna - młoda pani"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 23,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza skrót slangu radioamatorskiego RPT?",
+    "o": [
+      "proszę powtórzyć, powtórzę, powtarzam",
+      "proszę",
+      "przechodzę na inny kanał"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 24,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Kiedy należy podawać raport o słyszalności?",
+    "o": [
+      "na początku łączności i na życzenie korespondenta",
+      "w odstępach 5-10 minut",
+      "po każdym przekazaniu mikrofonu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 25,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Czy od razu, po zdaniu egzaminu na pozwolenie radioamatorskie można samodzielnie obsługiwać stację amatorską?",
+    "o": [
+      "można, ale tylko pod nadzorem radioamatora posiadającego pozwolenie radiowe",
+      "można, w określonych w pozwoleniu radiowym zakresach częstotliwości",
+      "nie można, ponieważ do obsługi stacji amatorskiej upoważnia jedynie pozwolenie radiowe"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 26,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co to jest znak wywoławczy?",
+    "o": [
+      "jest to symbol określający typ (model) stacji amatorskiej",
+      "jest to hasło pozwalające wywołać konkretnego rozmówcę",
+      "jest to kombinacja liter i cyfr stanowiąca unikalny w skali światowej identyfikator stacji amatorskiej operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 27,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Czym jest LOG?",
+    "o": [
+      "jest to dziennik stacji amatorskiej zawierający informacje o korespondencji z innymi radiostacjami amatorskimi",
+      "jest to informacja o procedurach obowiązujących podczas łączności z innymi stacjami",
+      "jest to informacja o kontroli radiostacji przez inspektorów UKE"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 28,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Czy prowadzenie dziennika łączności jest obowiązkowe?",
+    "o": [
+      "jest to podstawowy obowiązek każdego radioamatora",
+      "prowadzenie logu nie jest obowiązkowe, lecz wskazane",
+      "prowadzenie dziennika łączności może być nakazane jako zalecenie pokontrolne inspektorów ochrony środowiska"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 29,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co znaczy określenie czas uniwersalny UTC?",
+    "o": [
+      "czas odpowiadający południkowi zerowemu (GMT), stosowany przez radioamatorów do odnotowania w logu godz. łączności",
+      "czas w którym nie należy nawiązywać QSO",
+      "czas w którym można nawiązywać łączności z krajami europejskimi"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 30,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co to jest międzynarodowy kod Q?",
+    "o": [
+      "zbiór symboli składających się z 3 liter, zaczynających się zawsze na literę Q, którym przypisane są proste zdanie lub słowa",
+      "symbole składające się z litery Q i 2-3 cyfr określających jakość odbieranego sygnału",
+      "wykaz zawierający prefiksy znaków wywoławczych wg ITU"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 31,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Do czego służy międzynarodowy kod Q?",
+    "o": [
+      "podania informacji o czasie rozpoczęcia łączności",
+      "skrócenia czasu nadawania informacji",
+      "informowania o sile odbieranego sygnału radiowego"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 32,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRL?",
+    "o": [
+      "źle się czuję, odezwę się później",
+      "jestem zajęty, proszę nie przeszkadzać",
+      "do zobaczenia latem operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 33,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRT?",
+    "o": [
+      "która jest godzina",
+      "kończę nadawanie, wyłączam stację",
+      "nadawaj wolniej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 34,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRZ?",
+    "o": [
+      "zmień częstotliwość na zapasową",
+      "kto mnie woła",
+      "jestem zajęty, proszę nie przeszkadzać"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 35,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRX?",
+    "o": [
+      "proszę czekać",
+      "nadawaj wolniej",
+      "mam zakłócenia od innych stacji"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 36,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza wg kodu Q symbol QRO?",
+    "o": [
+      "nic dla ciebie nie mam",
+      "zwiększ moc, zwiększam moc",
+      "przerwij nadawanie, kończę pracę"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 37,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Moja częstotliwość jest…?",
+    "o": [
+      "QRJ",
+      "QRG",
+      "QRK"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 38,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Przejdź na częstotliwość, zmień częstotliwość?",
+    "o": [
+      "QSY",
+      "QTR",
+      "QSA"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 39,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Mam zakłócenia od innych stacji?",
+    "o": [
+      "QWO",
+      "QQQ",
+      "QRM operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 40,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Siła twoich sygnałów waha się?",
+    "o": [
+      "QSB",
+      "QAZ",
+      "QRY"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 41,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Jestem gotów do pracy, jestem czynny w eterze?",
+    "o": [
+      "QWX",
+      "QRV",
+      "QRU"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 42,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Moje położenie geograficzne jest…?",
+    "o": [
+      "QLP",
+      "QRG",
+      "QTH"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 43,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Zmniejsz moc, zmniejszam moc?",
+    "o": [
+      "QUB",
+      "QRA",
+      "QRP"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 44,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Mam dla ciebie telegram, wiadomość?",
+    "o": [
+      "QRT",
+      "QTC",
+      "QSV"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 45,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Łączność, mam łączność?",
+    "o": [
+      "QSL",
+      "QSO",
+      "QRS"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 46,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Który z poniższych kodów Q oznacza: Potwierdzam odbiór, przyślę kartę potwierdzającą łączność?",
+    "o": [
+      "QSL",
+      "QSA",
+      "QRT operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 47,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BAND; CFM?",
+    "o": [
+      "pasmo; potwierdzam",
+      "zakres; godzina",
+      "raport; popołudnie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 48,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BK; CALL?",
+    "o": [
+      "później; kalibrator",
+      "przerwa; znak wywoławczy",
+      "stop; odebrałem wszystko"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 49,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BEST; DX?",
+    "o": [
+      "daleki; niezły",
+      "najlepszy; daleka łączność",
+      "dobry; szybki"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 50,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: BCI; BOX?",
+    "o": [
+      "zakłócenia odbioru radiowego; skrytka pocztowa",
+      "zakłócenia od sieciowe; radiolatarnia amatorska",
+      "podaj dokładny czas; zmieniam kanał radiowy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 51,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: OK; NAME?",
+    "o": [
+      "stary, nie przeszkadzaj; moje nazwisko jest",
+      "wszystko w porządku; imię",
+      "przestrajam się; podaj adres"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 52,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: SWR; RX?",
+    "o": [
+      "pasmo w metrach; antena pionowa",
+      "współczynnik fali stojącej; odbiornik",
+      "nasłuchowiec; klucz elektroniczny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 53,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Które z poniższych skrótów slangu radioamatorskiego oznaczają: Panna, młoda pani; czas uniwersalny?",
+    "o": [
+      "YL; UTC",
+      "XYL; UT",
+      "LY; TRO operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 54,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: PSE; RPT?",
+    "o": [
+      "proszę; powtórzyć, powtórzę, powtarzam",
+      "proszę; zmieniam pasmo o 10 kHz",
+      "przechodzę na inny kanał; raport podam na koniec łączności"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 55,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: 55; UTC?",
+    "o": [
+      "pozdrawiam; czas ukraiński",
+      "ściskam dłoń; mam pilną wiadomość",
+      "ściskam dłoń; czas uniwersalny"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 56,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają skróty slangu radioamatorskiego: LOG; DIRECT?",
+    "o": [
+      "długa antena; dyrektor",
+      "dziennik pracy stacji; bezpośrednio",
+      "długi; bezpośredni kontakt"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 57,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co to jest raport R S stosowany podczas łączności fonicznych?",
+    "o": [
+      "informacja o stanie technicznym radiostacji",
+      "informacja o stanie pogody przekazana w postaci zakodowanej",
+      "informacja o jakości odbieranego sygnału radiowego - czytelności i sił sygnału wyrażana w postaci cyfr"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 58,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co to jest raport R S T stosowany podczas łączności telegraficznych?",
+    "o": [
+      "informacja o stanie technicznym radiostacji",
+      "informacja o jakości odbieranego sygnału radiowego - czytelności, siły i tonu akustycznego sygnału",
+      "informacja o stanie pogody"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 59,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S",
+    "o": [
+      "R - jakość sygnału, S- słyszalność",
+      "R - stabilność sygnału, S- siła sygnału",
+      "R - czytelność, S - siła sygnału"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 60,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznaczają w raporcie o słyszalności i jakości sygnałów korespondenta litery R S T?",
+    "o": [
+      "R - czytelność, S - siła sygnału, T - ton sygnału",
+      "R - jakość sygnału, S - słyszalność, T - częstotliwość",
+      "R - stabilność sygnału, S - siła sygnału, T - ton sygnału operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 61,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Jaka jest skala czytelności i skala siły sygnału w raporcie R S?",
+    "o": [
+      "skala czytelności 1-5 i skala siły sygnału 1-9",
+      "skala czytelności 1-9 i skala siły sygnału 1-5",
+      "skala czytelności 0-5 i skala siły sygnału 0-9"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 62,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza w łączności fonicznej raport 59?",
+    "o": [
+      "dobrze czytelny, bardzo silny sygnał",
+      "czytelny, silny sygnał",
+      "słaby, czytelny z trudnościami sygnał"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 63,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza w łączności fonicznej raport 43?",
+    "o": [
+      "dobrze czytelny, bardzo silny sygnał",
+      "czytelny, słaby sygnał",
+      "czytelny z trudnościami, słaby sygnał"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 64,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza w łączności telegraficznej raport 599?",
+    "o": [
+      "czytelny, silny sygnał, dobry ton",
+      "dobrze czytelny, bardzo silny sygnał, bardzo dobry ton",
+      "czytelny z trudnościami, sygnał słaby, dobry ton"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 65,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co oznacza w łączności telegraficznej raport 438?",
+    "o": [
+      "dobrze czytelny, bardzo silny sygnał, dobry ton",
+      "czytelny z trudnościami, słaby sygnał, bardzo dobry ton",
+      "czytelny, słaby sygnał, dobry ton sygnału"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 66,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co to jest okręg wywoławczy?",
+    "o": [
+      "obszar, na którym pracuje maksimum 1000 radiostacji amatorskich",
+      "obszar odpowiadający podziałowi terytorialnemu Polski na województwa",
+      "zwyczajowo przyjęty obszar w granicach jednego lub dwóch województw"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 67,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Co to jest bandplan IARU?",
+    "o": [
+      "umowny podział zakresów częstotliwości na segmenty przeznaczone dla poszczególnych rodzajów emisji lub kanały robocze, zalecany przez IARU",
+      "podział częstotliwości osobno nadawczych i odbiorczych",
+      "plan przydziału częstotliwości dla poszczególnych krajów operatorskie - Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 68,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Transmisja prowadzona w sposób sprzeczny z bandplanem IARU jest:",
+    "o": [
+      "Naruszeniem prawa i może powodować utratę pozwolenia i konsekwencje karne",
+      "Jest całkowicie dopuszczalna, bandplan IARU nie ma współcześnie poważnego znaczenia",
+      "Jest dopuszczalna ale stanowi naruszenie dobrych obyczajów panujących wśród krótkofalowców"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 69,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Czy na całym świecie obowiązuje ten sam bandplan wydawany przez IARU?",
+    "o": [
+      "tak, krótkofalowcy na całym świecie pracują na tych samych częstotliwościach",
+      "nie, każdy kraj wydaje swój własny bandplan na podstawie zaleceń IARU",
+      "IARU zaleca odrębny bandplan dla każdego z trzech regionów z uwzględnieniem dla danego regionu zakresu częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 70,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Bandplan IARU jest:",
+    "o": [
+      "zaleceniem IARU",
+      "przepisem powszechnie obowiązującym",
+      "wydawaną przez IARU dyrektywą wprowadzaną do porządku krajowego w Krajowej Tablicy Przeznaczeń Częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 71,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Słyszysz międzynarodową łączność związaną z katastrofą, koordynację działań ratowniczych lub podobne łączności. Co zrobisz?",
+    "o": [
+      "Zaraportujesz niedozwolone użycie pasm amatorskich do koordynatora monitoringu IARU,",
+      "Zrobisz zwykłą łączność oczekując raportu i typowych informacji,",
+      "Nie przeszkadzasz, słuchasz dalej. Jeśli jest to uzasadnione - możesz dołączyć do pomocy przy organizacji łączności"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 72,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Znak stacji amatorskiej jest niepowtarzalny w skali",
+    "o": [
+      "świata",
+      "regionu IARU",
+      "kraju"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 73,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Pewien początkujący krótkofalowiec zakupił tani radiotelefon. Dość szybko spostrzegł, że wskaźnik siły sygnału działa w nim zupełnie nieprawidłowo, a koledzy proszą o Raport R/S. Co powinien zrobić w tej sytuacji?",
+    "o": [
+      "bezwzględnie naprawić radiotelefon lub dokupić przystawkę mierzącą siłę sygnału",
+      "Może podawać raporty \"na ucho\" i poinformować o tym korespondenta",
+      "nie ma żadnego powodu żeby podawać korespondentowi siłę jego sygnału jeśli słyszymy go poprawnie."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 74,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Stacja z Włoch woła \"CQ DX, CQ DX beaming pacific ocean\". Co powinien w tej sytuacji zrobić polski operator?",
+    "o": [
+      "natychmiast wołać!",
+      "napisać wiadomość przy pomocy DX klastra z prośbą do stacji włoskiej o obrócenie anten",
+      "poszukać innych chętnych do łączności gdyż ta stacja nie oczekuje teraz łączności z Europy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 75,
+    "total": 75,
+    "department": "operatorka",
+    "q": "Czy używanie znaków wywoławczych podczas łączności jest obowiązkowe?",
+    "o": [
+      "Nie, ale jest to ogólnie przyjęty dobry zwyczaj, pozytywnie świadczący o operatorze, pozwalający potwierdzić przeprowadzoną łączność",
+      "Tak, transmisja sygnałów bez identyfikacji jest zabroniona",
+      "Nie, można nie podawać znaków wywoławczych w krótkich łącznościach, beż żadnych konsekwencji radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 1,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jak nazywa się organ międzynarodowy ustalający ogólnoświatowe zasady wykonywania działalności telekomunikacyjnej i radiokomunikacyjnej?",
+    "o": [
+      "Organizacja Narodów Zjednoczonych (ONZ)",
+      "Międzynarodowy Związek Telekomunikacyjny (ITU)",
+      "Światowa Organizacja Handlu (WTO)"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 2,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy na częstotliwości 14,349 MHz wolno nadawać fonię z modulacją USB?",
+    "o": [
+      "wolno tylko w sytuacji kiedy słychać tam inną stację amatorską",
+      "kategorycznie nie wolno",
+      "wolno z mocą maksymalną 10 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 3,
+    "total": 68,
+    "department": "prawo",
+    "q": "Słysząc na częstotliwości 3712 kHz rozmowę dwóch stacji, które nie są stacjami amatorskimi należy:",
+    "o": [
+      "bezwzględnie nakazać przerwanie rozmowy, ponieważ jest to pasmo amatorskie",
+      "zgłosić do Urzędu Komunikacji Elektronicznej fakt nieuprawnionej transmisji w paśmie amatorskim",
+      "nie robić nic"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 4,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy na paśmie 40 m wolno nadawać modulacją USB?",
+    "o": [
+      "kategorycznie nie wolno",
+      "wolno z mocą maksymalną 10 W w określonych przepisami wycinkach tego pasma",
+      "wolno, ale jest to praktykowane głównie w przypadku emisji cyfrowych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 5,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaki dokument obowiązujący wszystkie kraje członkowskie Międzynarodowego Związku Telekomunikacyjnego (ITU) określa zasady wykonywania służby radiokomunikacyjnej amatorskiej i służby amatorskiej satelitarnej oraz wymienia przyznane tym służbom zakresy częstotliwości?",
+    "o": [
+      "konstytucja ITU",
+      "Regulamin Radiokomunikacyjny (Radio Regulations) ITU",
+      "konwencja ITU"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 6,
+    "total": 68,
+    "department": "prawo",
+    "q": "Regulamin Radiokomunikacyjny ITU dzieli świat na trzy regiony. W którym regionie radiokomunikacyjnym znajduje się Polska?",
+    "o": [
+      "w trzecim",
+      "w pierwszym",
+      "w drugim radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 7,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy Regulamin Radiokomunikacyjny ITU przewiduje wykorzystanie stacji amatorskich w akcjach humanitarnych, niesienia pomocy w przypadkach katastrof, klęsk żywiołowych i innych zagrożeń?",
+    "o": [
+      "nie zezwala na takie wykorzystanie stacji amatorskich",
+      "niezbędny jest specjalny wpis do pozwolenia radioamatorskiego",
+      "zaleca się wykorzystywanie stacji amatorskich w powyższych przypadkach"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 8,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy Regulamin Radiokomunikacyjny reguluje zasady przyznawania znaków wywoławczych stacjom amatorskim?",
+    "o": [
+      "nie, decyduje o tym IARU",
+      "tak, Regulamin Radiokomunikacyjny określa ściśle zasady przyznawania znaków",
+      "nie, znak wywoławczy obiera sobie sam operator stacji"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 9,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy postanowienia Regulaminu Radiokomunikacyjnego ITU dotyczące służby amatorskiej obowiązują również w służbie amatorskiej satelitarnej?",
+    "o": [
+      "tak, obowiązują",
+      "nie, obowiązują odrębne przepisy",
+      "nie obowiązują żadne przepisy"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 10,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy zgodnie z zaleceniami CEPT T/R 61-01 i T/R 61-02 posiadacz pozwolenia kategorii 3. może nadawać z terytorium kraju zrzeszonego w CEPT?",
+    "o": [
+      "tak, może",
+      "tak, może, ale maksymalnie 90 dni",
+      "nie, nie może"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 11,
+    "total": 68,
+    "department": "prawo",
+    "q": "Przez jaki okres czasu może posiadacz międzynarodowego pozwolenia amatorskiego zgodnego z zaleceniem CEPT T/R 61-01 pracować z terytorium innego kraju uznającego to zalecenie, bez konieczności uzyskiwania pozwolenia od miejscowej administracji łączności?",
+    "o": [
+      "1 miesiąc",
+      "90 dni",
+      "1 rok"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 12,
+    "total": 68,
+    "department": "prawo",
+    "q": "Kto określa maksymalną moc wyjściową stacji amatorskiej podawaną w pozwoleniu?",
+    "o": [
+      "Międzynarodowy Związek Telekomunikacyjny (ITU)",
+      "Europejskie Biuro Radiokomunikacji (ERO)",
+      "regulator krajowy radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 13,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaka organizacja reprezentuje służbę amatorską na forum międzynarodowym?",
+    "o": [
+      "Międzynarodowy Związek Telekomunikacyjny (ITU)",
+      "Międzynarodowy Związek Radioamatorów (IARU)",
+      "Europejskie Biuro Radiokomunikacji (ERO)"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 14,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaki organ krajowy reguluje i kontroluje pracę stacji amatorskich, przeprowadza egzaminy w służbie radiokomunikacyjnej amatorskiej na i wydaje pozwolenia w służbie amatorskiej?",
+    "o": [
+      "minister właściwy do spraw cyfryzacji",
+      "Prezes Urzędu Komunikacji Elektronicznej",
+      "minister właściwy do spraw wewnętrznych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 15,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaki podstawowy akt prawny reguluje działalność telekomunikacyjną i radiokomunikacyjną w Polsce?",
+    "o": [
+      "statut Urzędu Komunikacji Elektronicznej (UKE)",
+      "ustawa Prawo ochrony środowiska",
+      "ustawa Prawo komunikacji elektronicznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 16,
+    "total": 68,
+    "department": "prawo",
+    "q": "W jakim dokumencie określone są zakresy częstotliwości przeznaczone w Polsce dla służby amatorskiej i służby amatorskiej satelitarnej?",
+    "o": [
+      "w ustawie Prawo komunikacji elektronicznej",
+      "w rozporządzeniu Rady Ministrów w sprawie Krajowej Tablicy Przeznaczeń Częstotliwości",
+      "w decyzjach Prezesa Urzędu Komunikacji Elektronicznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 17,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie służba pierwszej ważności oznacza, że:",
+    "o": [
+      "służba taka jest chroniona przed szkodliwymi zakłóceniami ze strony służb drugiej ważności",
+      "służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości mogą zostać przydzielone w późniejszym terminie",
+      "służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb, którym częstotliwości mogą zostać przydzielone w późniejszym terminie, służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 18,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy stosowane w Krajowej Tablicy Przeznaczeń Częstotliwości określenie służba drugiej ważności - oznacza, że:",
+    "o": [
+      "służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie",
+      "służba taka nie może powodować szkodliwych zakłóceń w pracy stacji służb pierwszej ważności, którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka nie może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji służb pierwszej ważności; którym przydzielono częstotliwości lub mogą być przydzielone w późniejszym terminie; służba taka może jednak żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie",
+      "służba taka może żądać ochrony przed szkodliwymi zakłóceniami ze strony stacji tej samej lub innych służb drugiej ważności, którym częstotliwości mogą być przydzielone w późniejszym terminie"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 19,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaki dokument określa kategorie pozwoleń w służbie amatorskiej i dozwolone moce wyjściowe stacji amatorskiej?",
+    "o": [
+      "ustawa Prawo komunikacji elektronicznej",
+      "rozporządzenie ministra właściwego do spraw cyfryzacji",
+      "zarządzenie Prezesa Urzędu Komunikacji Elektronicznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 20,
+    "total": 68,
+    "department": "prawo",
+    "q": "Do czego upoważnia zdanie egzaminu w służbie radiokomunikacyjnej amatorskiej?",
+    "o": [
+      "do uzyskania pozwolenia amatorskiego kategorii 1 lub kategorii 3",
+      "do uzyskania pozwolenia amatorskiego kategorii 5",
+      "wyłącznie do pracy na stacji klubowej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 21,
+    "total": 68,
+    "department": "prawo",
+    "q": "Do czego nie upoważnia zdanie egzaminu w służbie radiokomunikacyjnej amatorskiej?",
+    "o": [
+      "do uzyskania pozwolenia amatorskiego kategorii 1",
+      "do uzyskania pozwolenia amatorskiego dodatkowego",
+      "do uzyskania pozwolenia amatorskiego kategorii 3"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 22,
+    "total": 68,
+    "department": "prawo",
+    "q": "Na jaki okres czasu wydawane są indywidualne pozwolenia amatorskie kategorii 1 i 3?",
+    "o": [
+      "25 lat",
+      "15 lat",
+      "dożywotnio radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 23,
+    "total": 68,
+    "department": "prawo",
+    "q": "Na jaki okres czasu wydawane są pozwolenia amatorskie kategorii 5?",
+    "o": [
+      "5 lat",
+      "10 lat",
+      "15 lat"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 24,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaka jest maksymalna moc wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 1?",
+    "o": [
+      "50 watów",
+      "500 watów",
+      "250 watów"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 25,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaka jest maksymalna moc wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 3?",
+    "o": [
+      "15 watów",
+      "100 watów",
+      "150 watów"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 26,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaka jest moc maksymalna wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 5?",
+    "o": [
+      "50 watów dla nadajnika poniżej 30 MHz a 15 watów dla nadajnika powyżej 30 MHz",
+      "50 watów",
+      "150 watów"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 27,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaka jest maksymalna moc wyjściowa radiostacji w przypadku pozwolenia dodatkowego?",
+    "o": [
+      "500 watów",
+      "1000 watów",
+      "1500 watów"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 28,
+    "total": 68,
+    "department": "prawo",
+    "q": "W jakich zakresach krótkofalowych może pracować operator posiadający pozwolenie kategorii 1?",
+    "o": [
+      "3500 - 3800 kHz oraz 7000 - 7300 kHz",
+      "7000 - 7100 kHz oraz 28000 - 29900 kHz",
+      "we wszystkich zakresach częstotliwości przeznaczonych dla służby radiokomunikacyjnej amatorskiej na terytorium RP radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 29,
+    "total": 68,
+    "department": "prawo",
+    "q": "W jakich zakresach częstotliwości może pracować operator posiadający pozwolenie kategorii 3?",
+    "o": [
+      "28000-29900 kHz oraz 144-146 MHz",
+      "1,81-2 MHz; 3,5-3,8 MHz; 7-7,2 MHz; 10,1-10,15 MHz; 14-14,35 MHz; 18,068-18,168 MHz; 21-21,45 MHz; 24,89-24,99 MHz; 28-29,7 MHz, 144-146 MHz; 430-440 MHz oraz 10-10,5 GHz",
+      "28000-29900 kHz oraz 430-440 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 30,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jakimi rodzajami emisji radiowych wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 50-52 MHz?",
+    "o": [
+      "wyłącznie emisją A1A (telegrafia)",
+      "wyłącznie emisją F3E (telefonia z modulacją częstotliwości)",
+      "wszystkimi rodzajami emisji z wyjątkiem F3E"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 31,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jakimi rodzajami emisji radiowych i z jaką mocą wolno pracować operatorowi w służbie amatorskiej w zakresie częstotliwości 135,7-137,8 kHz?",
+    "o": [
+      "wyłącznie emisją A1A (telegrafia) z mocą wyjściową 150 watów",
+      "wszystkimi rodzajami emisji z mocą wyjściową 250 watów",
+      "wyłącznie emisją A1A (telegrafia) z mocą 1 wat e.i.r.p. (równoważna moc promieniowana izotropowo)"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 32,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaki dokument określa kategorie pozwoleń w służbie amatorskiej i wymagania egzaminacyjne na poszczególne kategorie pozwoleń?",
+    "o": [
+      "rozporządzenie ministra właściwego do spraw cyfryzacji",
+      "ustawa Prawo komunikacji elektronicznej",
+      "Krajowa Tablica Przeznaczeń Częstotliwości"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 33,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jak powinien postąpić operator stacji amatorskiej w razie przypadkowego odebrania wiadomości nie przeznaczonej dla służby amatorskiej?",
+    "o": [
+      "rozpowszechnić odebraną wiadomość w internecie",
+      "zachować treść wiadomości w ścisłej tajemnicy",
+      "zachować treść wiadomości w ścisłej tajemnicy, zaś w przypadku gdy odebrana wiadomość zawiera istotne dla funkcjonowania Państwa lub porządku publicznego informacje - powiadomić najbliższą jednostkę administracji publicznej"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 34,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jak często operator stacji amatorskiej powinien podawać podczas łączności znak wywoławczy swej stacji?",
+    "o": [
+      "co pół godziny",
+      "tak często, jak jest to w praktyce możliwe, przede wszystkim na początku i końcu łączności",
+      "nie musi podawać znaku wywoławczego radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 35,
+    "total": 68,
+    "department": "prawo",
+    "q": "Stacja amatorska oznacza:",
+    "o": [
+      "urządzenia radiowe nadawcze lub nadawczo-odbiorcze wraz z systemem albo systemami antenowymi niezbędne do wykonywania w jednej lokalizacji służby radiokomunikacyjnej amatorskiej",
+      "osobę fizyczną, prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, której wydano pozwolenie w służbie radiokomunikacyjnej amatorskiej",
+      "lokalizację w której znajdują się urządzenia radiowe nadawcze lub nadawczo-odbiorcze wraz z systemem albo systemami antenowymi"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 36,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaką maksymalną mocą może nadawać amatorska stacja bezobsługowa, pracująca w paśmie 10m?",
+    "o": [
+      "100 W",
+      "15 W",
+      "50 W"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 37,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy pozwolenie kategorii 1 może być wydawane fundacjom lub stowarzyszeniom?",
+    "o": [
+      "tak, pozwolenia kategorii 1 mogą być wydawane osobie prawnej, w tym terenowej jednostce organizacyjnej stowarzyszenia posiadającego osobowość prawną, a także stowarzyszeniu zwykłemu",
+      "nie, pozwolenia mogą być wydawane jedynie osobom fizycznym",
+      "tak, pozwolenia kategorii 1 mogą być wydawane fundacjom i stowarzyszeniom posiadającym osobowość prawną"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 38,
+    "total": 68,
+    "department": "prawo",
+    "q": "We wniosku o wydanie pozwolenia radiowego, lokalizację stacji amatorskiej oznaczamy:",
+    "o": [
+      "za pomocą adresu",
+      "posługując się QTH Locatorem",
+      "adresem lub, za pomocą współrzędnych geograficznych"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 39,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy prowadzenie papierowego dziennika łączności jest obowiązkowe?",
+    "o": [
+      "tak, obowiązkowe jest prowadzenie dziennika łączności w formie fizycznego dokumentu",
+      "nie, obowiązkowy dziennik łączności może być prowadzony także elektronicznie",
+      "nie, dziennik łączności nie jest wymagany"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 40,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jakie należy spełnić warunki aby uzyskać pozwolenie radiowe na używanie stacji amatorskiej?",
+    "o": [
+      "należy posiadać zaświadczenie o pozytywnym wyniku egzaminu z wiedzy i umiejętności osoby ubiegającej się o pozwolenie i odbyć trzymiesięczną praktykę na stacji klubowej",
+      "należy posiadać zaświadczenie o pozytywnym wyniku egzaminu z wiedzy i umiejętności osoby ubiegającej się o pozwolenie i co najmniej średnie wykształcenie",
+      "należy posiadać zaświadczenie o pozytywnym wyniku egzaminu z wiedzy i umiejętności osoby ubiegającej się o pozwolenie radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 41,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy od razu, po zdaniu egzaminu, przydzielany jest znak wywoławczy dla stacji amatorskiej?",
+    "o": [
+      "tak",
+      "nie, znak wywoławczy przydzielany jest w pozwoleniu radiowym",
+      "tak, jeżeli dana osoba posiada radiostację"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 42,
+    "total": 68,
+    "department": "prawo",
+    "q": "Polski znak wywoławczy stacji radioamatorskiej z pozwoleniem podstawowym składa się z:",
+    "o": [
+      "prefiksu, cyfry i maksymalnie 4 znaków z czego ostatni musi być literą",
+      "prefiksu, dwóch cyfr i sufiksu z maksymalnie 4 znaków",
+      "prefiksu, czterech cyfr"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 43,
+    "total": 68,
+    "department": "prawo",
+    "q": "Poprawne literowanie wg alfabetu ITU litery B i F:",
+    "o": [
+      "Bil, fox",
+      "bravo, foxtrot",
+      "box, Florida"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 44,
+    "total": 68,
+    "department": "prawo",
+    "q": "Poprawne literowanie wg alfabetu ITU litery C i G:",
+    "o": [
+      "Charlie, golf",
+      "Canada, gold",
+      "Chile, Grenada"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 45,
+    "total": 68,
+    "department": "prawo",
+    "q": "Poprawne literowanie wg alfabetu ITU litery I i K:",
+    "o": [
+      "India, Kanada",
+      "Italia, Kaz",
+      "India, Kilo"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 46,
+    "total": 68,
+    "department": "prawo",
+    "q": "Poprawne literowanie wg alfabetu ITU litery R i V:",
+    "o": [
+      "Ren, Viktor",
+      "Romeo, Viktor",
+      "radio, Viola"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 47,
+    "total": 68,
+    "department": "prawo",
+    "q": "Poprawne literowanie wg alfabetu ITU litery X i S:",
+    "o": [
+      "X-Ray, Sierra",
+      "Xsen, Santiago",
+      "X-Ray, Syria radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 48,
+    "total": 68,
+    "department": "prawo",
+    "q": "Które prefiksy znaków wywoławczych przeznaczone są dla Polski?",
+    "o": [
+      "HF, SN, SO, SP, SQ, SR, 3Z",
+      "HF, SN, SO, SP, SQ, 3Z, 3X",
+      "HA, SM, SO, SP, SQ, SR, 3Z"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 49,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 160 m to:",
+    "o": [
+      "1810 kHz - 1950 kHz",
+      "1810 kHz - 2000 kHz",
+      "1810 kHz - 1980 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 50,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 80 m to:",
+    "o": [
+      "3550 kHz - 3750 kHz",
+      "3500 kHz - 3750 kHz",
+      "3500 kHz - 3800 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 51,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 40 m to:",
+    "o": [
+      "7000 kHz - 7200 kHz",
+      "7100 kHz - 7300 kHz",
+      "7050 kHz - 7200 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 52,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 30 m to:",
+    "o": [
+      "10050 kHz - 10200 kHz",
+      "10100 kHz - 10150 kHz",
+      "10100 kHz - 10200 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 53,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 20 m to:",
+    "o": [
+      "14000 kHz - 14350 kHz",
+      "14000 kHz - 14450 kHz",
+      "14100 kHz - 14350 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 54,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 17 m to:",
+    "o": [
+      "18050 kHz - 18250 kHz",
+      "18068 kHz - 18168 kHz",
+      "18000 kHz - 18168 kHz radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 55,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 15 m to:",
+    "o": [
+      "21000 kHz - 21500 kHz",
+      "21100 kHz - 21450 kHz",
+      "21000 kHz - 21450 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 56,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 12 m to:",
+    "o": [
+      "24690 kHz - 24990 kHz",
+      "24890 kHz - 24990 kHz",
+      "24680 kHz - 24990 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 57,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 10 m to:",
+    "o": [
+      "28500 kHz - 29800 kHz",
+      "28000 kHz - 29500 kHz",
+      "28000 kHz - 29700 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 58,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 6 m to:",
+    "o": [
+      "50 MHz - 54 MHz",
+      "50 MHz - 52 MHz",
+      "50 MHz - 53,5 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 59,
+    "total": 68,
+    "department": "prawo",
+    "q": "Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 2 m to:",
+    "o": [
+      "144 MHz - 146 MHz",
+      "144 MHz - 148 MHz",
+      "143 MHz - 146 MHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 60,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jaki jest odstęp między częstotliwością nadawczą a odbiorczą przemienników pracujących w paśmie 2 m?",
+    "o": [
+      "600 kHz",
+      "650 kHz",
+      "800 kHz"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 61,
+    "total": 68,
+    "department": "prawo",
+    "q": "Prefiks kraju znajduje się",
+    "o": [
+      "na początku znaku wywoławczego stacji amatorskiej",
+      "na końcu znaku stacji amatorskiej",
+      "znak nie identyfikuje kraju dlatego musimy posługiwać się tzw callbookiem lub specjalnymi stronami www radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 62,
+    "total": 68,
+    "department": "prawo",
+    "q": "Który z prefiksów nie może być prefiksem znaku wywoławczego stacji polskiego krótkofalowca dla kategorii pozwolenia 1 i 3?",
+    "o": [
+      "HF",
+      "3Z",
+      "SR"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 63,
+    "total": 68,
+    "department": "prawo",
+    "q": "Który z prefiksów dotyczy krótkofalowca z Ameryki Północnej?",
+    "o": [
+      "W",
+      "BY",
+      "G"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 64,
+    "total": 68,
+    "department": "prawo",
+    "q": "Słyszysz stację z USA, która nadaje na 7220 kHz. Co to oznacza:",
+    "o": [
+      "stacja nadaje niezgodnie z przepisami",
+      "nie możesz odpowiedzieć na jej wywołanie na 7220 kHz, gdyż ta częstotliwość znajduje się poza pasmem amatorskim w Polsce",
+      "ma uszkodzony nadajnik"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 65,
+    "total": 68,
+    "department": "prawo",
+    "q": "Jakiej mocy powinny używać stacje radioamatorskie?",
+    "o": [
+      "określonej w pozwoleniu",
+      "minimalnej, niezbędnej do zapewnienia zadowalającej jakości transmisji, nie większej jednak niż określona w pozwoleniu",
+      "dowolnej, nie większej jednak niż określona w pozwoleniu"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 66,
+    "total": 68,
+    "department": "prawo",
+    "q": "Wyjeżdżasz na kilka dni z Polski do Niemiec. Czy możesz użyć swojej radiostacji, a jeśli tak, to jakiego użyjesz znaku?",
+    "o": [
+      "nie możesz",
+      "możesz, poprzedzisz swój własny znak prefiksem DL (właściwym dla kraju CEPT, do którego przyjechałeś)",
+      "możesz, zamieniasz polski prefix na prefix kraju, do którego przyjechałeś"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 67,
+    "total": 68,
+    "department": "prawo",
+    "q": "Które z krajów nie należą do CEPT, ale nadal możesz stamtąd nadawać podczas krótkiej podróży po wypełnieniu rekomendacji T/R 61-01?",
+    "o": [
+      "Stany Zjednoczone, Kanada, Izrael",
+      "Arabia Saudyjska, Bahrajn, Irak",
+      "Chiny, Korea Północna, Indie radiokomunikacyjnej służby amatorskiej Wersja 3."
+    ],
+    "source_pdf": "kategoria_1_v3"
+  },
+  {
+    "number": 68,
+    "total": 68,
+    "department": "prawo",
+    "q": "Czy na pasmach amatorskich możemy nadawać dowolne treści?",
+    "o": [
+      "nie, stacje mają zakaz transmisji sygnałów zbędnych, nieużytecznych, fałszywych lub wprowadzających w błąd",
+      "tak, jest to przywilej radioamatorów",
+      "nie, nie można nadawać komercyjnej muzyki oraz transmisji o charakterze religijnym"
+    ],
+    "source_pdf": "kategoria_1_v3"
+  }
+]

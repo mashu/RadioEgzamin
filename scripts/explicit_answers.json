@@ -1,0 +1,2607 @@
+{
+  "radiotechnika:1": {
+    "a": 0,
+    "e": "Szkło to typowy izolator dielektryczny; grafit przewodzi, krzem to półprzewodnik.",
+    "verified": true
+  },
+  "radiotechnika:2": {
+    "a": 1,
+    "e": "W obwodzie szeregowym przez wszystkie elementy płynie ten sam prąd.",
+    "verified": true
+  },
+  "radiotechnika:3": {
+    "a": 2,
+    "e": "Spadek napięcia: U = Z·I = 10.0 Ω · 2.0 A = 20 V.",
+    "verified": true
+  },
+  "radiotechnika:4": {
+    "a": 2,
+    "e": "Prądy w gałęziach równoległych sumują się: 4 + 2 + 1 = 7 A.",
+    "verified": true
+  },
+  "radiotechnika:5": {
+    "a": 0,
+    "e": "Spadek na rezystancji wewnętrznej: ΔU = Ri·I = 0.1 Ω · 10.0 A = 1 V.",
+    "verified": true
+  },
+  "radiotechnika:6": {
+    "a": 2,
+    "e": "Równoległe łączenie źródeł wymaga identycznych napięć zaciskowych.",
+    "verified": true
+  },
+  "radiotechnika:7": {
+    "a": 1,
+    "e": "Pojemność (pojemność elektryczna) opisuje zdolność do magazynowania energii w polu E.",
+    "verified": true
+  },
+  "radiotechnika:8": {
+    "a": 0,
+    "e": "Współczynnik skrócenia to stosunek prędkości fali w ośrodku do prędkości w próżni.",
+    "verified": true
+  },
+  "radiotechnika:9": {
+    "a": 1,
+    "e": "Prąd przemienny okresowo zmienia kierunek.",
+    "verified": true
+  },
+  "radiotechnika:10": {
+    "a": 2,
+    "e": "Układ wspólnego kolektora (emitter follower) ma obciążenie między emiterem a masą.",
+    "verified": true
+  },
+  "radiotechnika:11": {
+    "a": 0,
+    "e": "Opór zależy od materiału (ρ), długości, przekroju i temperatury.",
+    "verified": true
+  },
+  "radiotechnika:12": {
+    "a": 1,
+    "e": "Zgodnie z materiałami szkoleniowymi: „wykonany z żelaza”.",
+    "verified": true
+  },
+  "radiotechnika:13": {
+    "a": 1,
+    "e": "Z prawa Ohma U = I·R = 0.002 A · 1000 Ω = 2 V.",
+    "verified": true
+  },
+  "radiotechnika:14": {
+    "a": 2,
+    "e": "R = (12−3)/0,02 = 450 Ω.",
+    "verified": true
+  },
+  "radiotechnika:15": {
+    "a": 0,
+    "e": "W rezonansie obwód LC i dipol mają charakter rezystancyjny.",
+    "verified": true
+  },
+  "radiotechnika:16": {
+    "a": 1,
+    "e": "Amplituda Û = U_sk·√2 ≈ 230.0 · 1,414 ≈ 325 V.",
+    "verified": true
+  },
+  "radiotechnika:17": {
+    "a": 2,
+    "e": "W rezonansie szeregowym prąd i napięcie na obwodzie są w fazie.",
+    "verified": true
+  },
+  "radiotechnika:18": {
+    "a": 1,
+    "e": "Noise Blanker chwilowo obniża wzmocnienie podczas impulsów zakłóceń.",
+    "verified": true
+  },
+  "radiotechnika:19": {
+    "a": 1,
+    "e": "Zbyt wąski filtr CW niszczy czytelność sygnału telegraficznego.",
+    "verified": true
+  },
+  "radiotechnika:20": {
+    "a": 0,
+    "e": "Moc szumu rośnie o 10·log10(B): -174 + 10·log10(10000) ≈ -134 dBm.",
+    "verified": true
+  },
+  "radiotechnika:21": {
+    "a": 1,
+    "e": "Z P = U·I wynika U = P/I = 24.0/2.0 = 12 V.",
+    "verified": true
+  },
+  "radiotechnika:22": {
+    "a": 0,
+    "e": "Moc P = I²·R = (0.3 A)² · 200.0 Ω = 18 W.",
+    "verified": true
+  },
+  "radiotechnika:23": {
+    "a": 0,
+    "e": "Pełne AM (A3E) ma obie wstęgi boczne i nośną.",
+    "verified": true
+  },
+  "radiotechnika:24": {
+    "a": 0,
+    "e": "PSK (Phase Shift Keying) koduje informację w dyskretnych skokach fazy.",
+    "verified": true
+  },
+  "radiotechnika:25": {
+    "a": 1,
+    "e": "SSB powstaje metodą filtrową, fazową lub Weavera.",
+    "verified": true
+  },
+  "radiotechnika:26": {
+    "a": 1,
+    "e": "PSK31 ma najwęższe pasmo (~31 Hz) spośród podanych emisji.",
+    "verified": true
+  },
+  "radiotechnika:27": {
+    "a": 0,
+    "e": "Gdy amplituda modulującej równa się nośnej, głębokość modulacji wynosi 100%.",
+    "verified": true
+  },
+  "radiotechnika:28": {
+    "a": 2,
+    "e": "Kanał PSK31 ma około 31,25 Hz.",
+    "verified": true
+  },
+  "radiotechnika:29": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „100 V”.",
+    "verified": true
+  },
+  "radiotechnika:30": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „1,5 V”.",
+    "verified": true
+  },
+  "radiotechnika:31": {
+    "a": 1,
+    "e": "Liczba 31 oznacza szybkość 31 bodów (Bd).",
+    "verified": true
+  },
+  "radiotechnika:32": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „przez wprowadzenie sumy kontrolnej CRC i ponowne wysyłanie tej samej informacji”.",
+    "verified": true
+  },
+  "radiotechnika:33": {
+    "a": 1,
+    "e": "PEP (Peak Envelope Power) to moc w szczytach obwiedni.",
+    "verified": true
+  },
+  "radiotechnika:34": {
+    "a": 2,
+    "e": "3 dB odpowiada dwukrotności mocy.",
+    "verified": true
+  },
+  "radiotechnika:35": {
+    "a": 1,
+    "e": "Różnica 2 jednostek S = 12 dB ≈ 4× moc.",
+    "verified": true
+  },
+  "radiotechnika:36": {
+    "a": 0,
+    "e": "Moc wyjściowa: -20.0 + 10.0 − 3.0 = -13 dBm.",
+    "verified": true
+  },
+  "radiotechnika:37": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „co najmniej 10 dB”.",
+    "verified": true
+  },
+  "radiotechnika:38": {
+    "a": 2,
+    "e": "Linie B tworzą okręgi wokół przewodnika (prostopadle do osi).",
+    "verified": true
+  },
+  "radiotechnika:39": {
+    "a": 0,
+    "e": "Niedopasowanie powoduje odbicia i straty w linii.",
+    "verified": true
+  },
+  "radiotechnika:40": {
+    "a": 0,
+    "e": "Sprawność η = Pout/Pin · 100% = 100.0/280.0 · 100% ≈ 36%.",
+    "verified": true
+  },
+  "radiotechnika:41": {
+    "a": 1,
+    "e": "PEP (Peak Envelope Power) to moc w szczytach obwiedni.",
+    "verified": true
+  },
+  "radiotechnika:42": {
+    "a": 1,
+    "e": "Twierdzenie Nyquista: fs ≥ 2·fmax, tu ≥ 100 kHz.",
+    "verified": true
+  },
+  "radiotechnika:43": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zakres dynamiki”.",
+    "verified": true
+  },
+  "radiotechnika:44": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „2 A”.",
+    "verified": true
+  },
+  "radiotechnika:45": {
+    "a": 1,
+    "e": "W tranzystorze polowym prąd drenu jest sterowany napięciem bramka-źródło.",
+    "verified": true
+  },
+  "radiotechnika:46": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „filtr pasmowoprzepustowy”.",
+    "verified": true
+  },
+  "radiotechnika:47": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „duża stromość zboczy charakterystyki częstotliwościowej pozwala na uzyskanie dobrej selektywności”.",
+    "verified": true
+  },
+  "radiotechnika:48": {
+    "a": 0,
+    "e": "Klasa A — przewodzenie przez cały okres sygnału.",
+    "verified": true
+  },
+  "radiotechnika:49": {
+    "a": 2,
+    "e": "ALC ogranicza nadmierne wysterowanie, redukując zniekształcenia.",
+    "verified": true
+  },
+  "radiotechnika:50": {
+    "a": 2,
+    "e": "Mieszanie daje sumy i różnice częstotliwości: 3 MHz i 7 MHz.",
+    "verified": true
+  },
+  "radiotechnika:51": {
+    "a": 2,
+    "e": "Selektywność to zdolność do wyboru sygnału o zadanej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:52": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „rozpraszaniem sygnału na śladach jonizacyjnych meteorów (meteor scatter)”.",
+    "verified": true
+  },
+  "radiotechnika:53": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „pogorszenie stosunku sygnału do szumu”.",
+    "verified": true
+  },
+  "radiotechnika:54": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „nIe, to jest antena jednopasmowa”.",
+    "verified": true
+  },
+  "radiotechnika:55": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wstęgi boczne modulacji mogą zostać odwrócone”.",
+    "verified": true
+  },
+  "radiotechnika:56": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „stosunek liczby direktorów do reflektorów”.",
+    "verified": true
+  },
+  "radiotechnika:57": {
+    "a": 0,
+    "e": "Współczynnik skrócenia to stosunek prędkości fali w ośrodku do prędkości w próżni.",
+    "verified": true
+  },
+  "radiotechnika:58": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wyższa liczba plam słonecznych generalnie wskazuje na większe prawdopodobieństwo dobrej propagacji na wyższych częstotliwościach”.",
+    "verified": true
+  },
+  "radiotechnika:59": {
+    "a": 1,
+    "e": "MUF to Maximum Usable Frequency — górna użyteczna częstotliwość.",
+    "verified": true
+  },
+  "radiotechnika:60": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „130 W”.",
+    "verified": true
+  },
+  "radiotechnika:61": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „miernik SWR wymaga określonej częstotliwości do działania”.",
+    "verified": true
+  },
+  "radiotechnika:62": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dokładność tłumika wejściowego”.",
+    "verified": true
+  },
+  "radiotechnika:63": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „utrzymanie jak najkrótszego połączenia uziemienia sondy”.",
+    "verified": true
+  },
+  "radiotechnika:64": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „demodulacja”.",
+    "verified": true
+  },
+  "radiotechnika:65": {
+    "a": 1,
+    "e": "Impedancja mierzona jest w omach (Ω).",
+    "verified": true
+  },
+  "radiotechnika:66": {
+    "a": 0,
+    "e": "Opór przewodnika opisuje wzór R = ρ·l / S, gdzie ρ (rezystywność) jest cechą materiału.\nMiedź ma ρ ≈ 0,017 Ω·mm²/m, aluminium ≈ 0,028, żelazo ≈ 0,1. Ten sam kształt, inny materiał — inny opór.\nZapamiętaj: geometria (długość, przekrój) i materiał decydują o R; izolacja nie przewodzi prądu, więc na R żyły nie wpływa.",
+    "verified": true
+  },
+  "radiotechnika:67": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „nie przewodzą prądu elektrycznego”.",
+    "verified": true
+  },
+  "radiotechnika:68": {
+    "a": 2,
+    "e": "Miedź ma najmniejszą rezystywność, więc najmniejszy opór przy tej samej geometrii.",
+    "verified": true
+  },
+  "radiotechnika:69": {
+    "a": 1,
+    "e": "German (Ge) i krzem (Si) to klasyczne półprzewodniki z IV grupy układu okresowego.\nZłoto i platyna to metale — dobre przewodniki, nie półprzewodniki.",
+    "verified": true
+  },
+  "radiotechnika:70": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „oporność 120 Ω”.",
+    "verified": true
+  },
+  "radiotechnika:71": {
+    "a": 1,
+    "e": "Zgodnie z materiałami szkoleniowymi: „napięcie wynosi 12 V”.",
+    "verified": true
+  },
+  "radiotechnika:72": {
+    "a": 0,
+    "e": "Ferromagnetyki mają µr >> 1, większą niż powietrze.",
+    "verified": true
+  },
+  "radiotechnika:73": {
+    "a": 0,
+    "e": "W próżni fala biegnie z prędkością c ≈ 300 000 km/s, ale w ośrodku (np. dielektryku kabla) jest wolniejsza.\nDlatego kabel ma współczynnik skrócenia — fala w koncentryku biegnie np. 0,66·c.",
+    "verified": true
+  },
+  "radiotechnika:74": {
+    "a": 1,
+    "e": "f = c/λ = 3·10⁸/1500.0 ≈ 200 kHz.",
+    "verified": true
+  },
+  "radiotechnika:75": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „od 300 Hz do 3 kHz”.",
+    "verified": true
+  },
+  "radiotechnika:76": {
+    "a": 0,
+    "e": "CW (emisja A1A) to kluczowanie nośnej: nadajesz nośną (kropka/kreska) albo ją wyłączasz (odstęp).\nTo najprostsza i najbardziej „przebojowa” emisja — cała moc skupiona w jednej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:77": {
+    "a": 0,
+    "e": "CW jest emisją wąskopasmową.",
+    "verified": true
+  },
+  "radiotechnika:78": {
+    "a": 0,
+    "e": "W Regionie 1 kanał FM na 2 m to zwykle 12,5 kHz.",
+    "verified": true
+  },
+  "radiotechnika:79": {
+    "a": 1,
+    "e": "Typowe pasmo SSB to ok. 2,7–3 kHz.",
+    "verified": true
+  },
+  "radiotechnika:80": {
+    "a": 1,
+    "e": "PEP = Vpeak²/(2R); Vpeak = 100 V na obciążeniu 50 Ω → PEP = 100 W.",
+    "verified": true
+  },
+  "radiotechnika:81": {
+    "a": 0,
+    "e": "Rdzeń zwielokrotnia indukcyjność: L = μr · L0 = 10 · 100 µH = 1000 µH.\nFerryt „skupia” pole magnetyczne — dlatego niewielka cewka na rdzeniu ma dużą indukcyjność.",
+    "verified": true
+  },
+  "radiotechnika:82": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „cewka L1”.",
+    "verified": true
+  },
+  "radiotechnika:83": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „24 V”.",
+    "verified": true
+  },
+  "radiotechnika:84": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „do eliminacji tętnień zasilacza”.",
+    "verified": true
+  },
+  "radiotechnika:85": {
+    "a": 0,
+    "e": "Diody Zenera stabilizują napięcie w kierunku zaporowym.",
+    "verified": true
+  },
+  "radiotechnika:86": {
+    "a": 1,
+    "e": "Warikap to dioda pojemnościowa (varactor).",
+    "verified": true
+  },
+  "radiotechnika:87": {
+    "a": 0,
+    "e": "„Penta” = pięć: katoda, anoda i trzy siatki (sterująca, ekranująca, hamująca).\nTrioda ma 3 elektrody, tetroda 4, pentoda 5 — nazwa liczy elektrody.",
+    "verified": true
+  },
+  "radiotechnika:88": {
+    "a": 1,
+    "e": "Szereg: R = R1 + R2 + R3 + R4 = 4 · 5 Ω = 20 Ω.\nW szeregu opory dodajesz — zawsze więcej niż najwyższy składnik.",
+    "verified": true
+  },
+  "radiotechnika:89": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „5 szt.”.",
+    "verified": true
+  },
+  "radiotechnika:90": {
+    "a": 1,
+    "e": "Jedna dioda prostuje tylko połowę okresu — to prostownik jednopołówkowy.",
+    "verified": true
+  },
+  "radiotechnika:91": {
+    "a": 0,
+    "e": "Dwie diody prostują obie połowy okresu — prostownik dwupołówkowy.",
+    "verified": true
+  },
+  "radiotechnika:92": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „niskiej częstotliwości”.",
+    "verified": true
+  },
+  "radiotechnika:93": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „ma za duże napięcie zasilania”.",
+    "verified": true
+  },
+  "radiotechnika:94": {
+    "a": 1,
+    "e": "SSB przenosi obwiednię amplitudy, więc wzmacniacz musi być liniowy — klasa AB.\nKlasa C jest nieliniowa (dobra dla CW/FM o stałej obwiedni), ale zniekształciłaby SSB.",
+    "verified": true
+  },
+  "radiotechnika:95": {
+    "a": 0,
+    "e": "Blok 1 w pętli PLL to generator stabilizowany (VCO).",
+    "verified": true
+  },
+  "radiotechnika:96": {
+    "a": 1,
+    "e": "Blok 4 to kwarcowy generator wzorca — źródło stałej częstotliwości odniesienia.",
+    "verified": true
+  },
+  "radiotechnika:97": {
+    "a": 0,
+    "e": "Pierwszy blok superheterodyny AM to filtr wejściowy.",
+    "verified": true
+  },
+  "radiotechnika:98": {
+    "a": 1,
+    "e": "Po detektorze AM sygnał audio trafia do wzmacniacza akustycznego.",
+    "verified": true
+  },
+  "radiotechnika:99": {
+    "a": 0,
+    "e": "Wejście odbiornika z podwójną przemianą to wzmacniacz w.cz.",
+    "verified": true
+  },
+  "radiotechnika:100": {
+    "a": 0,
+    "e": "Końcowy blok toru audio to wzmacniacz akustyczny.",
+    "verified": true
+  },
+  "radiotechnika:101": {
+    "a": 0,
+    "e": "Odbiornik homodynowy zaczyna się od filtra wejściowego.",
+    "verified": true
+  },
+  "radiotechnika:102": {
+    "a": 1,
+    "e": "Blok 2 odbiornika FM to I mieszacz (pierwsza przemiana).",
+    "verified": true
+  },
+  "radiotechnika:103": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „o 200 Hz”.",
+    "verified": true
+  },
+  "radiotechnika:104": {
+    "a": 0,
+    "e": "Za łańcuchem wzmacniania nadajnika CW stoi filtr wyjściowy.",
+    "verified": true
+  },
+  "radiotechnika:105": {
+    "a": 1,
+    "e": "Częstotliwość nadajnika telegraficznego ustala oscylator VFO.",
+    "verified": true
+  },
+  "radiotechnika:106": {
+    "a": 2,
+    "e": "Nadajnik SSB zaczyna się od wzbudnicy sideband 9 MHz.",
+    "verified": true
+  },
+  "radiotechnika:107": {
+    "a": 1,
+    "e": "Wzbudnica SSB miesza się z VFO w bloku mieszacza.",
+    "verified": true
+  },
+  "radiotechnika:108": {
+    "a": 1,
+    "e": "Dipol promieniuje najmocniej prostopadle do drutu, a wzdłuż drutu prawie wcale — stąd „ósemka”.\nObracając dipol ustawiasz maksima w stronę korespondenta.",
+    "verified": true
+  },
+  "radiotechnika:109": {
+    "a": 0,
+    "e": "Antena pionowa promieniuje równomiernie we wszystkich kierunkach poziomych — charakterystyka dookólna.\nDlatego pionowa jest wygodna do pracy „ze wszystkimi”, bez obracania.",
+    "verified": true
+  },
+  "radiotechnika:110": {
+    "a": 0,
+    "e": "Element 1 anteny Yagi (najdłuższy) to reflektor.",
+    "verified": true
+  },
+  "radiotechnika:111": {
+    "a": 0,
+    "e": "Element 2 (zasilany) to wibrator — element promieniujący.",
+    "verified": true
+  },
+  "radiotechnika:112": {
+    "a": 1,
+    "e": "Element 3 za wibratorem to I direktor.",
+    "verified": true
+  },
+  "radiotechnika:113": {
+    "a": 1,
+    "e": "Element 4 to II direktor.",
+    "verified": true
+  },
+  "radiotechnika:114": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „kiedy kabel nie jest ułożony prosto”.",
+    "verified": true
+  },
+  "radiotechnika:115": {
+    "a": 1,
+    "e": "Reflektometr (SWR meter) służy do pomiaru fali stojącej.",
+    "verified": true
+  },
+  "radiotechnika:116": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „zwarcie lub przerwa w kablu”.",
+    "verified": true
+  },
+  "radiotechnika:117": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „ununa 9:1”.",
+    "verified": true
+  },
+  "radiotechnika:118": {
+    "a": 2,
+    "e": "Fale krótkie odbijają się od jonosfery i wracają na Ziemię — to daje łączności dalekie (DX).\nJonizacja zmienia się z porą dnia, roku i aktywnością Słońca, więc propagacja KF „żyje” razem z jonosferą.",
+    "verified": true
+  },
+  "radiotechnika:119": {
+    "a": 0,
+    "e": "Cykl słoneczny (~11 lat) wpływa na propagację HF.",
+    "verified": true
+  },
+  "radiotechnika:120": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zasięg wyznaczony linią horyzontu radiowego”.",
+    "verified": true
+  },
+  "radiotechnika:121": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wielokrotnemu odbijaniu się fal od ciepłej ziemi”.",
+    "verified": true
+  },
+  "radiotechnika:122": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „z wykorzystaniem odbicia sygnału od Księżyca”.",
+    "verified": true
+  },
+  "radiotechnika:123": {
+    "a": 0,
+    "e": "Moc wyjściowa mierzona jest na obciążeniu 50 Ω: P = U²/R.",
+    "verified": true
+  },
+  "radiotechnika:124": {
+    "a": 2,
+    "e": "Reflektometr pokazuje dopasowanie anteny (SWR).",
+    "verified": true
+  },
+  "radiotechnika:125": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „przez stosowanie grubych przewodów”.",
+    "verified": true
+  },
+  "radiotechnika:126": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „prawidłowe działanie mikrofonu”.",
+    "verified": true
+  },
+  "radiotechnika:127": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „filtr w.cz. na wyjściu antenowym nadajnika”.",
+    "verified": true
+  },
+  "radiotechnika:128": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „Urząd Komunikacji Elektronicznej”.",
+    "verified": true
+  },
+  "radiotechnika:129": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „spadek wynosi 500 V”.",
+    "verified": true
+  },
+  "radiotechnika:130": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „opornik 3,5 Ω”.",
+    "verified": true
+  },
+  "radiotechnika:131": {
+    "a": 0,
+    "e": "Z P = U²/R wyznaczamy U = √(P·R) = √(200 · 50) = √10000 = 100 V.\nTa sama zależność wraca przy pomiarze mocy nadajnika na sztucznym obciążeniu 50 Ω.",
+    "verified": true
+  },
+  "radiotechnika:132": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „1 W”.",
+    "verified": true
+  },
+  "radiotechnika:133": {
+    "a": 1,
+    "e": "Częstotliwość to odwrotność okresu: f = 1 / T = 1 / 0,02 s = 50 Hz.\nTo częstotliwość sieci energetycznej w Europie.",
+    "verified": true
+  },
+  "radiotechnika:134": {
+    "a": 2,
+    "e": "Dla sinusa U_sk = Û / √2 = 200 / 1,414 ≈ 141 V.\nWartość skuteczna (RMS) to takie napięcie stałe, które wydzieliłoby tę samą moc. Zawsze mniejsza od amplitudy.",
+    "verified": true
+  },
+  "radiotechnika:135": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „340 V”.",
+    "verified": true
+  },
+  "radiotechnika:136": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „1,5 V”.",
+    "verified": true
+  },
+  "radiotechnika:137": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „ekranów z blach”.",
+    "verified": true
+  },
+  "radiotechnika:138": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „ze względu na lepsze chłodzenie”.",
+    "verified": true
+  },
+  "radiotechnika:139": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „składowa elektryczna i składowa prędkości”.",
+    "verified": true
+  },
+  "radiotechnika:140": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „80 m”.",
+    "verified": true
+  },
+  "radiotechnika:141": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „zawiera tylko 2000 Hz”.",
+    "verified": true
+  },
+  "radiotechnika:142": {
+    "a": 0,
+    "e": "Pełne AM (A3E) ma obie wstęgi boczne i nośną.",
+    "verified": true
+  },
+  "radiotechnika:143": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „modulację amplitudy”.",
+    "verified": true
+  },
+  "radiotechnika:144": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „2 W”.",
+    "verified": true
+  },
+  "radiotechnika:145": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „o 10 dB”.",
+    "verified": true
+  },
+  "radiotechnika:146": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „50 %”.",
+    "verified": true
+  },
+  "radiotechnika:147": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „od 0,9 do 1,1 kΩ”.",
+    "verified": true
+  },
+  "radiotechnika:148": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „10 W”.",
+    "verified": true
+  },
+  "radiotechnika:149": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „tak, można”.",
+    "verified": true
+  },
+  "radiotechnika:150": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „2 razy”.",
+    "verified": true
+  },
+  "radiotechnika:151": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „1 mA”.",
+    "verified": true
+  },
+  "radiotechnika:152": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „w klasie A”.",
+    "verified": true
+  },
+  "radiotechnika:153": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „szeregowo”.",
+    "verified": true
+  },
+  "radiotechnika:154": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „nie możemy”.",
+    "verified": true
+  },
+  "radiotechnika:155": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „90 µH”.",
+    "verified": true
+  },
+  "radiotechnika:156": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „50 V”.",
+    "verified": true
+  },
+  "radiotechnika:157": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „rzeczywistą omową”.",
+    "verified": true
+  },
+  "radiotechnika:158": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „200 pF”.",
+    "verified": true
+  },
+  "radiotechnika:159": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „280 kHz”.",
+    "verified": true
+  },
+  "radiotechnika:160": {
+    "a": 2,
+    "e": "Mostek z czterema diodami to prostownik mostkowy dwupołówkowy.",
+    "verified": true
+  },
+  "radiotechnika:161": {
+    "a": 1,
+    "e": "Kondensator ładuje się do wartości szczytowej: U_dc ≈ Û = Usk·√2.\nStąd Usk = 25 / √2 ≈ 17,7 V. Nieobciążony filtr „widzi” szczyt, nie wartość skuteczną.",
+    "verified": true
+  },
+  "radiotechnika:162": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „10 dB”.",
+    "verified": true
+  },
+  "radiotechnika:163": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wzmacniaczem selektywnym”.",
+    "verified": true
+  },
+  "radiotechnika:164": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „filtr dolnoprzepustowy”.",
+    "verified": true
+  },
+  "radiotechnika:165": {
+    "a": 0,
+    "e": "C1 filtruje składową w.cz. po detekcji, przepuszcza sygnał audio.",
+    "verified": true
+  },
+  "radiotechnika:166": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „bo sygnał CW jest przerywany”.",
+    "verified": true
+  },
+  "radiotechnika:167": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „poniżej wstęgi LSB”.",
+    "verified": true
+  },
+  "radiotechnika:168": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „nie”.",
+    "verified": true
+  },
+  "radiotechnika:169": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zastosowanie obwodu rezonansu szeregowego”.",
+    "verified": true
+  },
+  "radiotechnika:170": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zastosowaniu specjalnych układów korygujących częstotliwość”.",
+    "verified": true
+  },
+  "radiotechnika:171": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „użycie przetwornika cyfrowo-analogowego”.",
+    "verified": true
+  },
+  "radiotechnika:172": {
+    "a": 1,
+    "e": "Blok 2 PLL to programowalny dzielnik częstotliwości (dzielnik nastawny).",
+    "verified": true
+  },
+  "radiotechnika:173": {
+    "a": 1,
+    "e": "Blok 3 porównuje fazę sygnału z dzielnika z sygnałem wzorcowym.",
+    "verified": true
+  },
+  "radiotechnika:174": {
+    "a": 0,
+    "e": "Blok 5 dzieli częstotliwość kwarcu wzorca przed komparatorem.",
+    "verified": true
+  },
+  "radiotechnika:175": {
+    "a": 2,
+    "e": "Wzmacniacz błędu wzmacnia sygnał różnicy faz do sterowania VCO.",
+    "verified": true
+  },
+  "radiotechnika:176": {
+    "a": 1,
+    "e": "Blok 2 superheterodyny AM to mieszacz pierwszej przemiany.",
+    "verified": true
+  },
+  "radiotechnika:177": {
+    "a": 1,
+    "e": "Za mieszaczem następuje wzmacniacz pośredniej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:178": {
+    "a": 2,
+    "e": "Detektor AM demoduluje sygnał z toru pośredniej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:179": {
+    "a": 2,
+    "e": "Heterodyna (LO) podaje sygnał do mieszacza.",
+    "verified": true
+  },
+  "radiotechnika:180": {
+    "a": 1,
+    "e": "Blok 2 odbiornika z podwójną przemianą to I mieszacz.",
+    "verified": true
+  },
+  "radiotechnika:181": {
+    "a": 1,
+    "e": "Blok 3 to wzmacniacz I pośredniej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:182": {
+    "a": 2,
+    "e": "Blok 4 to II mieszacz (druga przemiana).",
+    "verified": true
+  },
+  "radiotechnika:183": {
+    "a": 0,
+    "e": "Blok 5 to stała II heterodyna.",
+    "verified": true
+  },
+  "radiotechnika:184": {
+    "a": 0,
+    "e": "Blok 6 to filtr przełączany II pośredniej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:185": {
+    "a": 1,
+    "e": "Blok 7 to wzmacniacz II pośredniej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:186": {
+    "a": 2,
+    "e": "Blok 8 to detektor AM/CW/SSB.",
+    "verified": true
+  },
+  "radiotechnika:187": {
+    "a": 1,
+    "e": "Blok 10 to BFO — generator pomocniczy do odbioru CW/SSB.",
+    "verified": true
+  },
+  "radiotechnika:188": {
+    "a": 0,
+    "e": "Blok 11 to strojona I heterodyna.",
+    "verified": true
+  },
+  "radiotechnika:189": {
+    "a": 2,
+    "e": "Blok 2 odbiornika homodynowego to mieszacz zrównoważony.",
+    "verified": true
+  },
+  "radiotechnika:190": {
+    "a": 1,
+    "e": "Blok 3 homodynowego odbiornika to wzmacniacz akustyczny.",
+    "verified": true
+  },
+  "radiotechnika:191": {
+    "a": 2,
+    "e": "Blok 4 to heterodyna (LO) o tej samej częstotliwości co sygnał.",
+    "verified": true
+  },
+  "radiotechnika:192": {
+    "a": 0,
+    "e": "Blok 1 odbiornika FM to wzmacniacz w.cz.",
+    "verified": true
+  },
+  "radiotechnika:193": {
+    "a": 1,
+    "e": "Blok 3 to wzmacniacz I pośredniej cz. 10,7 MHz.",
+    "verified": true
+  },
+  "radiotechnika:194": {
+    "a": 2,
+    "e": "Blok 4 to II mieszacz (druga przemiana do 455 kHz).",
+    "verified": true
+  },
+  "radiotechnika:195": {
+    "a": 1,
+    "e": "Blok 5 to wzmacniacz II pośredniej cz. 455 kHz.",
+    "verified": true
+  },
+  "radiotechnika:196": {
+    "a": 0,
+    "e": "Blok 6 to detektor FM (dyskryminator).",
+    "verified": true
+  },
+  "radiotechnika:197": {
+    "a": 1,
+    "e": "Blok 7 to wzmacniacz akustyczny.",
+    "verified": true
+  },
+  "radiotechnika:198": {
+    "a": 1,
+    "e": "Blok 8 to blokada szumów (squelch).",
+    "verified": true
+  },
+  "radiotechnika:199": {
+    "a": 2,
+    "e": "Blok 9 to stała II heterodyna.",
+    "verified": true
+  },
+  "radiotechnika:200": {
+    "a": 0,
+    "e": "Blok 10 to kwarcowa I heterodyna.",
+    "verified": true
+  },
+  "radiotechnika:201": {
+    "a": 2,
+    "e": "Selektywność to zdolność do wyboru sygnału o zadanej częstotliwości.",
+    "verified": true
+  },
+  "radiotechnika:202": {
+    "a": 2,
+    "e": "Blok 1 nadajnika CW to oscylator VFO.",
+    "verified": true
+  },
+  "radiotechnika:203": {
+    "a": 2,
+    "e": "Blok 2 to separator oddzielający oscylator od wzmacniacza.",
+    "verified": true
+  },
+  "radiotechnika:204": {
+    "a": 1,
+    "e": "Blok 3 to wzmacniacz mocy (PA).",
+    "verified": true
+  },
+  "radiotechnika:205": {
+    "a": 1,
+    "e": "Blok 2 nadajnika wielopasmowego to separator.",
+    "verified": true
+  },
+  "radiotechnika:206": {
+    "a": 0,
+    "e": "Blok 3 SSB to filtr pasmowy 3,5–14 MHz.",
+    "verified": true
+  },
+  "radiotechnika:207": {
+    "a": 0,
+    "e": "Blok 4 to wzmacniacz sterujący (driver).",
+    "verified": true
+  },
+  "radiotechnika:208": {
+    "a": 0,
+    "e": "Blok 5 to wzmacniacz mocy (PA).",
+    "verified": true
+  },
+  "radiotechnika:209": {
+    "a": 1,
+    "e": "Blok 6 to filtr wyjściowy.",
+    "verified": true
+  },
+  "radiotechnika:210": {
+    "a": 0,
+    "e": "Blok 7 to oscylator VFO 5–5,5 MHz.",
+    "verified": true
+  },
+  "radiotechnika:211": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „rośnie.”.",
+    "verified": true
+  },
+  "radiotechnika:212": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „dipola pomiarowego”.",
+    "verified": true
+  },
+  "radiotechnika:213": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „e.i.r.p. jest większe o 2,15 dB od e.r.p.”.",
+    "verified": true
+  },
+  "radiotechnika:214": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „6 dBd”.",
+    "verified": true
+  },
+  "radiotechnika:215": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „25%”.",
+    "verified": true
+  },
+  "radiotechnika:216": {
+    "a": 0,
+    "e": "Fale krótkie (HF) to pasmo 3–30 MHz, czyli długości od 100 m do 10 m.\nPoniżej — fale średnie/długie; powyżej 30 MHz zaczyna się UKF (VHF).",
+    "verified": true
+  },
+  "radiotechnika:217": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „D”.",
+    "verified": true
+  },
+  "radiotechnika:218": {
+    "a": 1,
+    "e": "MUF (Maximum Usable Frequency) to najwyższa częstotliwość, którą jonosfera jeszcze odbije na danej trasie.\nPracuj tuż poniżej MUF: sygnał odbija się z najmniejszym tłumieniem. Powyżej MUF fala ucieka w kosmos.",
+    "verified": true
+  },
+  "radiotechnika:219": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „strefa bez odbioru leżąca pomiędzy końcem fali przyziemnej a powrotem fali odbitej od jonosfery”.",
+    "verified": true
+  },
+  "radiotechnika:220": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „oscyloskopem”.",
+    "verified": true
+  },
+  "radiotechnika:221": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wystarczy, z pewnym zapasem”.",
+    "verified": true
+  },
+  "radiotechnika:222": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „od 300 Hz do 3 kHz”.",
+    "verified": true
+  },
+  "radiotechnika:223": {
+    "a": 0,
+    "e": "Pełne AM (A3E) ma obie wstęgi boczne i nośną.",
+    "verified": true
+  },
+  "radiotechnika:224": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „stabilność częstotliwości”.",
+    "verified": true
+  },
+  "radiotechnika:225": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wzmacniaczem mocy”.",
+    "verified": true
+  },
+  "radiotechnika:226": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „fali nośnej, sygnałów modulacji częstotliwości”.",
+    "verified": true
+  },
+  "radiotechnika:227": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „sygnałów modulacji częstotliwości (F3E)”.",
+    "verified": true
+  },
+  "radiotechnika:228": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „temperatura”.",
+    "verified": true
+  },
+  "radiotechnika:229": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „częstotliwość i amplitudę sygnału”.",
+    "verified": true
+  },
+  "radiotechnika:230": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „10 m”.",
+    "verified": true
+  },
+  "radiotechnika:231": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „mniejsza niż w próżni”.",
+    "verified": true
+  },
+  "radiotechnika:232": {
+    "a": 1,
+    "e": "Polaryzację określa kierunek pola elektrycznego E. E prostopadłe do ziemi (pionowe) → polaryzacja pionowa.\nAntena pionowa promieniuje falę spolaryzowaną pionowo — po obu stronach warto mieć zgodną polaryzację.",
+    "verified": true
+  },
+  "radiotechnika:233": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „339 V”.",
+    "verified": true
+  },
+  "radiotechnika:234": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „20 ms”.",
+    "verified": true
+  },
+  "radiotechnika:235": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dziesięciokrotności częstotliwości sygnału wejściowego.”.",
+    "verified": true
+  },
+  "radiotechnika:236": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „kluczowanie amplitudy”.",
+    "verified": true
+  },
+  "radiotechnika:237": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zwiększa się”.",
+    "verified": true
+  },
+  "radiotechnika:238": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „5 W”.",
+    "verified": true
+  },
+  "radiotechnika:239": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „50%”.",
+    "verified": true
+  },
+  "radiotechnika:240": {
+    "a": 1,
+    "e": "PEP = Vpeak²/(2R); Vpeak = 100 V na obciążeniu 50 Ω → PEP = 100 W.",
+    "verified": true
+  },
+  "radiotechnika:241": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „większa lub równa dwukrotności najwyższej częstotliwości przetwarzanego sygnału”.",
+    "verified": true
+  },
+  "radiotechnika:242": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „filtr sprzętowy”.",
+    "verified": true
+  },
+  "radiotechnika:243": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „1 W”.",
+    "verified": true
+  },
+  "radiotechnika:244": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „polu elektrycznym”.",
+    "verified": true
+  },
+  "radiotechnika:245": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „0,1 raza”.",
+    "verified": true
+  },
+  "radiotechnika:246": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „prąd wyprzedza napięcie w fazie o 90 stopni”.",
+    "verified": true
+  },
+  "radiotechnika:247": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wprowadzają mniejsze straty w polu magnetycznym niż powietrze”.",
+    "verified": true
+  },
+  "radiotechnika:248": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „rezystancyjny”.",
+    "verified": true
+  },
+  "radiotechnika:249": {
+    "a": 0,
+    "e": "Diody Zenera stabilizują napięcie w kierunku zaporowym.",
+    "verified": true
+  },
+  "radiotechnika:250": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „prostowanie bardzo dużych napięć i prądów”.",
+    "verified": true
+  },
+  "radiotechnika:251": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „szybkie przełączanie i rozpraszanie dużych chwilowych mocy”.",
+    "verified": true
+  },
+  "radiotechnika:252": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tak”.",
+    "verified": true
+  },
+  "radiotechnika:253": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dodatnie (wyższy potencjał do bazy)”.",
+    "verified": true
+  },
+  "radiotechnika:254": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „napięciem i prądem”.",
+    "verified": true
+  },
+  "radiotechnika:255": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „kolektor i bazę”.",
+    "verified": true
+  },
+  "radiotechnika:256": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „mniejszy o tyle razy od prądu drenu, o ile wynosi wzmocnienie tranzystora”.",
+    "verified": true
+  },
+  "radiotechnika:257": {
+    "a": 0,
+    "e": "Kondensator C1 bocznikuje emiter dla prądów przemiennych, zwiększając wzmocnienie AC bez zmiany punktu pracy DC.",
+    "verified": true
+  },
+  "radiotechnika:258": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „szeregowo”.",
+    "verified": true
+  },
+  "radiotechnika:259": {
+    "a": 0,
+    "e": "Zgodnie z materiałami szkoleniowymi: „nie możemy”.",
+    "verified": true
+  },
+  "radiotechnika:260": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „90 μH”.",
+    "verified": true
+  },
+  "radiotechnika:261": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tylko rezystancję”.",
+    "verified": true
+  },
+  "radiotechnika:262": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „280 kHz”.",
+    "verified": true
+  },
+  "radiotechnika:263": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „filtrem dolnoprzepustowym”.",
+    "verified": true
+  },
+  "radiotechnika:264": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zwiększenie stromości zbocza”.",
+    "verified": true
+  },
+  "radiotechnika:265": {
+    "a": 2,
+    "e": "Rezystory R1 i R2 tworzą dzielnik napięcia polaryzujący bazę i ustalają punkt pracy tranzystora.",
+    "verified": true
+  },
+  "radiotechnika:266": {
+    "a": 2,
+    "e": "ALC ogranicza nadmierne wysterowanie, redukując zniekształcenia.",
+    "verified": true
+  },
+  "radiotechnika:267": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „pojedynczej diody i kondensatora”.",
+    "verified": true
+  },
+  "radiotechnika:268": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zwiększenie wzmocnienia wzmacniacza.”.",
+    "verified": true
+  },
+  "radiotechnika:269": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „kluczowania fazy (PSK)”.",
+    "verified": true
+  },
+  "radiotechnika:270": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „licznik”.",
+    "verified": true
+  },
+  "radiotechnika:271": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Możliwość zaprogramowania demodulatora dla każdej emisji”.",
+    "verified": true
+  },
+  "radiotechnika:272": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „użycie przetwornika cyfrowo-analogowego”.",
+    "verified": true
+  },
+  "radiotechnika:273": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „brak częstotliwości pośredniej (jest równa 0)”.",
+    "verified": true
+  },
+  "radiotechnika:274": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „maksymalny odchył od częstotliwości nośnej”.",
+    "verified": true
+  },
+  "radiotechnika:275": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zakłócenia określane jako \"kliki\"”.",
+    "verified": true
+  },
+  "radiotechnika:276": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wibratora, reflektora i direktora”.",
+    "verified": true
+  },
+  "radiotechnika:277": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „osiągnięto bardzo dobre dopasowanie linii zasilającej do nadajnika”.",
+    "verified": true
+  },
+  "radiotechnika:278": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „moduł impedancji jest równy 50 Ω”.",
+    "verified": true
+  },
+  "radiotechnika:279": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „niską impedancję”.",
+    "verified": true
+  },
+  "radiotechnika:280": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „7 i 21 MHz”.",
+    "verified": true
+  },
+  "radiotechnika:281": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „odcinek o długości 1/4 fali”.",
+    "verified": true
+  },
+  "radiotechnika:282": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „poziomą”.",
+    "verified": true
+  },
+  "radiotechnika:283": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tak, nie ma przeciwwskazań”.",
+    "verified": true
+  },
+  "radiotechnika:284": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Dipola półfalowego”.",
+    "verified": true
+  },
+  "radiotechnika:285": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „6 dBd”.",
+    "verified": true
+  },
+  "radiotechnika:286": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „5 W”.",
+    "verified": true
+  },
+  "radiotechnika:287": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dipola półfalowego”.",
+    "verified": true
+  },
+  "radiotechnika:288": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „EIRP jest większe o 2,15 dB od ERP”.",
+    "verified": true
+  },
+  "radiotechnika:289": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „A - 100 W, B - 100 W”.",
+    "verified": true
+  },
+  "radiotechnika:290": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „przełączyć się na dipol”.",
+    "verified": true
+  },
+  "radiotechnika:291": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dookólnie”.",
+    "verified": true
+  },
+  "radiotechnika:292": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „na osi północ-południe”.",
+    "verified": true
+  },
+  "radiotechnika:293": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tak”.",
+    "verified": true
+  },
+  "radiotechnika:294": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „należy zabezpieczyć uszkodzony fragment taśmą izolacyjną”.",
+    "verified": true
+  },
+  "radiotechnika:295": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zerową”.",
+    "verified": true
+  },
+  "radiotechnika:296": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „poziom zakłóceń lokalnych”.",
+    "verified": true
+  },
+  "radiotechnika:297": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „stratę 50% mocy nadajnika, brak wpływu na odbiór”.",
+    "verified": true
+  },
+  "radiotechnika:298": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zasilamy antenę typu longwire kablem koncentrycznym”.",
+    "verified": true
+  },
+  "radiotechnika:299": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „poprawę odporności odbiornika na silne sygnały”.",
+    "verified": true
+  },
+  "radiotechnika:300": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „mniejsza gęstość atmosfery powoduje zmniejszenie tłumienia trasy”.",
+    "verified": true
+  },
+  "radiotechnika:301": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „łączność w zasięgu horyzontalnym”.",
+    "verified": true
+  },
+  "radiotechnika:302": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „z racji na brak propagacji w warstwie E”.",
+    "verified": true
+  },
+  "radiotechnika:303": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „początek i koniec każdego pasma amatorskiego”.",
+    "verified": true
+  },
+  "radiotechnika:304": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zupełnie nieregularnie”.",
+    "verified": true
+  },
+  "radiotechnika:305": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „polepszenie propagacji w pasmach KF”.",
+    "verified": true
+  },
+  "radiotechnika:306": {
+    "a": 1,
+    "e": "MUF to Maximum Usable Frequency — górna użyteczna częstotliwość.",
+    "verified": true
+  },
+  "radiotechnika:307": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „anten o wysokim kącie promieniowania”.",
+    "verified": true
+  },
+  "radiotechnika:308": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Spowodowane jest to zmianą kątów promieniowania anteny”.",
+    "verified": true
+  },
+  "radiotechnika:309": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „niewłaściwą pracą anteny”.",
+    "verified": true
+  },
+  "radiotechnika:310": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wielokrotnym odbiciu fal pomiędzy troposferą i jonosferą”.",
+    "verified": true
+  },
+  "radiotechnika:311": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „użyć anteny promieniowania pionowego”.",
+    "verified": true
+  },
+  "radiotechnika:312": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „zimą z racji na lokalne zanieczyszczenie powietrza”.",
+    "verified": true
+  },
+  "radiotechnika:313": {
+    "a": 2,
+    "e": "ALC ogranicza nadmierne wysterowanie, redukując zniekształcenia.",
+    "verified": true
+  },
+  "radiotechnika:314": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „na pasmach fal ultrakrótkich, np. 70 cm lub 2 m”.",
+    "verified": true
+  },
+  "radiotechnika:315": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „odbicia sygnału od Księżyca”.",
+    "verified": true
+  },
+  "radiotechnika:316": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „na falach krótkich w paśmie 80 m”.",
+    "verified": true
+  },
+  "radiotechnika:317": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „przez odległe burze”.",
+    "verified": true
+  },
+  "radiotechnika:318": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „znaczenie na paśmie 80 m, by odebrać sygnał słabej stacji”.",
+    "verified": true
+  },
+  "radiotechnika:319": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „użyć emisji FM”.",
+    "verified": true
+  },
+  "radiotechnika:320": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Z racji na duże straty mocy w linii zasilającej”.",
+    "verified": true
+  },
+  "radiotechnika:321": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „nie usłyszymy jej w ogóle, 10 W to za mało na taką łączność”.",
+    "verified": true
+  },
+  "radiotechnika:322": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „minimalnej mocy nadajnika, niezbędnej dla danej łączności”.",
+    "verified": true
+  },
+  "radiotechnika:323": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „omomierz”.",
+    "verified": true
+  },
+  "radiotechnika:324": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „maksymalną rezystancję”.",
+    "verified": true
+  },
+  "radiotechnika:325": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „szeregowo włączonego rezystora”.",
+    "verified": true
+  },
+  "radiotechnika:326": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „uziemienie woltomierza,”.",
+    "verified": true
+  },
+  "radiotechnika:327": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „oporność wewnętrzna woltomierza”.",
+    "verified": true
+  },
+  "radiotechnika:328": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „generatora kwarcowego oraz amperomierza”.",
+    "verified": true
+  },
+  "radiotechnika:329": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dopasowanie linii zasilającej”.",
+    "verified": true
+  },
+  "radiotechnika:330": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Obecność i siłę sygnałów harmonicznych i niepożądanych w sygnale nadajnika”.",
+    "verified": true
+  },
+  "radiotechnika:331": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „brak odpowiedniego przedwzmacniacza w.cz.”.",
+    "verified": true
+  },
+  "radiotechnika:332": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „intermodulacja w obwodach wejściowych odbiornika FM”.",
+    "verified": true
+  },
+  "radiotechnika:333": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „może zniekształcać sygnał wyjściowy na częstotliwości roboczej”.",
+    "verified": true
+  },
+  "radiotechnika:334": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wyindukowanie silnego sygnału w.cz. w antenie odbiorczej”.",
+    "verified": true
+  },
+  "radiotechnika:335": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „nic nie można zrobić, zakłócenia już takie są”.",
+    "verified": true
+  },
+  "radiotechnika:336": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wprowadzić ekranowanie skrzynki, na przykład w postaci szczelnej, metalowej obudowy”.",
+    "verified": true
+  },
+  "radiotechnika:337": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „różnicą pomiędzy najsłabszym a najmocniejszym sygnałem”.",
+    "verified": true
+  },
+  "radiotechnika:338": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tak, ale tylko przy dużej mocy”.",
+    "verified": true
+  },
+  "bezpieczenstwo:1": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „30 uciśnięć klatki piersiowej na 2 wdechy”.",
+    "verified": true
+  },
+  "bezpieczenstwo:2": {
+    "a": 1,
+    "e": "Przy wysokim napięciu miernik i przewody muszą być do niego przystosowane.",
+    "verified": true
+  },
+  "bezpieczenstwo:3": {
+    "a": 2,
+    "e": "Instalacja odgromowa wymaga łagodnych promieniowań, bez ostrych zakrętów.",
+    "verified": true
+  },
+  "bezpieczenstwo:4": {
+    "a": 2,
+    "e": "Na narzędziach izolowanych podaje się dopuszczalne napięcie pracy.",
+    "verified": true
+  },
+  "bezpieczenstwo:5": {
+    "a": 1,
+    "e": "Duże natężenie pola EM w pobliżu nadajników może negatywnie wpływać na zdrowie.",
+    "verified": true
+  },
+  "bezpieczenstwo:6": {
+    "a": 2,
+    "e": "Prace antenowe przy włączonym nadajniku są zabronione ze względów bezpieczeństwa.",
+    "verified": true
+  },
+  "bezpieczenstwo:7": {
+    "a": 0,
+    "e": "Nie wolno regulować nieczynnych anten, gdy obok pracuje nadajnik.",
+    "verified": true
+  },
+  "bezpieczenstwo:8": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „dobre uziemienie i szczelność ekranowania”.",
+    "verified": true
+  },
+  "bezpieczenstwo:9": {
+    "a": 1,
+    "e": "Źle wykonany uziom może powodować niepożądane promieniowanie w.cz.",
+    "verified": true
+  },
+  "bezpieczenstwo:10": {
+    "a": 0,
+    "e": "Duży kondensator (np. w zasilaczu) przechowuje ładunek długo po wyłączeniu i może porazić.\nPrzed pracą rozładuj kondensatory przez opornik; w zasilaczach służy do tego opornik upływowy (bleeder).",
+    "verified": true
+  },
+  "bezpieczenstwo:11": {
+    "a": 1,
+    "e": "Zwarcie akumulatora może spowodować pożar lub poparzenie.",
+    "verified": true
+  },
+  "bezpieczenstwo:12": {
+    "a": 2,
+    "e": "Kondensator musi mieć napięcie pracy co najmniej równe napięciu w układzie.",
+    "verified": true
+  },
+  "bezpieczenstwo:13": {
+    "a": 1,
+    "e": "Uszkodzony fider przy mocy 100 W grozi porażeniem prądem.",
+    "verified": true
+  },
+  "bezpieczenstwo:14": {
+    "a": 2,
+    "e": "Typowe obciążenie 50 Ω nie wymaga ekranowania.",
+    "verified": true
+  },
+  "bezpieczenstwo:15": {
+    "a": 1,
+    "e": "Kondensacja pary wodnej po przeniesieniu grozi uszkodzeniem układu.",
+    "verified": true
+  },
+  "bezpieczenstwo:16": {
+    "a": 2,
+    "e": "Plastik nie ekranuje energii w.cz.",
+    "verified": true
+  },
+  "bezpieczenstwo:17": {
+    "a": 1,
+    "e": "Zasilacz 30 A może zasilić stację pobierającą 20 A.",
+    "verified": true
+  },
+  "bezpieczenstwo:18": {
+    "a": 0,
+    "e": "Rury gazowe nie mogą służyć jako uziemienie.",
+    "verified": true
+  },
+  "bezpieczenstwo:19": {
+    "a": 1,
+    "e": "Najpierw własne bezpieczeństwo, odłączenie od prądu, ocena funkcji życiowych, wezwanie pomocy, RKO w razie potrzeby.",
+    "verified": true
+  },
+  "bezpieczenstwo:20": {
+    "a": 2,
+    "e": "Urządzenia pod napięciem gasi się gaśnicą proszkową, nie wodą.",
+    "verified": true
+  },
+  "bezpieczenstwo:21": {
+    "a": 2,
+    "e": "Przewód ochronny (PE) oznacza się żółto-zielonym kolorem.",
+    "verified": true
+  },
+  "bezpieczenstwo:22": {
+    "a": 2,
+    "e": "Narzędzia muszą mieć izolowane uchwyty z oznaczeniem dopuszczalnego napięcia.",
+    "verified": true
+  },
+  "bezpieczenstwo:23": {
+    "a": 1,
+    "e": "Podłączanie z dwóch faz grozi zniszczeniem sprzętu i porażeniem.",
+    "verified": true
+  },
+  "bezpieczenstwo:24": {
+    "a": 2,
+    "e": "Rezystancja uziemienia stacji powinna być poniżej 10 Ω.",
+    "verified": true
+  },
+  "bezpieczenstwo:25": {
+    "a": 2,
+    "e": "Przy pożarze odłącz zasilanie, gaszenie, w razie potrzeby straż pożarna.",
+    "verified": true
+  },
+  "bezpieczenstwo:26": {
+    "a": 2,
+    "e": "Transformator ochronny ogranicza ryzyko porażenia przy pracy pod napięciem.",
+    "verified": true
+  },
+  "bezpieczenstwo:27": {
+    "a": 2,
+    "e": "Płucz oko wodą; jeśli nie pomoże — lekarz.",
+    "verified": true
+  },
+  "bezpieczenstwo:28": {
+    "a": 0,
+    "e": "Zacznij od najwyższego zakresu pomiarowego.",
+    "verified": true
+  },
+  "bezpieczenstwo:29": {
+    "a": 2,
+    "e": "Przy pracy pod napięciem zapewnij obecność drugiej osoby.",
+    "verified": true
+  },
+  "bezpieczenstwo:30": {
+    "a": 1,
+    "e": "Bezpiecznika nie wolno zastępować drutem.",
+    "verified": true
+  },
+  "bezpieczenstwo:31": {
+    "a": 2,
+    "e": "Trzymaj antenę UKF z dala od głowy — ponad głową, mikrofon przy ustach.",
+    "verified": true
+  },
+  "bezpieczenstwo:32": {
+    "a": 1,
+    "e": "Po wyłączeniu zasilania poczekaj na rozładowanie kondensatorów zasilacza.",
+    "verified": true
+  },
+  "bezpieczenstwo:33": {
+    "a": 1,
+    "e": "Antenę odłączamy od aparatury i łączymy z uziemieniem.",
+    "verified": true
+  },
+  "bezpieczenstwo:34": {
+    "a": 1,
+    "e": "Kabla antenowego nie wolno prowadzić w kanale komina.",
+    "verified": true
+  },
+  "bezpieczenstwo:35": {
+    "a": 2,
+    "e": "Na kominie stosuje się opaski, nie kołki rozporowe.",
+    "verified": true
+  },
+  "bezpieczenstwo:36": {
+    "a": 1,
+    "e": "Regulację pod napięciem wykonuj jedną ręką.",
+    "verified": true
+  },
+  "bezpieczenstwo:37": {
+    "a": 1,
+    "e": "Dużą moc zasilaj kablem w odpowiedniej izolacji (np. YDY).",
+    "verified": true
+  },
+  "bezpieczenstwo:38": {
+    "a": 2,
+    "e": "Uszkodzony ekran fidera zwiększa zakłócenia i może zmienić impedancję kabla.",
+    "verified": true
+  },
+  "bezpieczenstwo:39": {
+    "a": 1,
+    "e": "Przewód neutralny (N) oznacza się na niebiesko, ochronno-uziemiający (PE) żółto-zielonym.",
+    "verified": true
+  },
+  "bezpieczenstwo:40": {
+    "a": 2,
+    "e": "Do obudowy urządzenia podłącza się wyłącznie przewód ochronno-uziemiający (PE).",
+    "verified": true
+  },
+  "operatorka:1": {
+    "a": 1,
+    "e": "QRG informuje o częstotliwości pracy. Jako pytanie „QRG?” = „Podaj moją/twoją częstotliwość”.\nKod Q skraca wymianę — trzy litery zastępują całe zdanie, niezależnie od języka.",
+    "verified": true
+  },
+  "operatorka:2": {
+    "a": 2,
+    "e": "Przed nadawaniem upewnij się, że częstotliwość jest wolna.",
+    "verified": true
+  },
+  "operatorka:3": {
+    "a": 2,
+    "e": "Sprawdź pasmo, moc, bandplan i uprawnienia z pozwolenia.",
+    "verified": true
+  },
+  "operatorka:4": {
+    "a": 0,
+    "e": "Na przemienniku woła się „break”, a następnie znak stacji.",
+    "verified": true
+  },
+  "operatorka:5": {
+    "a": 0,
+    "e": "Dołącza się podając swój znak w przerwie nadawania innych stacji.",
+    "verified": true
+  },
+  "operatorka:6": {
+    "a": 1,
+    "e": "Problemy zakłóceń rozwiązuj amatorsko i uprzejmie z innymi stacjami.",
+    "verified": true
+  },
+  "operatorka:7": {
+    "a": 1,
+    "e": "Potwierdź wołanie o pomoc i ustal, jaka pomoc jest potrzebna.",
+    "verified": true
+  },
+  "operatorka:8": {
+    "a": 1,
+    "e": "Na paśmie 80 m w fonii SSB najczęściej używa się dolnej wstęgi bocznej (LSB).",
+    "verified": true
+  },
+  "operatorka:9": {
+    "a": 0,
+    "e": "Na UKF w fonii SSB najczęściej używa się górnej wstęgi bocznej (USB).",
+    "verified": true
+  },
+  "operatorka:10": {
+    "a": 0,
+    "e": "QSY = zmień częstotliwość. „QSY 7120” znaczy: przejdźmy na 7120 kHz.\nCzęsto wywołujemy QSY, gdy nasze QSO przeszkadza innym (QRM).",
+    "verified": true
+  },
+  "operatorka:11": {
+    "a": 2,
+    "e": "Kod QRM ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „mam zakłócenia od innych stacji”.",
+    "verified": true
+  },
+  "operatorka:12": {
+    "a": 1,
+    "e": "Kod QRN ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „mam zakłócenia atmosferyczne”.",
+    "verified": true
+  },
+  "operatorka:13": {
+    "a": 0,
+    "e": "Kod QSB ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „siła twoich sygnałów waha się”.",
+    "verified": true
+  },
+  "operatorka:14": {
+    "a": 1,
+    "e": "Kod QRV ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „jestem gotów do pracy, jestem czynny w eterze”.",
+    "verified": true
+  },
+  "operatorka:15": {
+    "a": 2,
+    "e": "QTH to lokalizacja stacji (miejscowość lub lokator). „QTH Warszawa” = jestem w Warszawie.\nW zawodach zamiast QTH często wymienia się lokator (np. JO91).",
+    "verified": true
+  },
+  "operatorka:16": {
+    "a": 1,
+    "e": "QRP = zmniejsz moc. Ruch QRP to praca małą mocą (do 5 W CW / 10 W SSB) — sport dla ambitnych.\nPrzeciwieństwo to QRO — zwiększ moc.",
+    "verified": true
+  },
+  "operatorka:17": {
+    "a": 1,
+    "e": "Kod QTC ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „na jaką częstotliwość mam się przestroić”.",
+    "verified": true
+  },
+  "operatorka:18": {
+    "a": 1,
+    "e": "QSO to po prostu łączność, rozmowa dwóch stacji. „Zrobiłem QSO” = nawiązałem łączność.\nPotwierdzeniem QSO jest karta QSL.",
+    "verified": true
+  },
+  "operatorka:19": {
+    "a": 0,
+    "e": "QSL = potwierdzam odbiór. Karta QSL to papierowe (lub elektroniczne) potwierdzenie łączności.\n„QSL?” pyta: czy potwierdzasz odbiór?",
+    "verified": true
+  },
+  "operatorka:20": {
+    "a": 1,
+    "e": "RX oznacza odbiornik (receiver).",
+    "verified": true
+  },
+  "operatorka:21": {
+    "a": 0,
+    "e": "Unlis = nielicencjonowany nadawca.",
+    "verified": true
+  },
+  "operatorka:22": {
+    "a": 2,
+    "e": "YL (young lady) oznacza pannę, młodą panią.",
+    "verified": true
+  },
+  "operatorka:23": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „proszę powtórzyć, powtórzę, powtarzam”.",
+    "verified": true
+  },
+  "operatorka:24": {
+    "a": 0,
+    "e": "Raport podaje się na początku łączności i na życzenie korespondenta.",
+    "verified": true
+  },
+  "operatorka:25": {
+    "a": 2,
+    "e": "Do obsługi stacji upoważnia dopiero pozwolenie radiowe, nie sam egzamin.",
+    "verified": true
+  },
+  "operatorka:26": {
+    "a": 2,
+    "e": "Znak wywoławczy to unikalna kombinacja liter i cyfr identyfikująca stację.",
+    "verified": true
+  },
+  "operatorka:27": {
+    "a": 0,
+    "e": "LOG to dziennik stacji amatorskiej (logbook).",
+    "verified": true
+  },
+  "operatorka:28": {
+    "a": 1,
+    "e": "Prowadzenie logu nie jest obowiązkowe, lecz jest wskazane.",
+    "verified": true
+  },
+  "operatorka:29": {
+    "a": 0,
+    "e": "UTC to czas uniwersalny (odpowiednik GMT), stosowany w dziennikach łączności.",
+    "verified": true
+  },
+  "operatorka:30": {
+    "a": 0,
+    "e": "Kod Q to trzy litery zaczynające się od Q, skracające typowe komunikaty.",
+    "verified": true
+  },
+  "operatorka:31": {
+    "a": 1,
+    "e": "Kod Q skraca wymianę informacji w łączności.",
+    "verified": true
+  },
+  "operatorka:32": {
+    "a": 1,
+    "e": "Kod QRL ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „jestem zajęty, proszę nie przeszkadzać”.",
+    "verified": true
+  },
+  "operatorka:33": {
+    "a": 1,
+    "e": "QRT = kończę pracę, wyłączam nadajnik. „Idę QRT” = kończę na dziś.\nNie myl z QRX (proszę czekać) ani QRZ (kto mnie woła).",
+    "verified": true
+  },
+  "operatorka:34": {
+    "a": 1,
+    "e": "Kod QRZ ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „kto mnie woła”.",
+    "verified": true
+  },
+  "operatorka:35": {
+    "a": 0,
+    "e": "Kod QRX ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „proszę czekać”.",
+    "verified": true
+  },
+  "operatorka:36": {
+    "a": 1,
+    "e": "Kod QRO ma ustalone znaczenie w łączności radiowej amatorskiej; poprawna odpowiedź to „zwiększ moc, zwiększam moc”.",
+    "verified": true
+  },
+  "operatorka:37": {
+    "a": 1,
+    "e": "Kod QRG oznacza: QRG.",
+    "verified": true
+  },
+  "operatorka:38": {
+    "a": 0,
+    "e": "Kod QSY oznacza: QSY.",
+    "verified": true
+  },
+  "operatorka:39": {
+    "a": 2,
+    "e": "Kod QRM oznacza: QRM operatorskie - Wersja 3..",
+    "verified": true
+  },
+  "operatorka:40": {
+    "a": 0,
+    "e": "Kod QSB oznacza: QSB.",
+    "verified": true
+  },
+  "operatorka:41": {
+    "a": 1,
+    "e": "Kod QRV oznacza: QRV.",
+    "verified": true
+  },
+  "operatorka:42": {
+    "a": 2,
+    "e": "Kod QTH oznacza: QTH.",
+    "verified": true
+  },
+  "operatorka:43": {
+    "a": 2,
+    "e": "Kod QRP oznacza: QRP.",
+    "verified": true
+  },
+  "operatorka:44": {
+    "a": 1,
+    "e": "Kod QTC oznacza: QTC.",
+    "verified": true
+  },
+  "operatorka:45": {
+    "a": 1,
+    "e": "Kod QSO oznacza: QSO.",
+    "verified": true
+  },
+  "operatorka:46": {
+    "a": 0,
+    "e": "Kod QSL oznacza: QSL.",
+    "verified": true
+  },
+  "operatorka:47": {
+    "a": 0,
+    "e": "BAND = pasmo, CFM = potwierdzam (confirm).",
+    "verified": true
+  },
+  "operatorka:48": {
+    "a": 1,
+    "e": "BK = przerwa (break), CALL = znak wywoławczy.",
+    "verified": true
+  },
+  "operatorka:49": {
+    "a": 1,
+    "e": "BEST = najlepszy, DX = daleka łączność.",
+    "verified": true
+  },
+  "operatorka:50": {
+    "a": 0,
+    "e": "BCI = zakłócenia odbioru radiowego, BOX = skrytka pocztowa.",
+    "verified": true
+  },
+  "operatorka:51": {
+    "a": 1,
+    "e": "OK = wszystko w porządku, NAME = imię.",
+    "verified": true
+  },
+  "operatorka:52": {
+    "a": 1,
+    "e": "SWR = współczynnik fali stojącej, RX = odbiornik.",
+    "verified": true
+  },
+  "operatorka:53": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „YL; UTC”.",
+    "verified": true
+  },
+  "operatorka:54": {
+    "a": 0,
+    "e": "PSE = proszę, RPT = powtórzyć.",
+    "verified": true
+  },
+  "operatorka:55": {
+    "a": 1,
+    "e": "55 = ściskam dłoń, UTC = czas uniwersalny.",
+    "verified": true
+  },
+  "operatorka:56": {
+    "a": 1,
+    "e": "LOG = dziennik łączności, DIRECT = bezpośrednio.",
+    "verified": true
+  },
+  "operatorka:57": {
+    "a": 2,
+    "e": "Raport RS opisuje czytelność (R) i siłę sygnału (S).",
+    "verified": true
+  },
+  "operatorka:58": {
+    "a": 1,
+    "e": "Raport RST w telegrafii: czytelność, siła i ton.",
+    "verified": true
+  },
+  "operatorka:59": {
+    "a": 2,
+    "e": "R = czytelność, S = siła sygnału.",
+    "verified": true
+  },
+  "operatorka:60": {
+    "a": 0,
+    "e": "R = czytelność, S = siła sygnału, T = ton.",
+    "verified": true
+  },
+  "operatorka:61": {
+    "a": 0,
+    "e": "Skala czytelności 1–5, siły sygnału 1–9.",
+    "verified": true
+  },
+  "operatorka:62": {
+    "a": 0,
+    "e": "59 = dobrze czytelny, bardzo silny sygnał.",
+    "verified": true
+  },
+  "operatorka:63": {
+    "a": 1,
+    "e": "43 = czytelny, słaby sygnał.",
+    "verified": true
+  },
+  "operatorka:64": {
+    "a": 1,
+    "e": "5 = doskonale czytelny, 9 = bardzo silny, 9 = bardzo czysty ton. „Pięć-dziewięć-dziewięć” to raport wzorcowy.\nW zawodach niemal zawsze wysyła się 599, nawet gdy sygnał jest słabszy — liczy się tempo.",
+    "verified": true
+  },
+  "operatorka:65": {
+    "a": 1,
+    "e": "438 = czytelny z trudnościami, słaby, bardzo dobry ton.",
+    "verified": true
+  },
+  "operatorka:66": {
+    "a": 2,
+    "e": "Okręg wywoławczy to zwyczajowo jedno–dwa województwa.",
+    "verified": true
+  },
+  "operatorka:67": {
+    "a": 0,
+    "e": "Bandplan IARU dzieli pasma na segmenty dla rodzajów emisji.",
+    "verified": true
+  },
+  "operatorka:68": {
+    "a": 2,
+    "e": "Naruszenie bandplanu to zła praktyka, choć sam bandplan to zalecenie.",
+    "verified": true
+  },
+  "operatorka:69": {
+    "a": 2,
+    "e": "IARU ma odrębne bandplany dla trzech regionów ITU.",
+    "verified": true
+  },
+  "operatorka:70": {
+    "a": 0,
+    "e": "Bandplan IARU ma charakter zalecenia, nie przepisu.",
+    "verified": true
+  },
+  "operatorka:71": {
+    "a": 2,
+    "e": "Przy łączności ratunkowej nie przeszkadzaj; w razie potrzeby pomóż.",
+    "verified": true
+  },
+  "operatorka:72": {
+    "a": 0,
+    "e": "Znak wywoławczy jest unikalny w skali świata.",
+    "verified": true
+  },
+  "operatorka:73": {
+    "a": 0,
+    "e": "Raport S wymaga działającego S-metra.",
+    "verified": true
+  },
+  "operatorka:74": {
+    "a": 2,
+    "e": "Stacja skierowana na Pacyfik nie oczekuje teraz łączności z Europą.",
+    "verified": true
+  },
+  "operatorka:75": {
+    "a": 1,
+    "e": "Podawanie znaku wywoławczego jest obowiązkowe.",
+    "verified": true
+  },
+  "prawo:1": {
+    "a": 1,
+    "e": "ITU ustala ogólnoświatowe zasady telekomunikacji.",
+    "verified": true
+  },
+  "prawo:2": {
+    "a": 1,
+    "e": "Poprawna odpowiedź: „wolno tylko w sytuacji kiedy słychać tam inną stację amatorską”.",
+    "verified": true
+  },
+  "prawo:3": {
+    "a": 1,
+    "e": "Nieuprawnioną transmisję w paśmie amatorskim zgłaszamy do UKE.",
+    "verified": true
+  },
+  "prawo:4": {
+    "a": 1,
+    "e": "USB na 40 m jest dozwolone w określonych wycinkach pasma.",
+    "verified": true
+  },
+  "prawo:5": {
+    "a": 1,
+    "e": "Zasady służby amatorskiej określa Regulamin Radiokomunikacyjny ITU.",
+    "verified": true
+  },
+  "prawo:6": {
+    "a": 1,
+    "e": "Polska leży w Regionie 1 ITU.",
+    "verified": true
+  },
+  "prawo:7": {
+    "a": 2,
+    "e": "RR ITU zaleca wykorzystanie stacji amatorskich w klęskach i katastrofach.",
+    "verified": true
+  },
+  "prawo:8": {
+    "a": 0,
+    "e": "Znaki nadaje administracja krajowa; RR nie reguluje szczegółów przyznawania znaków.",
+    "verified": true
+  },
+  "prawo:9": {
+    "a": 0,
+    "e": "Postanowienia RR dotyczące służby amatorskiej obejmują też służbę satelitarną.",
+    "verified": true
+  },
+  "prawo:10": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tak, może”.",
+    "verified": true
+  },
+  "prawo:11": {
+    "a": 1,
+    "e": "CEPT T/R 61-01 pozwala pracować do 3 miesięcy (90 dni) bez lokalnego pozwolenia.",
+    "verified": true
+  },
+  "prawo:12": {
+    "a": 2,
+    "e": "Moc wyjściową określa krajowy regulator (UKE).",
+    "verified": true
+  },
+  "prawo:13": {
+    "a": 1,
+    "e": "IARU zrzesza krajowe związki krótkofalowców (w Polsce PZK) i reprezentuje nas m.in. w ITU.\nDba o bandplany i broni amatorskich pasm na konferencjach radiokomunikacyjnych.",
+    "verified": true
+  },
+  "prawo:14": {
+    "a": 1,
+    "e": "Egzaminy i pozwolenia wydaje Prezes UKE.",
+    "verified": true
+  },
+  "prawo:15": {
+    "a": 2,
+    "e": "Podstawą prawną jest ustawa Prawo komunikacji elektronicznej.",
+    "verified": true
+  },
+  "prawo:16": {
+    "a": 1,
+    "e": "Zakresy częstotliwości w Polsce określa Krajowa Tablica Przeznaczeń Częstotliwości.",
+    "verified": true
+  },
+  "prawo:17": {
+    "a": 1,
+    "e": "Służba pierwszej ważności może żądać ochrony przed zakłóceniami.",
+    "verified": true
+  },
+  "prawo:18": {
+    "a": 1,
+    "e": "Służba drugiej ważności nie może żądać ochrony przed służbami pierwszej ważności.",
+    "verified": true
+  },
+  "prawo:19": {
+    "a": 1,
+    "e": "Kategorie pozwoleń i moce określa rozporządzenie ministra.",
+    "verified": true
+  },
+  "prawo:20": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „do uzyskania pozwolenia amatorskiego kategorii 1 lub kategorii 3”.",
+    "verified": true
+  },
+  "prawo:21": {
+    "a": 1,
+    "e": "Egzamin nie upoważnia do pozwolenia dodatkowego.",
+    "verified": true
+  },
+  "prawo:22": {
+    "a": 0,
+    "e": "Pozwolenia kat. 1 i 3 wydaje się na 25 lat.",
+    "verified": true
+  },
+  "prawo:23": {
+    "a": 0,
+    "e": "Pozwolenie klubowe kat. 5 wydaje się na 5 lat.",
+    "verified": true
+  },
+  "prawo:24": {
+    "a": 0,
+    "e": "Kat. 1: maks. 50 W (wg materiałów egzaminacyjnych kat. 1).",
+    "verified": true
+  },
+  "prawo:25": {
+    "a": 0,
+    "e": "Kat. 3: maks. 15 W.",
+    "verified": true
+  },
+  "prawo:26": {
+    "a": 0,
+    "e": "Kat. 5: 50 W poniżej 30 MHz, 15 W powyżej.",
+    "verified": true
+  },
+  "prawo:27": {
+    "a": 0,
+    "e": "Pozwolenie dodatkowe: do 500 W.",
+    "verified": true
+  },
+  "prawo:28": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „3500 - 3800 kHz oraz 7000 - 7300 kHz”.",
+    "verified": true
+  },
+  "prawo:29": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „28000-29900 kHz oraz 144-146 MHz”.",
+    "verified": true
+  },
+  "prawo:30": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wyłącznie emisją A1A (telegrafia)”.",
+    "verified": true
+  },
+  "prawo:31": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „wyłącznie emisją A1A (telegrafia) z mocą wyjściową 150 watów”.",
+    "verified": true
+  },
+  "prawo:32": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „rozporządzenie ministra właściwego do spraw cyfryzacji”.",
+    "verified": true
+  },
+  "prawo:33": {
+    "a": 0,
+    "e": "Wiadomości przypadkowo odebrane nie wolno rozpowszechniać.",
+    "verified": true
+  },
+  "prawo:34": {
+    "a": 0,
+    "e": "Znak podaje się co najmniej na początku i końcu; częściej w miarę możliwości.",
+    "verified": true
+  },
+  "prawo:35": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „urządzenia radiowe nadawcze lub nadawczo-odbiorcze wraz z systemem albo systemami antenowymi niezbędne do wykonywania w jednej lokalizacji służby radiokomunikacyjnej amatorskiej”.",
+    "verified": true
+  },
+  "prawo:36": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „100 W”.",
+    "verified": true
+  },
+  "prawo:37": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „tak, pozwolenia kategorii 1 mogą być wydawane osobie prawnej, w tym terenowej jednostce organizacyjnej stowarzyszenia posiadającego osobowość prawną, a także stowarzyszeniu zwykłemu”.",
+    "verified": true
+  },
+  "prawo:38": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „za pomocą adresu”.",
+    "verified": true
+  },
+  "prawo:39": {
+    "a": 2,
+    "e": "Papierowy dziennik łączności nie jest obowiązkowy.",
+    "verified": true
+  },
+  "prawo:40": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „należy posiadać zaświadczenie o pozytywnym wyniku egzaminu z wiedzy i umiejętności osoby ubiegającej się o pozwolenie i odbyć trzymiesięczną praktykę na stacji klubowej”.",
+    "verified": true
+  },
+  "prawo:41": {
+    "a": 1,
+    "e": "Znak wywoławczy przydzielany jest w pozwoleniu radiowym, nie od razu po egzaminie.",
+    "verified": true
+  },
+  "prawo:42": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „prefiksu, cyfry i maksymalnie 4 znaków z czego ostatni musi być literą”.",
+    "verified": true
+  },
+  "prawo:43": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Bil, fox”.",
+    "verified": true
+  },
+  "prawo:44": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „Charlie, golf”.",
+    "verified": true
+  },
+  "prawo:45": {
+    "a": 2,
+    "e": "I = India, K = Kilo w alfabecie ITU.",
+    "verified": true
+  },
+  "prawo:46": {
+    "a": 1,
+    "e": "R = Romeo, V = Victor w alfabecie ITU.",
+    "verified": true
+  },
+  "prawo:47": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „X-Ray, Sierra”.",
+    "verified": true
+  },
+  "prawo:48": {
+    "a": 0,
+    "e": "Polskie prefiksy: HF, SN, SO, SP, SQ, SR, 3Z.",
+    "verified": true
+  },
+  "prawo:49": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „1810 kHz - 1950 kHz”.",
+    "verified": true
+  },
+  "prawo:50": {
+    "a": 2,
+    "e": "Pasmo 80 m to 3500–3800 kHz. Dolny odcinek to CW, wyżej pracuje SSB (LSB).\nZapamiętaj granice krańcowe: 3500 i 3800.",
+    "verified": true
+  },
+  "prawo:51": {
+    "a": 0,
+    "e": "Pasmo 40 m to 7000–7200 kHz. Świetne o każdej porze doby, popularne wieczorami na łączności krajowe i DX.\nDolny skraj (od 7000) to segment CW.",
+    "verified": true
+  },
+  "prawo:52": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „10050 kHz - 10200 kHz”.",
+    "verified": true
+  },
+  "prawo:53": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „14000 kHz - 14350 kHz”.",
+    "verified": true
+  },
+  "prawo:54": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „18050 kHz - 18250 kHz”.",
+    "verified": true
+  },
+  "prawo:55": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „21000 kHz - 21500 kHz”.",
+    "verified": true
+  },
+  "prawo:56": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „24690 kHz - 24990 kHz”.",
+    "verified": true
+  },
+  "prawo:57": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „28500 kHz - 29800 kHz”.",
+    "verified": true
+  },
+  "prawo:58": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „50 MHz - 54 MHz”.",
+    "verified": true
+  },
+  "prawo:59": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „144 MHz - 146 MHz”.",
+    "verified": true
+  },
+  "prawo:60": {
+    "a": 0,
+    "e": "Odstęp nadawczo-odbiorczy na 2 m wynosi 600 kHz.",
+    "verified": true
+  },
+  "prawo:61": {
+    "a": 0,
+    "e": "Prefiks kraju stoi na początku znaku wywoławczego.",
+    "verified": true
+  },
+  "prawo:62": {
+    "a": 0,
+    "e": "HF to polski prefiks — pytanie dotyczy prefiksu obcego (np. W = Ameryka Północna).",
+    "verified": true
+  },
+  "prawo:63": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „W”.",
+    "verified": true
+  },
+  "prawo:64": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „stacja nadaje niezgodnie z przepisami”.",
+    "verified": true
+  },
+  "prawo:65": {
+    "a": 0,
+    "e": "Moc nie większa niż w pozwoleniu.",
+    "verified": true
+  },
+  "prawo:66": {
+    "a": 2,
+    "e": "W Niemczech można pracować z własną stacją po spełnieniu wymogów CEPT (własny znak z prefiksem kraju).",
+    "verified": true
+  },
+  "prawo:67": {
+    "a": 0,
+    "e": "USA, Kanada i Izrael — nadawanie po wypełnieniu formularza.",
+    "verified": true
+  },
+  "prawo:68": {
+    "a": 0,
+    "e": "Poprawna odpowiedź: „nie, stacje mają zakaz transmisji sygnałów zbędnych, nieużytecznych, fałszywych lub wprowadzających w błąd”.",
+    "verified": true
+  }
+}

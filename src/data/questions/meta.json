@@ -1,0 +1,25 @@
+{
+  "version": "kategoria_1_v3",
+  "total": 521,
+  "verified": 521,
+  "unverified": 0,
+  "developed": 0,
+  "departments": {
+    "radiotechnika": {
+      "total": 338,
+      "verified": 338
+    },
+    "bezpieczenstwo": {
+      "total": 40,
+      "verified": 40
+    },
+    "operatorka": {
+      "total": 75,
+      "verified": 75
+    },
+    "prawo": {
+      "total": 68,
+      "verified": 68
+    }
+  }
+}

@@ -61,6 +61,7 @@ export function ExamView({ model, dispatch }: ExamViewProps) {
         masteryBars={exam.dash.bars}
         weightBars={exam.dash.weights}
         departmentProgress={exam.departmentProgress}
+        bankProgress={exam.bankProgress}
         departmentPicker={
           <ExamDepartmentPicker
             selected={exam.selectedDepartments}

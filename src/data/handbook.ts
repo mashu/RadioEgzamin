@@ -2,6 +2,20 @@ import type { HandbookSection } from '@/types/domain';
 
 export const HANDBOOK = [
   {
+    id: "h-exam", topic: "przepisy", title: "Struktura egzaminu kategorii 1",
+    body: [
+      { p: "Egzamin na świadectwo klasy A (kategoria 1) składa się z czterech działów zgodnych z podziałem UKE. W aplikacji masz pełną bazę 521 pytań z oficjalnych materiałów (wersja 3) — po jednej sesji ćwiczysz 8 losowych pytań z każdego wybranego działu." },
+      { tip: "Radiotechnika (338 pytań) obejmuje obwody, elementy, fale, modulacje, nadajniki/odbiorniki, anteny i pomiary. Bezpieczeństwo (40), operatorka/kod Q (75) i prawo (68) to osobne działy — na egzaminie każdy ma własną część." },
+      { calc: [
+        ["Dział 1", "338 pytań · radioelektronika"],
+        ["Dział 2", "40 pytań · BHP"],
+        ["Dział 3", "75 pytań · procedury, kod Q"],
+        ["Dział 4", "68 pytań · przepisy, pasma"],
+      ]},
+      { p: "Postęp „przerobione” na pulpicie liczy unikalne pytania, na które odpowiedziałeś choć raz — cel to przejść całą bazę, nie tylko jedną sesję 32 pytań." },
+    ],
+  },
+  {
     id: "h-ohm", topic: "elektro", title: "Prawo Ohma i moc",
     body: [
       { p: "Wyobraź sobie rurę z wodą: ciśnienie na wlocie to napięcie U (wolty), przepływ wody to prąd I (ampery), a wąska rurka albo zatkany filtr to opór R (omy). Im większe ciśnienie przy tym samym oporze — tym większy przepływ. Im większy opór przy tym samym ciśnieniu — tym mniejszy przepływ. Dokładnie tak działa prawo Ohma: U = I·R." },
@@ -93,19 +107,42 @@ export const HANDBOOK = [
     id: "h-rx", topic: "nadodb", title: "Nadajniki i odbiorniki",
     body: [
       { p: "Odbiornik superheterodynowy to standard radiowy — zamiast wzmacniać sygnał na częstotliwości odbioru, przesuwa go na stałą p.cz. (np. 9 MHz), gdzie łatwo zbudować filtry i wzmacniacze." },
-      { tip: "Trzy schematy do egzaminu: odbiornik superheterodynowy (7 bloków + heterodyna i BFO), zasilacz nadajnika oraz tor nadawczy. Przełącz zakładki i klikaj bloki — kolejność pada na egzaminie." },
+      { tip: "Schematy blokowe z egzaminu mają ponumerowane bloki — poniżej interaktywny lab oraz statyczne wersje jak w PDF (AM, SSB, FM, nadajniki)." },
       { interactive: "superhet" },
-      { p: "Zasilacz nadajnika: transformator → prostownik → filtr. Pamiętaj Û = U_sk·√2 na kondensatorze filtra. Sztuczne obciążenie 50 Ω pozwala mierzyć nadajnik bez promieniowania." },
+      { charts: ["rx-am-single", "rx-double-ssb", "rx-fm-144"] },
+      { p: "Zasilacz nadajnika: transformator → prostownik → filtr. Poniżej schematy obwodów prostowników — jedno-, dwupołówkowy i mostkowy." },
+      { charts: ["circuit-rect-half", "circuit-rect-full", "circuit-rect-bridge"] },
+      { p: "Pętla PLL, nadajniki CW/SSB i odbiornik homodynowy — każdy schemat ma ponumerowane bloki jak w materiałach UKE." },
+      { charts: ["pll", "tx-cw-single", "tx-ssb", "rx-homodyne"] },
+      { p: "Detektor diodowy i układ tranzystorowy z R1, R2, C1 — rozpoznawaj elementy po roli w obwodzie." },
+      { charts: ["detector-diode", "transistor-bias"] },
+      { p: "Sztuczne obciążenie 50 Ω pozwala mierzyć nadajnik bez promieniowania. Pamiętaj Û = U_sk·√2 na kondensatorze filtra." },
     ],
   },
   {
     id: "h-ant", topic: "anteny", title: "Anteny i linie zasilające",
     body: [
-      { p: "Antena zamienia napięcie/prąd z kabla na falę EM. Dipol λ/2 promieniuje prostopadle do drutu (charakterystyka „ósemkowa”). GP λ/4 promieniuje dookólnie. Yagi skupia energię wiązką — reflektor, radiator, direktory." },
+      { p: "Antena zamienia napięcie/prąd z kabla na falę EM. Dipol λ/2 promieniuje prostopadle do drutu (charakterystyka „ósemkowa”). GP ćwierćfalowa promieniuje dookólnie. Yagi skupia energię wiązką — reflektor, radiator, direktory." },
+      { tip: "Na egzaminie pada numeracja elementów Yagi — reflektor (1), wibrator (2), direktory (3, 4…). Poniżej schemat z numerami jak w arkuszu." },
+      { charts: ["yagi-elements"] },
       { tip: "Zysk w dBi (względem izotropu) lub dBd (względem dipola): dBi = dBd + 2,15. Kabel 50 Ω + antena 50 Ω = dopasowanie. Inaczej — fala stojąca i straty." },
       { interactive: "swr" },
+      { p: "Balun (np. 4:1) dopasowuje impedancję dipolu (~70 Ω) do kabla 50 Ω. Przy antenie niesymetrycznej (GP) prąd wraca po ekranie coax — uziem ekran u podstawy masztu, nie w shacku." },
       { p: "Charakterystyki kierunkowe typowych anten:" },
       { charts: ["polar-dipole", "polar-vertical", "polar-yagi"] },
+    ],
+  },
+  {
+    id: "h-pomiary", topic: "pomiary", title: "Pomiary i obciążenia",
+    body: [
+      { p: "Multimetr: napięcie równolegle do obwodu, prąd szeregowo (uwaga na zakres!). Przy w.cz. mierz moc na obciążeniu 50 Ω lub mostkiem SWR — nigdy nie otwieraj obwodu anteny przy włączonym TX." },
+      { tip: "SWR = (1 + |Γ|)/(1 − |Γ|). SWR 1:1 to idealne dopasowanie; 2:1 to jeszcze akceptowalne (~11% mocy odbitej). Tunery dopasowują impedancję widzianą przez nadajnik, nie „poprawiają” anteny." },
+      { calc: [
+        ["P = U² / R", "moc na obciążeniu 50 Ω"],
+        ["SWR", "stosunek maks./min. na linii"],
+        ["Γ", "współczynnik odbicia"],
+      ]},
+      { p: "Sztuczne obciążenie 50 Ω (suchy rezystor mocy) pozwala stroić nadajnik bez promieniowania. Wattmetr w.cz. mierzy moc posuwającą się w kierunku anteny — nie myl z mocą odbitą." },
     ],
   },
   {
@@ -113,7 +150,13 @@ export const HANDBOOK = [
     body: [
       { p: "Napięcie w.cz. przy antenie może poparzyć nawet gdy nadajnik jest wyłączony (kondensatory strojenia). Zawsze: wyłącz TX → odłącz antenę → uziem przed dotknięciem. Praca na maszcie wymaga asekuracji, kasku, asysty." },
       { tip: "Kondensatory w zasilaczach trzymają ładunek godzinami — rozładuj opornikiem przed serwisem. Mierz nieznane napięcie od najwyższego zakresu. Przed burzą odłącz antenę i zewrzyj do uziemienia." },
+      { p: "Instalacja sieciowa: przewód ochronno-uziemiający PE (żółto-zielony) do obudowy, neutral N (niebieski) — nigdy odwrotnie. Do obudowy zasilacza podłącz tylko PE, nie fazę ani neutral." },
       { p: "Pierwsza pomoc przy porażeniu: zadbaj o własne bezpieczeństwo → odłącz od źródła prądu → oceń oddech i tętno → wezwij 112 → RKO 30:2 (~100–120 uciśnięć/min) jeśli nie oddycha." },
+      { calc: [
+        ["RKO dorosły", "30 uciśnięć : 2 wdechy"],
+        ["PE", "żółto-zielony · obudowa"],
+        ["N", "niebieski · przewód neutralny"],
+      ]},
     ],
   },
   {
@@ -134,6 +177,8 @@ export const HANDBOOK = [
         ["QRZ?", "kto mnie woła?"],
         ["QRV", "jestem gotów"],
         ["QRT", "kończę pracę"],
+        ["QSL?", "czy potwierdzisz odbiór?"],
+        ["QSL via", "potwierdzenie przez…"],
       ]},
       { p: "Sprawdź, czy rozpoznajesz najczęstsze skróty — na egzaminie i na paśmie." },
       { interactive: "q-quiz" },

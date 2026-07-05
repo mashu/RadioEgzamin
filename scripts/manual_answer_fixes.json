@@ -1,0 +1,170 @@
+{
+  "bezpieczenstwo:4": {
+    "a": 2,
+    "e": "Na narzędziach izolowanych podaje się dopuszczalne napięcie pracy."
+  },
+  "bezpieczenstwo:5": {
+    "a": 1,
+    "e": "Duże natężenie pola EM w pobliżu nadajników może negatywnie wpływać na zdrowie."
+  },
+  "bezpieczenstwo:17": {
+    "a": 1,
+    "e": "Zasilacz 30 A może zasilić stację pobierającą 20 A."
+  },
+  "bezpieczenstwo:19": {
+    "a": 1,
+    "e": "Najpierw własne bezpieczeństwo, odłączenie od prądu, ocena funkcji życiowych, wezwanie pomocy, RKO w razie potrzeby."
+  },
+  "bezpieczenstwo:20": {
+    "a": 2,
+    "e": "Urządzenia pod napięciem gasi się gaśnicą proszkową, nie wodą."
+  },
+  "bezpieczenstwo:29": {
+    "a": 2,
+    "e": "Przy pracy pod napięciem zapewnij obecność drugiej osoby."
+  },
+  "bezpieczenstwo:32": {
+    "a": 1,
+    "e": "Po wyłączeniu zasilania poczekaj na rozładowanie kondensatorów zasilacza."
+  },
+  "bezpieczenstwo:35": {
+    "a": 2,
+    "e": "Na kominie stosuje się opaski, nie kołki rozporowe."
+  },
+  "bezpieczenstwo:38": {
+    "a": 2,
+    "e": "Uszkodzony ekran fidera zwiększa zakłócenia i może zmienić impedancję kabla."
+  },
+  "bezpieczenstwo:39": {
+    "a": 1,
+    "e": "Przewód neutralny (N) oznacza się na niebiesko, ochronno-uziemiający (PE) żółto-zielonym."
+  },
+  "bezpieczenstwo:40": {
+    "a": 2,
+    "e": "Do obudowy urządzenia podłącza się wyłącznie przewód ochronno-uziemiający (PE)."
+  },
+  "operatorka:2": {
+    "a": 2,
+    "e": "Przed nadawaniem upewnij się, że częstotliwość jest wolna."
+  },
+  "operatorka:3": {
+    "a": 2,
+    "e": "Sprawdź pasmo, moc, bandplan i uprawnienia z pozwolenia."
+  },
+  "operatorka:4": {
+    "a": 0,
+    "e": "Na przemienniku woła się „break”, a następnie znak stacji."
+  },
+  "operatorka:5": {
+    "a": 0,
+    "e": "Dołącza się podając swój znak w przerwie nadawania innych stacji."
+  },
+  "operatorka:6": {
+    "a": 1,
+    "e": "Problemy zakłóceń rozwiązuj amatorsko i uprzejmie z innymi stacjami."
+  },
+  "operatorka:7": {
+    "a": 1,
+    "e": "Potwierdź wołanie o pomoc i ustal, jaka pomoc jest potrzebna."
+  },
+  "operatorka:8": {
+    "a": 1,
+    "e": "Na paśmie 80 m w fonii SSB najczęściej używa się dolnej wstęgi bocznej (LSB)."
+  },
+  "operatorka:9": {
+    "a": 0,
+    "e": "Na UKF w fonii SSB najczęściej używa się górnej wstęgi bocznej (USB)."
+  },
+  "operatorka:20": {
+    "a": 1,
+    "e": "RX oznacza odbiornik (receiver)."
+  },
+  "operatorka:21": {
+    "a": 0,
+    "e": "Unlis = nielicencjonowany nadawca."
+  },
+  "operatorka:22": {
+    "a": 2,
+    "e": "YL (young lady) oznacza pannę, młodą panią."
+  },
+  "operatorka:24": {
+    "a": 0,
+    "e": "Raport podaje się na początku łączności i na życzenie korespondenta."
+  },
+  "operatorka:25": {
+    "a": 2,
+    "e": "Do obsługi stacji upoważnia dopiero pozwolenie radiowe, nie sam egzamin."
+  },
+  "operatorka:26": {
+    "a": 2,
+    "e": "Znak wywoławczy to unikalna kombinacja liter i cyfr identyfikująca stację."
+  },
+  "operatorka:27": {
+    "a": 0,
+    "e": "LOG to dziennik stacji amatorskiej (logbook)."
+  },
+  "operatorka:28": {
+    "a": 1,
+    "e": "Prowadzenie logu nie jest obowiązkowe, lecz jest wskazane."
+  },
+  "operatorka:29": {
+    "a": 0,
+    "e": "UTC to czas uniwersalny (odpowiednik GMT), stosowany w dziennikach łączności."
+  },
+  "operatorka:30": {
+    "a": 0,
+    "e": "Kod Q to trzy litery zaczynające się od Q, skracające typowe komunikaty."
+  },
+  "operatorka:57": {
+    "a": 2,
+    "e": "Raport RS opisuje czytelność (R) i siłę sygnału (S)."
+  },
+  "operatorka:59": {
+    "a": 2,
+    "e": "R = czytelność, S = siła sygnału."
+  },
+  "prawo:3": {
+    "a": 1,
+    "e": "Nieuprawnioną transmisję w paśmie amatorskim zgłaszamy do UKE."
+  },
+  "prawo:11": {
+    "a": 1,
+    "e": "CEPT T/R 61-01 pozwala pracować do 3 miesięcy (90 dni) bez lokalnego pozwolenia."
+  },
+  "prawo:16": {
+    "a": 1,
+    "e": "Zakresy częstotliwości w Polsce określa Krajowa Tablica Przeznaczeń Częstotliwości."
+  },
+  "prawo:39": {
+    "a": 2,
+    "e": "Papierowy dziennik łączności nie jest obowiązkowy."
+  },
+  "prawo:41": {
+    "a": 1,
+    "e": "Znak wywoławczy przydzielany jest w pozwoleniu radiowym, nie od razu po egzaminie."
+  },
+  "prawo:45": {
+    "a": 2,
+    "e": "I = India, K = Kilo w alfabecie ITU."
+  },
+  "prawo:46": {
+    "a": 1,
+    "e": "R = Romeo, V = Victor w alfabecie ITU."
+  },
+  "prawo:66": {
+    "a": 2,
+    "e": "W Niemczech można pracować z własną stacją po spełnieniu wymogów CEPT (własny znak z prefiksem kraju)."
+  },
+  "radiotechnika:68": {
+    "a": 2,
+    "e": "Miedź ma najmniejszą rezystywność, więc najmniejszy opór przy tej samej geometrii."
+  },
+  "radiotechnika:80": {
+    "a": 1,
+    "e": "PEP = Vpeak²/(2R); Vpeak = 100 V na obciążeniu 50 Ω → PEP = 100 W."
+  },
+  "radiotechnika:240": {
+    "a": 1,
+    "e": "PEP = Vpeak²/(2R); Vpeak = 100 V na obciążeniu 50 Ω → PEP = 100 W."
+  }
+}

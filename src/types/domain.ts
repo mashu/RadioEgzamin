@@ -1,3 +1,5 @@
+import type { DepartmentId } from '@/data/departments';
+
 export type TopicId =
   | 'elektro'
   | 'ac'
@@ -17,18 +19,42 @@ export type ChartKey =
   | 'rect-half'
   | 'rect-full'
   | 'rect-bridge'
+  | 'circuit-rect-half'
+  | 'circuit-rect-full'
+  | 'circuit-rect-bridge'
   | 'bandwidth'
   | 'polar-dipole'
   | 'polar-vertical'
-  | 'polar-yagi';
+  | 'polar-yagi'
+  | 'yagi-elements'
+  | 'detector-diode'
+  | 'transistor-bias'
+  | 'pll'
+  | 'rx-am-single'
+  | 'rx-double-ssb'
+  | 'rx-homodyne'
+  | 'rx-fm-144'
+  | 'tx-cw-single'
+  | 'tx-cw-multi'
+  | 'tx-ssb';
+
+export type QuestionSource = {
+  readonly pdf: string;
+  readonly section: number;
+  readonly number: number;
+  readonly total: number;
+};
 
 export type Question = {
   readonly id: string;
+  readonly department: DepartmentId;
   readonly topic: TopicId;
   readonly q: string;
   readonly o: readonly string[];
   readonly a: number;
   readonly e: string;
+  readonly verified?: boolean;
+  readonly source?: QuestionSource;
   readonly x?: ChartKey;
 };
 
