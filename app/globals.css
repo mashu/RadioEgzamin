@@ -86,8 +86,32 @@ html, body, .rk-app {
 .rk-explain p { margin:0 0 10px; font-size:14.5px; color:#2b3b46; }
 .rk-explain p:last-child { margin-bottom:0; }
 .rk-explain-chart { margin-top:14px; }
-.rk-qdiagram { margin:16px 0 4px; padding:12px; background:var(--surface); border:1px solid var(--line); border-radius:12px; }
+.rk-qdiagram { margin:16px 0 8px; padding:16px; background:var(--surface); border:1px solid var(--line); border-radius:12px; }
 .rk-qdiagram .rk-chart { margin:0; }
+.rk-chart-exam svg { min-height:200px; max-height:320px; }
+.rk-chart-large svg { min-height:240px; max-height:none; }
+.rk-diagram-expand { display:block; width:100%; padding:0; border:none; background:transparent; cursor:pointer; text-align:inherit; }
+.rk-diagram-expand:focus-visible { outline:2px solid var(--signal); outline-offset:4px; border-radius:12px; }
+.rk-diagram-expand-hint { display:block; margin-top:8px; font-size:12px; color:var(--ink-soft); text-align:center; }
+.rk-diagram-expand:hover .rk-diagram-expand-hint { color:var(--signal); }
+.rk-diagram-modal { position:fixed; inset:0; z-index:1000; display:flex; align-items:center; justify-content:center;
+  padding:20px; background:rgba(21,35,46,.55); backdrop-filter:blur(4px); }
+.rk-diagram-modal-panel { width:min(960px,100%); max-height:min(92vh,900px); overflow:auto;
+  background:var(--surface); border-radius:16px; border:1px solid var(--line); box-shadow:0 24px 64px rgba(0,0,0,.18); }
+.rk-diagram-modal-head { display:flex; align-items:center; justify-content:space-between; gap:12px;
+  padding:16px 20px; border-bottom:1px solid var(--line); }
+.rk-diagram-modal-head h3 { margin:0; font-size:1.05rem; font-weight:600; }
+.rk-diagram-modal-close { border:none; background:var(--panel); width:36px; height:36px; border-radius:8px;
+  cursor:pointer; font-size:18px; color:var(--ink-soft); }
+.rk-diagram-modal-close:hover { background:var(--line); color:var(--ink); }
+.rk-diagram-modal-body { padding:16px 20px; }
+.rk-diagram-modal-body .rk-chart svg { min-height:260px; max-height:480px; }
+.rk-diagram-modal-foot { padding:0 20px 20px; border-top:1px solid var(--line); }
+.rk-diagram-modal-foot p { margin:14px 0 0; color:var(--ink); line-height:1.55; }
+.rk-diagram-legend { list-style:none; margin:12px 0 0; padding:0; display:grid; gap:6px; }
+.rk-diagram-legend li { display:flex; align-items:baseline; gap:10px; font-size:13px; color:var(--ink); }
+.rk-diagram-legend-num { display:inline-flex; align-items:center; justify-content:center; min-width:24px; height:24px;
+  border-radius:6px; background:#f2fafb; color:var(--signal); font-weight:700; font-size:12px; }
 
 .rk-stats { display:flex; gap:10px; margin:12px 0 14px; }
 .rk-stat { flex:1; background:var(--panel); border-radius:10px; padding:12px; text-align:center; }

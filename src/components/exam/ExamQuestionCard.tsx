@@ -79,7 +79,7 @@ export function ExamQuestionCard({
           {question.e.split('\n').map((para, k) => (
             <p key={k}>{para}</p>
           ))}
-          {question.x ? <div className="rk-explain-chart">{renderChart(question.x)}</div> : null}
+          {question.x ? <div className="rk-explain-chart">{renderChart(question.x, { large: true })}</div> : null}
         </div>
       ) : null}
     </div>

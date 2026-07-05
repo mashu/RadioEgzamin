@@ -1,41 +1,48 @@
 import { ChartFrame } from '@/components/charts/ChartFrame';
 import { CHART_COLORS as C } from '@/lib/charts/colors';
-import { Lbl, Path } from '@/components/schematic/SchematicParts';
+import {
+  CapacitorV,
+  DiodeH,
+  GroundRail,
+  Junction,
+  ResistorV,
+  WireH,
+} from '@/lib/schematic/examSymbols';
 
-export function DiodeDetectorChart() {
-  const w = 420;
-  const h = 180;
-  const y = 88;
+type DiodeDetectorChartProps = {
+  readonly large?: boolean;
+};
+
+export function DiodeDetectorChart({ large }: DiodeDetectorChartProps) {
+  const w = large ? 560 : 500;
+  const h = large ? 240 : 210;
+  const sigY = 88;
+  const gndY = 178;
+  const nodeX = 168;
+  const capX = 248;
+  const loadX = 348;
 
   return (
-    <ChartFrame title="Detektor diodowy AM" w={w} h={h}>
-      <Lbl x={36} y={y + 4} anchor="end" size={10} color={C.inkSoft}>
+    <ChartFrame title="Detektor diodowy AM" w={w} h={h} {...(large ? { large: true } : {})}>
+      <GroundRail x1={40} x2={loadX} y={gndY} />
+
+      <text x={36} y={sigY + 4} textAnchor="end" fontSize="12" fontWeight="600" fill={C.inkSoft}>
         IF
-      </Lbl>
-      <Path d={`M ${40} ${y} H ${120}`} />
-      <polygon
-        points={`${132},${y} ${124},${y - 7} ${124},${y + 7}`}
-        fill="#fff"
-        stroke={C.ink}
-        strokeWidth="2"
-      />
-      <line x1={134} y1={y - 9} x2={134} y2={y + 9} stroke={C.ink} strokeWidth="2" />
-      <Path d={`M ${134} ${y} H ${200}`} />
-      <rect x={200} y={y - 12} width="48" height="24" rx="3" fill="#fff" stroke={C.signal} strokeWidth="2" />
-      <Lbl x={224} y={y + 5} color={C.signal} size={11}>
-        C1
-      </Lbl>
-      <Path d={`M ${248} ${y} H ${300}`} />
-      <circle cx={320} cy={y} r="14" fill="none" stroke={C.ink} strokeWidth="1.8" />
-      <Lbl x={320} y={y + 5} size={9}>
-        AF
-      </Lbl>
-      <Path d={`M ${200} ${y + 12} V ${130}`} />
-      <Path d={`M ${248} ${y + 12} V ${130}`} />
-      <Path d={`M ${40} ${130} H ${320}`} />
-      <Lbl x={224} y={152} size={10} color={C.inkSoft}>
-        C1 filtruje składową w.cz. — przepuszcza audio
-      </Lbl>
+      </text>
+      <WireH x1={40} x2={100} y={sigY} />
+      <DiodeH x1={100} x2={148} y={sigY} />
+      <WireH x1={148} x2={nodeX} y={sigY} />
+      <Junction x={nodeX} y={sigY} />
+
+      <WireH x1={nodeX} x2={capX} y={sigY} />
+      <Junction x={capX} y={sigY} />
+      <CapacitorV x={capX} y1={sigY} y2={gndY} label="C1" />
+      <Junction x={capX} y={gndY} />
+
+      <WireH x1={nodeX} x2={loadX} y={sigY} />
+      <Junction x={loadX} y={sigY} />
+      <ResistorV x={loadX} y1={sigY} y2={gndY} label="R" labelSide="right" />
+      <Junction x={loadX} y={gndY} />
     </ChartFrame>
   );
 }

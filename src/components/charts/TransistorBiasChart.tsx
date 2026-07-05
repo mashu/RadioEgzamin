@@ -1,79 +1,62 @@
 import { ChartFrame } from '@/components/charts/ChartFrame';
-import { CHART_COLORS as C } from '@/lib/charts/colors';
-import { Lbl, Path } from '@/components/schematic/SchematicParts';
+import {
+  CapacitorV,
+  GroundRail,
+  Junction,
+  NpnTransistorSymbol,
+  ResistorV,
+  TransistorPinLabels,
+  VccRail,
+  WireH,
+  WireV,
+} from '@/lib/schematic/examSymbols';
 
-export function TransistorBiasChart() {
-  const w = 400;
-  const h = 240;
+type TransistorBiasChartProps = {
+  readonly large?: boolean;
+};
+
+export function TransistorBiasChart({ large }: TransistorBiasChartProps) {
+  const w = large ? 540 : 480;
+  const h = large ? 300 : 260;
+  const vccY = 32;
+  const gndY = 248;
+  const bx = 96;
+  const tx = 276;
+  const emitNodeY = 192;
+  const capX = tx + 64;
+
+  const { ports, symbol } = NpnTransistorSymbol({ cx: tx, cy: 118 });
+  const baseY = ports.base.y;
+  const reX = ports.emitter.x;
 
   return (
-    <ChartFrame title="Wzmacniacz CE z polaryzacją dzielnikiem" w={w} h={h}>
-      {/* VCC rail */}
-      <Path d="M 200 28 H 200" />
-      <line x1={188} y1={28} x2={212} y2={28} stroke={C.ink} strokeWidth="2.5" />
-      <Lbl x={200} y={18} size={10} color={C.inkSoft}>
-        +V
-      </Lbl>
-      <Path d="M 200 28 V 56" />
+    <ChartFrame title="Wzmacniacz CE — polaryzacja R1, R2, bocznik C1" w={w} h={h} {...(large ? { large: true } : {})}>
+      <GroundRail x1={bx} x2={capX} y={gndY} />
 
-      {/* Rc */}
-      <rect x={188} y={56} width="24" height="48" rx="2" fill="#fff" stroke={C.ink} strokeWidth="2" />
-      <Lbl x={200} y={78} size={9}>
-        Rc
-      </Lbl>
-      <Path d="M 200 104 V 128" />
+      <WireH x1={bx} x2={tx + 24} y={vccY} />
+      <VccRail x={tx} y={vccY} />
 
-      {/* Transistor */}
-      <circle cx={200} cy={140} r="18" fill="#fff" stroke={C.ink} strokeWidth="2" />
-      <Path d="M 200 122 V 108" />
-      <Path d="M 200 158 V 172" />
-      <Path d="M 182 132 H 200" />
-      <Path d="M 182 132 L 168 124" />
-      <Lbl x={158} y={120} anchor="end" size={9}>
-        B
-      </Lbl>
-      <Lbl x={200} y={188} size={9}>
-        E
-      </Lbl>
+      <ResistorV x={tx} y1={vccY + 4} y2={ports.collector.y} label="Rc" labelSide="right" />
 
-      {/* R1 base divider */}
-      <Path d="M 200 28 H 120" />
-      <Path d="M 120 28 V 56" />
-      <rect x={108} y={56} width="24" height="48" rx="2" fill="#fff" stroke={C.ink} strokeWidth="2" />
-      <Lbl x={120} y={78} color={C.signal} size={10}>
-        R1
-      </Lbl>
-      <Path d="M 120 104 V 132" />
+      <ResistorV x={bx} y1={vccY + 4} y2={baseY - 4} label="R1" />
+      <Junction x={bx} y={baseY} />
+      <ResistorV x={bx} y1={baseY + 4} y2={gndY} label="R2" />
+      <Junction x={bx} y={gndY} />
 
-      {/* R2 base divider */}
-      <Path d="M 120 132 V 172" />
-      <rect x={108} y={172} width="24" height="36" rx="2" fill="#fff" stroke={C.ink} strokeWidth="2" />
-      <Lbl x={120} y={192} color={C.signal} size={10}>
-        R2
-      </Lbl>
-      <Path d="M 120 208 V 220" />
+      {symbol}
+      <TransistorPinLabels ports={ports} />
+      <WireH x1={bx} x2={ports.base.x} y={baseY} />
 
-      {/* Re + C1 bypass */}
-      <Path d="M 200 172 V 188" />
-      <rect x={188} y={188} width="24" height="32" rx="2" fill="#fff" stroke={C.ink} strokeWidth="2" />
-      <Lbl x={200} y={206} size={9}>
-        Re
-      </Lbl>
-      <rect x={228} y={188} width="28" height="32" rx="3" fill="#fff" stroke={C.amber} strokeWidth="2" />
-      <Lbl x={242} y={206} color={C.amber} size={10}>
-        C1
-      </Lbl>
-      <Path d="M 212 204 H 228" />
-      <Path d="M 256 204 H 268" />
-      <Path d="M 242 188 V 172" />
-      <Path d="M 242 220 V 228" />
-      <Path d="M 120 220 H 268" />
-      <Lbl x={268} y={224} anchor="start" size={10} color={C.inkSoft}>
-        GND
-      </Lbl>
-      <Lbl x={280} y={176} anchor="start" size={9} color={C.amber}>
-        bocznik AC
-      </Lbl>
+      <WireV x={ports.emitter.x} y1={ports.emitter.y} y2={emitNodeY} />
+      <WireH x1={ports.emitter.x} x2={capX} y={emitNodeY} />
+      <Junction x={ports.emitter.x} y={emitNodeY} />
+      <Junction x={capX} y={emitNodeY} />
+
+      <ResistorV x={reX} y1={emitNodeY} y2={gndY} label="Re" labelSide="right" />
+      <Junction x={reX} y={gndY} />
+
+      <CapacitorV x={capX} y1={emitNodeY} y2={gndY} label="C1" accent />
+      <Junction x={capX} y={gndY} />
     </ChartFrame>
   );
 }
